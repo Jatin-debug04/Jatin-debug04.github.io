@@ -1,0 +1,1500 @@
+OrderID,OrderDate,CustomerID,CustomerName,Region,Category,Product,Quantity,UnitPrice,SalesRep,PaymentMethod,CustomerSegment,Revenue
+ORD100694,2024-09-06,CUST1274,Krishna Kumar,West,Office Supplies,Pen Set,3,261.41,N. Joshi,Debit Card,Returning,784.23
+ORD101575,2025-02-03,CUST1315,Aditya Singh,West,Software,Project Mgmt Tool,1,380.76,N. Joshi,Debit Card,Returning,380.76
+ORD100705,2025-01-07,CUST1285,Saanvi Chopra,West,Electronics,USB-C Hub,5,197.44,M. Gupta,Credit Card,New,987.2
+ORD100237,2025-08-03,CUST1237,Krishna Singh,South,Office Supplies,Pen Set,5,292.95,R. Verma,Wallet,Returning,1464.75
+ORD101529,2024-10-27,CUST1269,Arjun Verma,West,Electronics,27in Monitor,1,143.09,P. Iyer,Credit Card,New,143.09
+ORD100851,2025-09-09,CUST1011,Sai Singh,South,Software,VPN Subscription,1,349.59,S. Khan,Wallet,Returning,349.59
+ORD100928,2024-05-26,CUST1088,Myra Iyer,West,Electronics,27in Monitor,2,136.36,M. Gupta,Credit Card,Returning,272.72
+ORD100935,2025-11-23,CUST1095,Arjun Iyer,West,Electronics,Webcam HD,4,300.13,P. Iyer,UPI,New,1200.52
+ORD100565,2025-01-19,CUST1145,Riya Sharma,East,Electronics,Mechanical Keyboard,4,385.39,P. Iyer,UPI,Returning,1541.56
+ORD100430,2025-04-30,CUST1010,Kavya Iyer,East,Electronics,Mechanical Keyboard,2,231.22,P. Iyer,Debit Card,New,462.44
+ORD100816,2024-01-15,CUST1396,Aarav Malhotra,East,Office Supplies,Notebook Pack,1,328.37,P. Iyer,Net Banking,New,328.37
+ORD101510,2024-04-22,CUST1250,Reyansh Khan,North,Electronics,Mechanical Keyboard,2,360.96,M. Gupta,UPI,New,721.92
+ORD101336,2024-02-24,CUST1076,Vivaan Nair,South,Furniture,Office Chair,5,127.45,P. Iyer,Wallet,New,637.25
+ORD100806,2024-05-06,CUST1386,Sai Reddy,South,Software,Cloud Backup Plan,3,252.24,M. Gupta,Credit Card,Returning,756.72
+ORD100500,2025-05-04,CUST1080,Krishna Verma,East,Software,Antivirus License,1,12.2,A. Sharma,Credit Card,New,12.2
+ORD101471,2024-11-13,CUST1211,Riya Khan,North,Office Supplies,Notebook Pack,1,240.81,P. Iyer,Credit Card,Returning,240.81
+ORD100779,2025-06-26,CUST1359,Ananya Patel,West,Software,Cloud Backup Plan,2,103.9,N. Joshi,Wallet,Returning,207.8
+ORD100339,2025-10-25,CUST1339,Aditya Chopra,North,Electronics,Wireless Mouse,1,315.48,N. Joshi,UPI,Returning,315.48
+ORD100813,2024-09-15,CUST1393,Kavya Sharma,South,Furniture,Bookshelf,1,144.98,S. Khan,UPI,Returning,144.98
+ORD100621,2024-03-09,CUST1201,Navya Malhotra,West,Furniture,Bookshelf,4,284.46,M. Gupta,Net Banking,New,1137.84
+ORD101134,2024-02-14,CUST1294,Ayaan Nair,North,Office Supplies,Notebook Pack,2,319.33,R. Verma,Credit Card,New,638.66
+ORD100284,2024-07-02,CUST1284,Reyansh Joshi,North,Software,Project Mgmt Tool,1,346.7,S. Khan,Credit Card,New,346.7
+ORD101157,2024-05-20,CUST1317,Diya Reddy,South,Electronics,USB-C Hub,4,347.51,A. Sharma,Net Banking,New,1390.04
+ORD100526,2025-11-08,CUST1106,Aadhya Mehta,West,Office Supplies,Notebook Pack,5,434.37,R. Verma,Debit Card,New,2171.85
+ORD100146,2024-12-22,CUST1146,Aditya Verma,West,Furniture,Filing Cabinet,3,209.26,S. Khan,UPI,Returning,627.78
+ORD101527,2025-09-28,CUST1267,Anika Nair,South,Software,VPN Subscription,4,315.53,S. Khan,Debit Card,Returning,1262.12
+ORD101212,2025-01-18,CUST1372,Aarav Nair,North,Electronics,Mechanical Keyboard,5,333.06,N. Joshi,Net Banking,Returning,1665.3
+ORD101547,2024-08-09,CUST1287,Diya Joshi,South,Software,VPN Subscription,3,191.41,P. Iyer,Net Banking,Returning,574.23
+ORD101370,2024-08-02,CUST1110,Saanvi Joshi,West,Electronics,Webcam HD,1,154.49,R. Verma,Debit Card,New,154.49
+ORD100206,2024-05-26,CUST1206,Aadhya Reddy,South,Office Supplies,Sticky Notes,1,352.29,N. Joshi,Credit Card,New,352.29
+ORD100095,2025-05-17,CUST1095,Reyansh Reddy,North,Furniture,Filing Cabinet,1,67.99,A. Sharma,Net Banking,Returning,67.99
+ORD100901,2025-05-16,CUST1061,Sai Nair,North,Furniture,Desk Lamp,4,400.26,M. Gupta,Net Banking,New,1601.04
+ORD100147,2024-06-17,CUST1147,Aarav Chopra,North,Electronics,Wireless Mouse,1,251.94,S. Khan,Debit Card,New,251.94
+ORD100204,2025-07-26,CUST1204,Vihaan Khan,South,Office Supplies,Sticky Notes,3,297.26,S. Khan,Net Banking,Returning,891.78
+ORD100172,2024-05-25,CUST1172,Ayaan Iyer,East,Office Supplies,Pen Set,1,27.4,P. Iyer,UPI,New,27.4
+ORD101016,2024-09-05,CUST1176,Anika Agarwal,East,Office Supplies,Desk Organizer,2,361.13,R. Verma,UPI,Returning,722.26
+ORD100788,2025-10-01,CUST1368,Ananya Joshi,North,Software,Antivirus License,1,141.8,N. Joshi,Net Banking,Returning,141.8
+ORD101583,2024-03-14,CUST1323,Krishna Reddy,West,Furniture,Standing Desk,4,145.32,S. Khan,Debit Card,New,581.28
+ORD101017,2024-02-24,CUST1177,Ananya Reddy,East,Electronics,27in Monitor,4,78.84,S. Khan,UPI,Returning,315.36
+ORD100141,2024-12-03,CUST1141,Aarav Iyer,West,Office Supplies,Sticky Notes,3,198.33,P. Iyer,Net Banking,New,594.99
+ORD100111,2025-07-05,CUST1111,Krishna Mehta,East,Furniture,Filing Cabinet,2,68.67,N. Joshi,Wallet,New,137.34
+ORD100458,2024-04-08,CUST1038,Riya Sharma,West,Electronics,Wireless Mouse,2,390.15,S. Khan,UPI,New,780.3
+ORD101138,2024-06-16,CUST1298,Aarav Kumar,South,Office Supplies,Desk Organizer,2,359.76,M. Gupta,Credit Card,New,719.52
+ORD101084,2024-02-27,CUST1244,Ishaan Agarwal,South,Software,Antivirus License,4,105.24,N. Joshi,Credit Card,New,420.96
+ORD100648,2025-04-07,CUST1228,Navya Malhotra,North,Office Supplies,Notebook Pack,1,223.86,M. Gupta,UPI,Returning,223.86
+ORD100503,2025-02-13,CUST1083,Ananya Nair,East,Furniture,Office Chair,3,197.14,N. Joshi,Credit Card,Returning,591.42
+ORD101484,2025-10-19,CUST1224,Ananya Khan,West,Furniture,Office Chair,2,180.83,N. Joshi,UPI,Returning,361.66
+ORD101187,2024-10-13,CUST1347,Kavya Khan,South,Electronics,USB-C Hub,1,33.02,P. Iyer,Credit Card,New,33.02
+ORD100140,2025-03-21,CUST1140,Ishaan Kumar,West,Office Supplies,Sticky Notes,4,140.49,N. Joshi,UPI,New,561.96
+ORD101599,2024-12-02,CUST1339,Diya Mehta,South,Electronics,Webcam HD,5,422.96,S. Khan,Credit Card,New,2114.8
+ORD100872,2025-12-25,CUST1032,Kavya Gupta,West,Software,Cloud Backup Plan,3,431.46,R. Verma,Net Banking,Returning,1294.38
+ORD100895,2024-08-28,CUST1055,Ayaan Khan,West,Office Supplies,Whiteboard,4,104.74,A. Sharma,Net Banking,Returning,418.96
+ORD100912,2024-06-02,CUST1072,Aditya Patel,South,Furniture,Bookshelf,4,256.85,R. Verma,Net Banking,Returning,1027.4
+ORD100540,2025-02-03,CUST1120,Kavya Agarwal,West,Electronics,Mechanical Keyboard,2,99.46,A. Sharma,Wallet,Returning,198.92
+ORD100698,2024-12-26,CUST1278,Aarav Gupta,East,Software,VPN Subscription,4,448.16,S. Khan,Debit Card,Returning,1792.64
+ORD101058,2025-05-13,CUST1218,Saanvi Verma,East,Electronics,USB-C Hub,1,183.82,A. Sharma,Credit Card,Returning,183.82
+ORD101195,2024-12-16,CUST1355,Arjun Verma,East,Office Supplies,Sticky Notes,2,410.83,N. Joshi,Credit Card,Returning,821.66
+ORD101076,2025-09-04,CUST1236,Aarav Kumar,South,Software,Cloud Backup Plan,1,382.16,A. Sharma,Net Banking,New,382.16
+ORD100447,2024-06-21,CUST1027,Reyansh Agarwal,West,Electronics,Webcam HD,4,432.92,M. Gupta,Net Banking,New,1731.68
+ORD100817,2025-05-24,CUST1397,Aditya Iyer,West,Office Supplies,Desk Organizer,5,190.29,A. Sharma,Net Banking,Returning,951.45
+ORD100913,2024-02-10,CUST1073,Pari Iyer,North,Furniture,Standing Desk,1,187.78,S. Khan,Wallet,Returning,187.78
+ORD100058,2025-01-09,CUST1058,Sai Singh,North,Furniture,Filing Cabinet,1,121.58,N. Joshi,Net Banking,New,121.58
+ORD101412,2024-08-01,CUST1152,Kavya Patel,East,Furniture,Filing Cabinet,3,352.01,S. Khan,Credit Card,Returning,1056.03
+ORD101237,2025-12-02,CUST1397,Sai Patel,West,Office Supplies,Pen Set,1,402.93,A. Sharma,UPI,Returning,402.93
+ORD100346,2025-04-27,CUST1346,Vivaan Mehta,South,Office Supplies,Notebook Pack,2,317.97,P. Iyer,Credit Card,Returning,635.94
+ORD100012,2025-02-14,CUST1012,Ayaan Gupta,North,Electronics,Wireless Mouse,1,175.51,S. Khan,Net Banking,Returning,175.51
+ORD101286,2025-11-25,CUST1026,Vivaan Mehta,East,Furniture,Standing Desk,5,328.31,A. Sharma,UPI,Returning,1641.55
+ORD100409,2025-08-17,CUST1409,Diya Gupta,East,Furniture,Filing Cabinet,2,83.08,A. Sharma,Net Banking,Returning,166.16
+ORD100060,2025-09-16,CUST1060,Navya Malhotra,North,Software,Antivirus License,1,288.85,A. Sharma,Debit Card,New,288.85
+ORD100071,2025-09-02,CUST1071,Ishaan Mehta,West,Office Supplies,Sticky Notes,1,76.77,S. Khan,UPI,Returning,76.77
+ORD100511,2024-10-16,CUST1091,Saanvi Iyer,East,Software,Cloud Backup Plan,4,51.02,A. Sharma,Net Banking,Returning,204.08
+ORD100043,2024-06-01,CUST1043,Reyansh Iyer,North,Furniture,Desk Lamp,1,39.56,M. Gupta,Net Banking,Returning,39.56
+ORD100370,2024-10-22,CUST1370,Kavya Mehta,West,Electronics,Mechanical Keyboard,4,330.04,R. Verma,Debit Card,Returning,1320.16
+ORD100311,2025-09-30,CUST1311,Navya Chopra,West,Furniture,Filing Cabinet,1,279.52,R. Verma,Wallet,New,279.52
+ORD101502,2024-08-22,CUST1242,Aditya Mehta,North,Office Supplies,Pen Set,1,51.29,P. Iyer,UPI,New,51.29
+ORD101450,2025-06-27,CUST1190,Ananya Kumar,North,Electronics,Wireless Mouse,1,103.8,N. Joshi,Credit Card,Returning,103.8
+ORD101201,2024-10-01,CUST1361,Krishna Iyer,North,Software,Cloud Backup Plan,1,449.06,N. Joshi,Debit Card,New,449.06
+ORD101312,2025-12-09,CUST1052,Ananya Verma,West,Office Supplies,Pen Set,2,391.19,R. Verma,Credit Card,New,782.38
+ORD100200,2025-09-07,CUST1200,Aarav Khan,South,Software,Antivirus License,2,119.56,N. Joshi,Net Banking,Returning,239.12
+ORD100115,2025-11-21,CUST1115,Aarav Mehta,West,Furniture,Standing Desk,1,278.04,P. Iyer,Credit Card,Returning,278.04
+ORD101553,2024-02-06,CUST1293,Aadhya Patel,North,Furniture,Office Chair,2,327.28,P. Iyer,UPI,Returning,654.56
+ORD101309,2025-11-16,CUST1049,Krishna Kumar,North,Furniture,Filing Cabinet,2,274.21,S. Khan,Credit Card,New,548.42
+ORD100948,2024-03-07,CUST1108,Riya Gupta,North,Electronics,27in Monitor,3,152.93,N. Joshi,Net Banking,New,458.79
+ORD101151,2025-12-02,CUST1311,Vihaan Chopra,West,Furniture,Standing Desk,5,25.28,A. Sharma,Wallet,New,126.4
+ORD100065,2025-11-05,CUST1065,Anika Singh,West,Electronics,27in Monitor,5,292.36,S. Khan,Credit Card,Returning,1461.8
+ORD100732,2024-09-28,CUST1312,Myra Singh,East,Office Supplies,Notebook Pack,1,354.2,R. Verma,UPI,New,354.2
+ORD100009,2024-12-12,CUST1009,Anika Khan,East,Furniture,Filing Cabinet,2,268.09,A. Sharma,Credit Card,Returning,536.18
+ORD100374,2024-05-18,CUST1374,Vivaan Gupta,North,Office Supplies,Pen Set,1,31.38,A. Sharma,Net Banking,Returning,31.38
+ORD100051,2024-06-04,CUST1051,Saanvi Nair,North,Software,VPN Subscription,1,63.8,S. Khan,Credit Card,Returning,63.8
+ORD100358,2024-07-08,CUST1358,Kavya Agarwal,West,Electronics,27in Monitor,5,319.12,N. Joshi,Net Banking,New,1595.6
+ORD101021,2024-06-21,CUST1181,Kavya Joshi,West,Software,Antivirus License,2,427.01,N. Joshi,Debit Card,Returning,854.02
+ORD100037,2025-12-29,CUST1037,Riya Agarwal,North,Software,VPN Subscription,5,358.48,P. Iyer,Wallet,Returning,1792.4
+ORD100922,2024-04-24,CUST1082,Aarav Reddy,North,Office Supplies,Notebook Pack,1,116.02,P. Iyer,Net Banking,New,116.02
+ORD100680,2024-04-28,CUST1260,Reyansh Kumar,East,Electronics,Webcam HD,5,69.8,M. Gupta,Credit Card,Returning,349.0
+ORD101406,2025-05-07,CUST1146,Riya Iyer,North,Electronics,Mechanical Keyboard,1,357.5,A. Sharma,Wallet,Returning,357.5
+ORD100278,2025-10-02,CUST1278,Navya Patel,South,Software,Antivirus License,1,165.14,S. Khan,Debit Card,Returning,165.14
+ORD101313,2025-03-18,CUST1053,Anika Malhotra,West,Furniture,Office Chair,1,231.47,A. Sharma,Wallet,New,231.47
+ORD101594,2025-04-22,CUST1334,Vihaan Patel,West,Office Supplies,Sticky Notes,1,301.48,S. Khan,UPI,New,301.48
+ORD101051,2024-07-29,CUST1211,Diya Verma,West,Software,Cloud Backup Plan,1,270.58,A. Sharma,Credit Card,Returning,270.58
+ORD100004,2024-11-18,CUST1004,Krishna Verma,South,Furniture,Filing Cabinet,5,182.87,R. Verma,Wallet,Returning,914.35
+ORD100188,2024-04-13,CUST1188,Sai Reddy,East,Electronics,27in Monitor,2,438.68,M. Gupta,Net Banking,Returning,877.36
+ORD101252,2025-01-18,CUST1412,Sai Singh,South,Office Supplies,Notebook Pack,3,385.25,P. Iyer,Net Banking,Returning,1155.75
+ORD101384,2024-09-13,CUST1124,Pari Verma,South,Furniture,Standing Desk,4,220.77,A. Sharma,UPI,New,883.08
+ORD101133,2024-07-03,CUST1293,Sai Chopra,South,Office Supplies,Whiteboard,4,174.63,N. Joshi,Wallet,Returning,698.52
+ORD101137,2024-11-14,CUST1297,Saanvi Kumar,South,Furniture,Filing Cabinet,4,328.11,R. Verma,UPI,New,1312.44
+ORD100286,2024-02-05,CUST1286,Kavya Khan,South,Furniture,Bookshelf,1,236.78,R. Verma,Debit Card,Returning,236.78
+ORD100099,2025-08-17,CUST1099,Riya Verma,South,Furniture,Desk Lamp,1,299.16,M. Gupta,Credit Card,New,299.16
+ORD101408,2025-05-17,CUST1148,Reyansh Iyer,West,Electronics,Webcam HD,2,388.2,A. Sharma,Credit Card,Returning,776.4
+ORD101508,2025-11-27,CUST1248,Aarav Singh,North,Office Supplies,Whiteboard,5,445.74,M. Gupta,Wallet,Returning,2228.7
+ORD100416,2024-11-13,CUST1416,Vihaan Kumar,West,Furniture,Standing Desk,3,302.16,S. Khan,UPI,Returning,906.48
+ORD100101,2024-11-22,CUST1101,Reyansh Patel,West,Software,VPN Subscription,4,65.8,S. Khan,Credit Card,Returning,263.2
+ORD100359,2024-03-23,CUST1359,Riya Reddy,East,Furniture,Desk Lamp,1,235.51,S. Khan,Net Banking,Returning,235.51
+ORD101582,2025-06-23,CUST1322,Aditya Nair,West,Software,Cloud Backup Plan,1,197.42,A. Sharma,Wallet,Returning,197.42
+ORD100127,2025-01-14,CUST1127,Ananya Nair,West,Furniture,Standing Desk,2,30.78,A. Sharma,Debit Card,New,61.56
+ORD101397,2025-07-02,CUST1137,Ayaan Nair,North,Electronics,USB-C Hub,5,47.07,R. Verma,UPI,New,235.35
+ORD100328,2025-12-29,CUST1328,Aadhya Mehta,North,Electronics,Mechanical Keyboard,4,176.65,R. Verma,Wallet,Returning,706.6
+ORD100506,2025-12-09,CUST1086,Riya Nair,East,Electronics,Mechanical Keyboard,2,419.85,S. Khan,UPI,Returning,839.7
+ORD100943,2024-07-13,CUST1103,Riya Reddy,East,Software,VPN Subscription,5,40.86,A. Sharma,Debit Card,Returning,204.3
+ORD100473,2024-01-10,CUST1053,Arjun Reddy,West,Electronics,USB-C Hub,3,158.2,N. Joshi,Wallet,Returning,474.6
+ORD101249,2025-09-04,CUST1409,Kavya Iyer,North,Software,VPN Subscription,2,165.31,N. Joshi,Wallet,Returning,330.62
+ORD100189,2024-02-25,CUST1189,Saanvi Reddy,East,Electronics,Wireless Mouse,1,197.0,R. Verma,Credit Card,New,197.0
+ORD100699,2024-10-23,CUST1279,Saanvi Singh,South,Electronics,Wireless Mouse,1,346.96,P. Iyer,Debit Card,Returning,346.96
+ORD100971,2024-10-08,CUST1131,Kavya Nair,North,Office Supplies,Notebook Pack,1,152.01,M. Gupta,Debit Card,Returning,152.01
+ORD100445,2025-01-19,CUST1025,Ananya Gupta,North,Software,Antivirus License,1,97.53,M. Gupta,UPI,New,97.53
+ORD100228,2024-06-26,CUST1228,Kavya Gupta,South,Office Supplies,Sticky Notes,4,25.96,P. Iyer,Credit Card,Returning,103.84
+ORD100113,2024-08-02,CUST1113,Ayaan Joshi,East,Electronics,Webcam HD,4,397.95,S. Khan,UPI,New,1591.8
+ORD101215,2025-01-31,CUST1375,Anika Iyer,South,Software,Antivirus License,4,429.09,M. Gupta,UPI,Returning,1716.36
+ORD100063,2025-07-21,CUST1063,Arjun Agarwal,North,Furniture,Standing Desk,2,367.37,M. Gupta,Credit Card,Returning,734.74
+ORD100707,2025-06-18,CUST1287,Krishna Reddy,West,Furniture,Desk Lamp,1,105.69,N. Joshi,Debit Card,Returning,105.69
+ORD100179,2025-10-20,CUST1179,Aditya Kumar,West,Software,Antivirus License,1,445.32,S. Khan,Net Banking,Returning,445.32
+ORD101586,2024-07-12,CUST1326,Reyansh Malhotra,North,Electronics,Mechanical Keyboard,5,338.51,N. Joshi,UPI,New,1692.55
+ORD100185,2024-08-14,CUST1185,Navya Patel,North,Electronics,Mechanical Keyboard,5,70.16,R. Verma,Credit Card,Returning,350.8
+ORD100845,2024-06-26,CUST1005,Ayaan Singh,North,Office Supplies,Whiteboard,2,55.47,M. Gupta,UPI,Returning,110.94
+ORD100117,2025-12-21,CUST1117,Sai Iyer,North,Software,Cloud Backup Plan,1,290.31,R. Verma,UPI,New,290.31
+ORD100904,2025-03-06,CUST1064,Sai Patel,South,Software,Antivirus License,1,345.87,R. Verma,Debit Card,Returning,345.87
+ORD100755,2024-09-26,CUST1335,Krishna Mehta,West,Software,VPN Subscription,3,169.12,A. Sharma,Debit Card,Returning,507.36
+ORD100348,2025-01-03,CUST1348,Sai Patel,East,Electronics,Webcam HD,3,252.61,A. Sharma,Wallet,Returning,757.83
+ORD100186,2024-04-20,CUST1186,Ayaan Mehta,West,Furniture,Standing Desk,1,178.58,S. Khan,UPI,Returning,178.58
+ORD101183,2024-12-25,CUST1343,Anika Khan,South,Furniture,Desk Lamp,2,375.37,R. Verma,UPI,New,750.74
+ORD100638,2025-02-21,CUST1218,Ananya Reddy,West,Office Supplies,Notebook Pack,5,424.58,P. Iyer,Debit Card,New,2122.9
+ORD101238,2024-05-27,CUST1398,Kavya Nair,West,Office Supplies,Notebook Pack,1,387.97,M. Gupta,UPI,Returning,387.97
+ORD100531,2024-06-13,CUST1111,Saanvi Iyer,South,Electronics,Mechanical Keyboard,5,432.19,S. Khan,Debit Card,Returning,2160.95
+ORD100027,2025-07-15,CUST1027,Navya Chopra,South,Furniture,Filing Cabinet,1,336.7,N. Joshi,Net Banking,Returning,336.7
+ORD100167,2025-03-15,CUST1167,Vihaan Agarwal,South,Office Supplies,Sticky Notes,1,124.22,M. Gupta,Net Banking,New,124.22
+ORD100354,2024-09-12,CUST1354,Reyansh Nair,West,Office Supplies,Whiteboard,1,313.96,S. Khan,UPI,New,313.96
+ORD100993,2025-05-01,CUST1153,Aditya Joshi,South,Furniture,Desk Lamp,1,33.45,P. Iyer,Wallet,New,33.45
+ORD101010,2025-07-13,CUST1170,Riya Reddy,South,Furniture,Desk Lamp,4,212.08,P. Iyer,UPI,New,848.32
+ORD101083,2024-05-01,CUST1243,Arjun Singh,South,Software,Cloud Backup Plan,1,178.08,P. Iyer,Wallet,New,178.08
+ORD100669,2025-09-21,CUST1249,Aarav Agarwal,East,Office Supplies,Desk Organizer,1,80.85,A. Sharma,Debit Card,Returning,80.85
+ORD100586,2024-03-08,CUST1166,Pari Agarwal,North,Office Supplies,Whiteboard,2,274.0,M. Gupta,Credit Card,Returning,548.0
+ORD100556,2025-10-09,CUST1136,Vihaan Gupta,West,Electronics,USB-C Hub,1,12.8,M. Gupta,Net Banking,Returning,12.8
+ORD100378,2024-05-13,CUST1378,Arjun Mehta,North,Office Supplies,Desk Organizer,4,313.34,S. Khan,Credit Card,New,1253.36
+ORD100210,2024-02-19,CUST1210,Krishna Agarwal,North,Electronics,27in Monitor,1,29.32,P. Iyer,UPI,New,29.32
+ORD101524,2024-08-28,CUST1264,Ayaan Patel,East,Furniture,Desk Lamp,1,220.97,R. Verma,Debit Card,Returning,220.97
+ORD101383,2025-10-06,CUST1123,Kavya Khan,North,Furniture,Standing Desk,1,316.68,N. Joshi,Wallet,Returning,316.68
+ORD101404,2025-03-03,CUST1144,Vivaan Gupta,North,Furniture,Standing Desk,1,186.66,M. Gupta,Wallet,New,186.66
+ORD100568,2024-03-24,CUST1148,Sai Verma,North,Furniture,Bookshelf,5,393.11,A. Sharma,Credit Card,Returning,1965.55
+ORD100717,2024-02-10,CUST1297,Anika Khan,South,Office Supplies,Sticky Notes,2,216.62,P. Iyer,Net Banking,Returning,433.24
+ORD100294,2024-06-23,CUST1294,Pari Malhotra,South,Electronics,27in Monitor,2,96.71,A. Sharma,Credit Card,Returning,193.42
+ORD100488,2025-01-19,CUST1068,Arjun Patel,West,Electronics,Wireless Mouse,1,113.22,P. Iyer,Debit Card,Returning,113.22
+ORD101216,2024-06-12,CUST1376,Ishaan Khan,West,Furniture,Desk Lamp,2,167.83,M. Gupta,Net Banking,Returning,335.66
+ORD101328,2025-11-17,CUST1068,Ananya Mehta,West,Office Supplies,Desk Organizer,4,249.75,R. Verma,Debit Card,Returning,999.0
+ORD101165,2024-10-19,CUST1325,Sai Khan,South,Electronics,USB-C Hub,1,147.66,P. Iyer,UPI,Returning,147.66
+ORD100287,2025-10-01,CUST1287,Vivaan Khan,North,Office Supplies,Notebook Pack,2,121.26,R. Verma,Credit Card,Returning,242.52
+ORD101170,2025-08-20,CUST1330,Vivaan Gupta,South,Electronics,Webcam HD,1,370.44,S. Khan,Credit Card,Returning,370.44
+ORD100017,2024-02-22,CUST1017,Krishna Joshi,East,Furniture,Standing Desk,4,374.57,P. Iyer,Debit Card,Returning,1498.28
+ORD100658,2025-01-21,CUST1238,Vivaan Kumar,East,Office Supplies,Desk Organizer,1,369.69,M. Gupta,UPI,New,369.69
+ORD101253,2024-07-16,CUST1413,Reyansh Reddy,North,Software,Cloud Backup Plan,2,383.61,A. Sharma,Wallet,New,767.22
+ORD100980,2024-04-28,CUST1140,Vihaan Reddy,West,Office Supplies,Notebook Pack,4,185.99,N. Joshi,Credit Card,Returning,743.96
+ORD100263,2025-04-29,CUST1263,Reyansh Gupta,East,Software,VPN Subscription,1,194.31,M. Gupta,Net Banking,Returning,194.31
+ORD101531,2025-02-25,CUST1271,Diya Sharma,South,Furniture,Standing Desk,1,60.16,P. Iyer,UPI,Returning,60.16
+ORD100118,2025-11-11,CUST1118,Riya Malhotra,West,Furniture,Filing Cabinet,2,308.71,M. Gupta,Net Banking,New,617.42
+ORD100407,2025-10-24,CUST1407,Kavya Malhotra,East,Office Supplies,Pen Set,1,12.56,N. Joshi,Debit Card,Returning,12.56
+ORD101152,2025-06-07,CUST1312,Vihaan Agarwal,East,Furniture,Desk Lamp,1,153.81,M. Gupta,Wallet,Returning,153.81
+ORD100507,2025-08-29,CUST1087,Ishaan Verma,South,Furniture,Office Chair,1,261.19,N. Joshi,Credit Card,Returning,261.19
+ORD101417,2024-11-17,CUST1157,Ayaan Patel,South,Electronics,Wireless Mouse,3,435.49,N. Joshi,Wallet,New,1306.47
+ORD101559,2025-08-27,CUST1299,Ishaan Khan,West,Furniture,Filing Cabinet,2,208.57,P. Iyer,Net Banking,New,417.14
+ORD101125,2024-12-04,CUST1285,Pari Agarwal,West,Office Supplies,Whiteboard,1,45.99,A. Sharma,Debit Card,Returning,45.99
+ORD101296,2025-11-13,CUST1036,Diya Reddy,West,Electronics,Mechanical Keyboard,1,338.83,R. Verma,Debit Card,Returning,338.83
+ORD100463,2024-04-27,CUST1043,Diya Sharma,South,Office Supplies,Notebook Pack,2,202.66,A. Sharma,Debit Card,New,405.32
+ORD101275,2024-04-06,CUST1015,Ishaan Khan,North,Software,Antivirus License,2,209.38,S. Khan,Credit Card,Returning,418.76
+ORD100595,2025-05-02,CUST1175,Aarav Malhotra,West,Electronics,Mechanical Keyboard,3,125.39,R. Verma,UPI,Returning,376.17
+ORD100768,2024-04-11,CUST1348,Diya Nair,West,Office Supplies,Pen Set,1,402.42,R. Verma,Wallet,New,402.42
+ORD101478,2025-05-22,CUST1218,Arjun Iyer,East,Software,VPN Subscription,2,19.02,N. Joshi,Wallet,New,38.04
+ORD100517,2024-09-19,CUST1097,Pari Singh,East,Electronics,Mechanical Keyboard,1,441.13,S. Khan,Credit Card,New,441.13
+ORD100757,2024-01-23,CUST1337,Pari Iyer,West,Software,VPN Subscription,1,403.96,P. Iyer,Credit Card,Returning,403.96
+ORD101440,2025-01-12,CUST1180,Aadhya Khan,West,Furniture,Standing Desk,1,223.63,R. Verma,UPI,Returning,223.63
+ORD100525,2025-05-19,CUST1105,Vivaan Verma,South,Office Supplies,Pen Set,4,307.25,N. Joshi,Wallet,New,1229.0
+ORD101469,2024-11-07,CUST1209,Aarav Joshi,North,Electronics,Mechanical Keyboard,1,149.28,R. Verma,Debit Card,Returning,149.28
+ORD100023,2024-11-03,CUST1023,Ananya Nair,West,Furniture,Desk Lamp,4,152.17,N. Joshi,UPI,New,608.68
+ORD101436,2025-05-12,CUST1176,Ananya Singh,West,Software,Project Mgmt Tool,3,266.91,M. Gupta,Net Banking,Returning,800.73
+ORD101073,2024-01-30,CUST1233,Pari Mehta,East,Electronics,Mechanical Keyboard,2,380.23,S. Khan,UPI,New,760.46
+ORD100454,2025-02-20,CUST1034,Vivaan Chopra,East,Electronics,27in Monitor,1,308.64,N. Joshi,Debit Card,New,308.64
+ORD100620,2025-02-21,CUST1200,Vivaan Agarwal,North,Electronics,Mechanical Keyboard,3,89.9,S. Khan,Debit Card,New,269.7
+ORD101426,2025-01-28,CUST1166,Ishaan Chopra,East,Furniture,Filing Cabinet,5,256.89,S. Khan,Credit Card,New,1284.45
+ORD100432,2025-10-18,CUST1012,Vivaan Iyer,East,Office Supplies,Whiteboard,1,440.16,P. Iyer,UPI,Returning,440.16
+ORD100498,2024-03-12,CUST1078,Aarav Gupta,East,Software,Cloud Backup Plan,4,297.3,N. Joshi,Debit Card,New,1189.2
+ORD101113,2024-05-19,CUST1273,Arjun Malhotra,South,Electronics,Wireless Mouse,2,332.36,M. Gupta,Wallet,Returning,664.72
+ORD101054,2024-03-21,CUST1214,Aadhya Agarwal,East,Electronics,Mechanical Keyboard,1,157.07,P. Iyer,Wallet,Returning,157.07
+ORD100967,2024-06-20,CUST1127,Diya Chopra,West,Electronics,Mechanical Keyboard,2,100.44,R. Verma,Wallet,New,200.88
+ORD100324,2025-05-08,CUST1324,Ayaan Reddy,East,Software,VPN Subscription,1,158.6,S. Khan,Wallet,Returning,158.6
+ORD100489,2024-05-09,CUST1069,Aarav Singh,East,Software,Cloud Backup Plan,1,408.73,N. Joshi,Debit Card,Returning,408.73
+ORD101023,2025-05-18,CUST1183,Riya Reddy,South,Software,Cloud Backup Plan,5,201.77,P. Iyer,Debit Card,Returning,1008.85
+ORD100562,2025-12-30,CUST1142,Diya Reddy,West,Furniture,Bookshelf,2,100.3,N. Joshi,UPI,New,200.6
+ORD101282,2025-02-15,CUST1022,Reyansh Gupta,West,Software,VPN Subscription,1,217.76,M. Gupta,Wallet,New,217.76
+ORD100810,2025-11-16,CUST1390,Aarav Joshi,East,Software,VPN Subscription,1,25.74,A. Sharma,Net Banking,New,25.74
+ORD101279,2025-03-06,CUST1019,Riya Malhotra,North,Software,Antivirus License,5,410.76,M. Gupta,UPI,Returning,2053.8
+ORD100015,2024-01-10,CUST1015,Kavya Patel,East,Office Supplies,Sticky Notes,1,40.38,A. Sharma,Debit Card,Returning,40.38
+ORD100668,2024-06-05,CUST1248,Riya Nair,East,Furniture,Desk Lamp,2,131.75,M. Gupta,UPI,Returning,263.5
+ORD101194,2024-03-11,CUST1354,Pari Gupta,West,Software,Antivirus License,1,209.02,R. Verma,Debit Card,Returning,209.02
+ORD100013,2024-11-17,CUST1013,Reyansh Sharma,West,Office Supplies,Sticky Notes,1,266.21,M. Gupta,Credit Card,New,266.21
+ORD100108,2025-04-27,CUST1108,Reyansh Iyer,East,Office Supplies,Whiteboard,1,237.26,S. Khan,Net Banking,New,237.26
+ORD100474,2025-09-14,CUST1054,Arjun Patel,East,Electronics,Mechanical Keyboard,4,98.26,A. Sharma,Net Banking,Returning,393.04
+ORD101548,2024-07-09,CUST1288,Anika Agarwal,South,Furniture,Filing Cabinet,1,245.45,S. Khan,UPI,New,245.45
+ORD100330,2024-01-08,CUST1330,Saanvi Patel,South,Software,VPN Subscription,2,322.76,A. Sharma,Credit Card,Returning,645.52
+ORD101525,2024-11-26,CUST1265,Aditya Chopra,East,Software,Cloud Backup Plan,2,375.78,A. Sharma,Debit Card,New,751.56
+ORD101302,2025-03-12,CUST1042,Ayaan Sharma,North,Office Supplies,Sticky Notes,1,283.09,M. Gupta,Wallet,New,283.09
+ORD100340,2025-01-26,CUST1340,Sai Agarwal,West,Furniture,Bookshelf,3,448.21,A. Sharma,UPI,New,1344.63
+ORD101266,2025-09-26,CUST1006,Ayaan Singh,North,Electronics,Webcam HD,1,78.86,R. Verma,UPI,New,78.86
+ORD100098,2025-12-27,CUST1098,Anika Gupta,South,Electronics,Wireless Mouse,3,426.79,R. Verma,Wallet,Returning,1280.37
+ORD100259,2024-04-19,CUST1259,Ayaan Chopra,East,Office Supplies,Desk Organizer,1,306.71,M. Gupta,Credit Card,Returning,306.71
+ORD101483,2024-09-24,CUST1223,Myra Nair,West,Electronics,Wireless Mouse,4,295.83,S. Khan,Net Banking,New,1183.32
+ORD100308,2024-05-31,CUST1308,Riya Chopra,South,Furniture,Desk Lamp,3,24.23,P. Iyer,Net Banking,New,72.69
+ORD101493,2025-11-24,CUST1233,Diya Khan,East,Electronics,Webcam HD,3,137.31,A. Sharma,Wallet,New,411.93
+ORD100270,2024-11-06,CUST1270,Kavya Kumar,East,Office Supplies,Notebook Pack,1,239.31,M. Gupta,Credit Card,Returning,239.31
+ORD101358,2024-02-27,CUST1098,Sai Singh,West,Electronics,Mechanical Keyboard,4,147.83,N. Joshi,UPI,New,591.32
+ORD101461,2024-12-10,CUST1201,Aditya Sharma,North,Electronics,Mechanical Keyboard,2,138.48,A. Sharma,Net Banking,Returning,276.96
+ORD100351,2025-04-30,CUST1351,Vivaan Singh,South,Office Supplies,Sticky Notes,1,78.61,R. Verma,UPI,Returning,78.61
+ORD100587,2024-10-08,CUST1167,Reyansh Sharma,West,Furniture,Standing Desk,1,62.85,M. Gupta,Credit Card,Returning,62.85
+ORD101156,2024-10-07,CUST1316,Navya Reddy,East,Furniture,Standing Desk,4,254.91,P. Iyer,Credit Card,Returning,1019.64
+ORD100096,2024-07-24,CUST1096,Sai Agarwal,North,Furniture,Standing Desk,2,357.34,M. Gupta,Debit Card,New,714.68
+ORD101533,2025-09-23,CUST1273,Aarav Nair,South,Electronics,Wireless Mouse,1,339.21,R. Verma,Debit Card,Returning,339.21
+ORD101445,2024-04-05,CUST1185,Reyansh Singh,East,Software,Antivirus License,5,253.53,R. Verma,Debit Card,Returning,1267.65
+ORD100960,2025-09-26,CUST1120,Reyansh Verma,West,Furniture,Bookshelf,4,218.33,S. Khan,UPI,Returning,873.32
+ORD100249,2025-12-14,CUST1249,Myra Agarwal,East,Software,Project Mgmt Tool,4,67.18,P. Iyer,Wallet,Returning,268.72
+ORD100024,2025-11-01,CUST1024,Ishaan Singh,East,Electronics,USB-C Hub,5,203.27,N. Joshi,Debit Card,New,1016.35
+ORD100110,2024-10-21,CUST1110,Riya Malhotra,West,Software,Cloud Backup Plan,4,403.93,R. Verma,Net Banking,New,1615.72
+ORD100868,2025-06-22,CUST1028,Myra Verma,North,Office Supplies,Whiteboard,2,69.27,N. Joshi,Wallet,New,138.54
+ORD100825,2025-08-30,CUST1405,Navya Reddy,East,Furniture,Filing Cabinet,5,439.84,S. Khan,UPI,New,2199.2
+ORD101568,2024-04-15,CUST1308,Aadhya Kumar,East,Office Supplies,Notebook Pack,4,437.49,S. Khan,Wallet,New,1749.96
+ORD100862,2025-08-13,CUST1022,Diya Chopra,North,Furniture,Desk Lamp,3,240.81,N. Joshi,Net Banking,New,722.43
+ORD100672,2024-07-19,CUST1252,Diya Gupta,South,Office Supplies,Whiteboard,3,240.49,P. Iyer,Net Banking,New,721.47
+ORD101025,2024-11-28,CUST1185,Saanvi Reddy,East,Office Supplies,Notebook Pack,2,283.87,A. Sharma,Credit Card,New,567.74
+ORD100367,2024-05-30,CUST1367,Ishaan Agarwal,North,Furniture,Filing Cabinet,3,312.6,M. Gupta,Credit Card,Returning,937.8
+ORD101172,2025-07-03,CUST1332,Anika Joshi,South,Electronics,Mechanical Keyboard,1,263.53,A. Sharma,Net Banking,Returning,263.53
+ORD100492,2024-06-08,CUST1072,Kavya Iyer,West,Office Supplies,Whiteboard,1,344.77,P. Iyer,Wallet,New,344.77
+ORD100046,2024-03-31,CUST1046,Saanvi Chopra,West,Software,Cloud Backup Plan,2,150.89,A. Sharma,Wallet,Returning,301.78
+ORD101340,2024-06-09,CUST1080,Krishna Malhotra,South,Office Supplies,Pen Set,1,153.66,A. Sharma,Credit Card,New,153.66
+ORD100344,2025-02-03,CUST1344,Vivaan Iyer,East,Office Supplies,Pen Set,3,223.03,A. Sharma,Debit Card,New,669.09
+ORD100193,2024-09-21,CUST1193,Reyansh Chopra,North,Electronics,27in Monitor,1,46.47,M. Gupta,UPI,New,46.47
+ORD101500,2024-07-17,CUST1240,Pari Sharma,North,Furniture,Bookshelf,2,293.93,A. Sharma,Credit Card,New,587.86
+ORD101063,2025-07-30,CUST1223,Ananya Malhotra,South,Electronics,USB-C Hub,3,386.89,M. Gupta,UPI,Returning,1160.67
+ORD100597,2024-09-01,CUST1177,Vihaan Sharma,North,Electronics,Mechanical Keyboard,1,129.75,S. Khan,Credit Card,New,129.75
+ORD100026,2024-04-19,CUST1026,Aarav Malhotra,West,Office Supplies,Desk Organizer,2,85.74,R. Verma,Credit Card,Returning,171.48
+ORD100984,2024-09-10,CUST1144,Vihaan Singh,South,Software,Antivirus License,4,421.34,R. Verma,Debit Card,New,1685.36
+ORD101070,2024-02-21,CUST1230,Aarav Gupta,South,Electronics,Mechanical Keyboard,1,104.81,R. Verma,Credit Card,New,104.81
+ORD100585,2024-07-09,CUST1165,Vihaan Gupta,East,Software,Antivirus License,2,40.11,A. Sharma,Credit Card,Returning,80.22
+ORD100630,2024-08-28,CUST1210,Diya Mehta,South,Office Supplies,Notebook Pack,5,429.25,M. Gupta,UPI,Returning,2146.25
+ORD100376,2024-07-06,CUST1376,Ananya Malhotra,East,Software,VPN Subscription,2,359.44,M. Gupta,Wallet,New,718.88
+ORD101350,2025-08-12,CUST1090,Myra Reddy,West,Electronics,Webcam HD,1,379.59,R. Verma,Net Banking,Returning,379.59
+ORD101171,2024-07-30,CUST1331,Ananya Agarwal,North,Furniture,Bookshelf,5,344.16,A. Sharma,Credit Card,New,1720.8
+ORD101211,2024-05-09,CUST1371,Aadhya Sharma,South,Furniture,Filing Cabinet,5,46.31,R. Verma,Debit Card,Returning,231.55
+ORD100918,2025-06-27,CUST1078,Krishna Chopra,West,Furniture,Filing Cabinet,2,331.0,R. Verma,Net Banking,Returning,662.0
+ORD100802,2024-05-31,CUST1382,Aarav Patel,South,Software,VPN Subscription,1,241.92,N. Joshi,Net Banking,New,241.92
+ORD100285,2024-12-26,CUST1285,Sai Joshi,South,Software,Cloud Backup Plan,3,381.43,P. Iyer,Wallet,New,1144.29
+ORD101463,2025-09-21,CUST1203,Reyansh Kumar,East,Software,Project Mgmt Tool,1,79.37,N. Joshi,UPI,Returning,79.37
+ORD100383,2025-11-26,CUST1383,Aditya Malhotra,West,Software,Project Mgmt Tool,1,13.65,M. Gupta,Credit Card,New,13.65
+ORD100874,2025-11-05,CUST1034,Anika Singh,East,Electronics,27in Monitor,4,401.2,S. Khan,Credit Card,Returning,1604.8
+ORD100350,2024-03-31,CUST1350,Vivaan Reddy,West,Office Supplies,Pen Set,3,193.1,A. Sharma,Wallet,Returning,579.3
+ORD100397,2025-02-20,CUST1397,Aditya Patel,North,Electronics,Wireless Mouse,1,183.43,M. Gupta,Wallet,New,183.43
+ORD100252,2025-07-17,CUST1252,Reyansh Joshi,West,Office Supplies,Notebook Pack,1,179.98,S. Khan,Wallet,Returning,179.98
+ORD100691,2025-03-03,CUST1271,Aarav Joshi,East,Furniture,Bookshelf,5,151.49,A. Sharma,Wallet,Returning,757.45
+ORD100465,2025-06-23,CUST1045,Diya Agarwal,South,Software,Project Mgmt Tool,1,60.37,M. Gupta,UPI,Returning,60.37
+ORD101124,2025-08-21,CUST1284,Arjun Patel,South,Electronics,Mechanical Keyboard,4,182.24,N. Joshi,Debit Card,New,728.96
+ORD100164,2024-03-02,CUST1164,Aditya Sharma,West,Electronics,Webcam HD,2,285.83,A. Sharma,Wallet,New,571.66
+ORD100341,2025-10-20,CUST1341,Arjun Joshi,West,Software,Antivirus License,5,324.21,P. Iyer,UPI,New,1621.05
+ORD100207,2024-03-31,CUST1207,Pari Agarwal,West,Office Supplies,Desk Organizer,4,288.0,A. Sharma,Wallet,New,1152.0
+ORD101283,2024-07-27,CUST1023,Arjun Iyer,South,Electronics,Webcam HD,5,47.97,P. Iyer,Wallet,Returning,239.85
+ORD100262,2025-12-18,CUST1262,Diya Gupta,South,Software,Cloud Backup Plan,3,385.61,M. Gupta,Debit Card,New,1156.83
+ORD100510,2024-07-02,CUST1090,Ayaan Mehta,North,Office Supplies,Desk Organizer,4,140.2,A. Sharma,Wallet,Returning,560.8
+ORD100747,2025-09-13,CUST1327,Vihaan Agarwal,West,Software,Cloud Backup Plan,4,26.61,A. Sharma,Wallet,New,106.44
+ORD100920,2025-06-22,CUST1080,Vihaan Verma,North,Office Supplies,Desk Organizer,1,248.62,N. Joshi,Debit Card,Returning,248.62
+ORD100097,2024-03-16,CUST1097,Anika Iyer,North,Software,VPN Subscription,3,291.91,M. Gupta,Wallet,New,875.73
+ORD101093,2024-12-28,CUST1253,Aarav Khan,South,Electronics,Wireless Mouse,1,320.09,N. Joshi,UPI,Returning,320.09
+ORD101552,2024-11-01,CUST1292,Aditya Kumar,West,Software,Cloud Backup Plan,1,148.15,A. Sharma,Wallet,New,148.15
+ORD100414,2025-11-04,CUST1414,Myra Khan,South,Electronics,27in Monitor,3,436.64,N. Joshi,Wallet,New,1309.92
+ORD100997,2024-06-07,CUST1157,Ayaan Chopra,West,Furniture,Standing Desk,2,265.63,A. Sharma,Credit Card,Returning,531.26
+ORD101388,2024-05-18,CUST1128,Reyansh Chopra,North,Software,Project Mgmt Tool,2,24.51,R. Verma,Debit Card,New,49.02
+ORD101330,2024-09-07,CUST1070,Pari Chopra,South,Office Supplies,Desk Organizer,3,114.11,S. Khan,UPI,New,342.33
+ORD100412,2024-04-25,CUST1412,Diya Mehta,North,Electronics,27in Monitor,1,162.53,N. Joshi,Wallet,Returning,162.53
+ORD101331,2025-07-01,CUST1071,Ayaan Reddy,East,Software,VPN Subscription,1,28.66,P. Iyer,Credit Card,New,28.66
+ORD100275,2024-01-13,CUST1275,Reyansh Malhotra,West,Software,Project Mgmt Tool,2,178.08,R. Verma,UPI,New,356.16
+ORD100514,2025-10-09,CUST1094,Kavya Chopra,East,Software,Antivirus License,3,13.13,M. Gupta,Debit Card,New,39.39
+ORD100809,2025-07-25,CUST1389,Krishna Singh,South,Office Supplies,Notebook Pack,1,292.16,R. Verma,Debit Card,New,292.16
+ORD101223,2024-04-17,CUST1383,Kavya Agarwal,North,Electronics,Webcam HD,1,344.17,A. Sharma,Wallet,Returning,344.17
+ORD100392,2025-02-07,CUST1392,Myra Nair,East,Software,Project Mgmt Tool,2,125.2,M. Gupta,Credit Card,New,250.4
+ORD101247,2025-02-11,CUST1407,Aarav Joshi,West,Office Supplies,Pen Set,2,34.9,M. Gupta,Net Banking,New,69.8
+ORD101276,2024-05-14,CUST1016,Aadhya Kumar,West,Software,Cloud Backup Plan,2,186.63,P. Iyer,Net Banking,New,373.26
+ORD100828,2024-02-19,CUST1408,Pari Iyer,North,Software,Cloud Backup Plan,1,316.61,R. Verma,Credit Card,Returning,316.61
+ORD100128,2024-04-30,CUST1128,Aarav Singh,West,Furniture,Bookshelf,2,315.47,P. Iyer,Net Banking,Returning,630.94
+ORD100485,2024-06-26,CUST1065,Vihaan Singh,South,Software,VPN Subscription,4,297.06,N. Joshi,Net Banking,Returning,1188.24
+ORD100361,2025-04-08,CUST1361,Aadhya Kumar,East,Furniture,Desk Lamp,1,215.81,S. Khan,Wallet,Returning,215.81
+ORD100602,2024-01-02,CUST1182,Ayaan Nair,East,Office Supplies,Whiteboard,4,166.86,N. Joshi,Credit Card,Returning,667.44
+ORD100313,2025-12-03,CUST1313,Anika Joshi,East,Furniture,Bookshelf,3,183.05,R. Verma,Net Banking,Returning,549.15
+ORD100995,2025-09-15,CUST1155,Ananya Agarwal,North,Office Supplies,Notebook Pack,2,293.79,M. Gupta,Wallet,Returning,587.58
+ORD100377,2025-12-08,CUST1377,Arjun Malhotra,West,Electronics,Wireless Mouse,1,369.13,P. Iyer,Debit Card,Returning,369.13
+ORD101319,2025-06-27,CUST1059,Aadhya Chopra,North,Software,Project Mgmt Tool,4,125.56,R. Verma,Wallet,New,502.24
+ORD100838,2024-09-14,CUST1418,Ananya Joshi,West,Electronics,27in Monitor,2,394.64,P. Iyer,Debit Card,New,789.28
+ORD100151,2025-01-02,CUST1151,Ananya Chopra,West,Office Supplies,Desk Organizer,5,68.35,S. Khan,UPI,Returning,341.75
+ORD100501,2025-01-14,CUST1081,Myra Agarwal,North,Furniture,Filing Cabinet,3,369.05,A. Sharma,Net Banking,Returning,1107.15
+ORD101256,2024-08-22,CUST1416,Arjun Gupta,West,Electronics,Webcam HD,5,172.59,P. Iyer,UPI,Returning,862.95
+ORD101077,2025-11-20,CUST1237,Ananya Nair,East,Software,Project Mgmt Tool,1,308.2,M. Gupta,UPI,New,308.2
+ORD101369,2025-02-06,CUST1109,Navya Patel,North,Office Supplies,Desk Organizer,1,164.94,R. Verma,Wallet,New,164.94
+ORD101074,2025-01-10,CUST1234,Vihaan Iyer,South,Electronics,Mechanical Keyboard,3,436.23,A. Sharma,UPI,New,1308.69
+ORD101342,2024-02-29,CUST1082,Kavya Joshi,North,Office Supplies,Desk Organizer,2,37.79,N. Joshi,Debit Card,Returning,75.58
+ORD101226,2025-05-11,CUST1386,Myra Khan,South,Software,Cloud Backup Plan,2,25.82,A. Sharma,Debit Card,Returning,51.64
+ORD100631,2025-03-30,CUST1211,Saanvi Khan,North,Furniture,Desk Lamp,2,98.93,P. Iyer,Credit Card,Returning,197.86
+ORD100649,2024-03-29,CUST1229,Vihaan Khan,South,Furniture,Office Chair,2,331.38,R. Verma,Credit Card,Returning,662.76
+ORD101164,2024-11-03,CUST1324,Anika Singh,North,Office Supplies,Notebook Pack,2,372.87,A. Sharma,Wallet,Returning,745.74
+ORD101018,2024-03-21,CUST1178,Ananya Reddy,West,Software,Project Mgmt Tool,2,321.44,M. Gupta,Net Banking,Returning,642.88
+ORD100683,2025-04-08,CUST1263,Navya Mehta,North,Office Supplies,Sticky Notes,1,301.23,R. Verma,Net Banking,Returning,301.23
+ORD100363,2024-10-25,CUST1363,Diya Iyer,West,Office Supplies,Whiteboard,1,17.74,P. Iyer,UPI,Returning,17.74
+ORD100751,2025-01-26,CUST1331,Saanvi Patel,East,Electronics,Wireless Mouse,2,386.34,P. Iyer,Debit Card,New,772.68
+ORD100660,2025-12-20,CUST1240,Aadhya Joshi,East,Electronics,Mechanical Keyboard,4,15.61,M. Gupta,Credit Card,Returning,62.44
+ORD100471,2025-07-10,CUST1051,Reyansh Mehta,East,Furniture,Bookshelf,1,348.37,S. Khan,Wallet,New,348.37
+ORD100754,2024-01-13,CUST1334,Ayaan Khan,West,Office Supplies,Desk Organizer,2,434.35,M. Gupta,Wallet,New,868.7
+ORD101403,2024-08-09,CUST1143,Vivaan Verma,East,Furniture,Office Chair,1,447.34,P. Iyer,Wallet,New,447.34
+ORD101357,2025-08-30,CUST1097,Ananya Reddy,East,Software,Cloud Backup Plan,4,418.11,N. Joshi,UPI,New,1672.44
+ORD100546,2025-10-21,CUST1126,Aarav Verma,North,Software,VPN Subscription,1,117.77,A. Sharma,Credit Card,New,117.77
+ORD100835,2025-03-18,CUST1415,Ayaan Chopra,South,Software,Cloud Backup Plan,3,353.04,S. Khan,UPI,New,1059.12
+ORD101570,2025-05-23,CUST1310,Arjun Sharma,South,Software,VPN Subscription,1,12.92,N. Joshi,Net Banking,Returning,12.92
+ORD100055,2024-10-21,CUST1055,Krishna Nair,West,Furniture,Filing Cabinet,1,203.24,S. Khan,Net Banking,Returning,203.24
+ORD101346,2025-01-30,CUST1086,Myra Iyer,East,Office Supplies,Sticky Notes,3,238.29,P. Iyer,Credit Card,Returning,714.87
+ORD100396,2025-07-27,CUST1396,Ayaan Agarwal,North,Office Supplies,Notebook Pack,4,293.94,P. Iyer,Net Banking,New,1175.76
+ORD100426,2024-07-31,CUST1006,Myra Agarwal,East,Software,Cloud Backup Plan,1,302.84,A. Sharma,UPI,Returning,302.84
+ORD101458,2024-09-18,CUST1198,Aadhya Reddy,West,Software,VPN Subscription,1,289.98,R. Verma,Wallet,Returning,289.98
+ORD101008,2024-09-17,CUST1168,Aarav Patel,South,Software,VPN Subscription,1,185.07,P. Iyer,Net Banking,Returning,185.07
+ORD100170,2024-10-16,CUST1170,Vivaan Iyer,North,Office Supplies,Pen Set,3,46.18,P. Iyer,Wallet,New,138.54
+ORD100976,2025-04-21,CUST1136,Riya Khan,South,Electronics,USB-C Hub,3,310.15,N. Joshi,Wallet,Returning,930.45
+ORD101353,2025-03-26,CUST1093,Arjun Sharma,North,Office Supplies,Sticky Notes,5,134.28,A. Sharma,Net Banking,New,671.4
+ORD100617,2024-03-10,CUST1197,Pari Patel,South,Furniture,Desk Lamp,1,384.6,N. Joshi,UPI,Returning,384.6
+ORD101452,2025-10-16,CUST1192,Diya Joshi,West,Software,Cloud Backup Plan,1,415.6,A. Sharma,UPI,Returning,415.6
+ORD101518,2025-02-14,CUST1258,Riya Verma,North,Electronics,Wireless Mouse,5,155.92,N. Joshi,Wallet,Returning,779.6
+ORD100325,2025-07-22,CUST1325,Myra Verma,South,Electronics,Webcam HD,5,85.87,M. Gupta,UPI,Returning,429.35
+ORD100326,2025-10-13,CUST1326,Reyansh Chopra,West,Electronics,Wireless Mouse,1,300.11,S. Khan,Debit Card,New,300.11
+ORD101368,2025-04-29,CUST1108,Diya Iyer,South,Furniture,Bookshelf,1,412.42,S. Khan,Net Banking,New,412.42
+ORD100264,2024-09-17,CUST1264,Vihaan Mehta,East,Electronics,27in Monitor,1,206.84,P. Iyer,Net Banking,New,206.84
+ORD100769,2024-04-12,CUST1349,Ishaan Sharma,North,Office Supplies,Notebook Pack,4,373.34,R. Verma,Wallet,New,1493.36
+ORD100297,2025-01-26,CUST1297,Ananya Malhotra,North,Office Supplies,Desk Organizer,4,114.24,P. Iyer,UPI,New,456.96
+ORD100640,2024-09-06,CUST1220,Ananya Kumar,North,Software,VPN Subscription,2,361.16,A. Sharma,Debit Card,Returning,722.32
+ORD100054,2024-06-23,CUST1054,Anika Iyer,East,Office Supplies,Desk Organizer,1,277.4,M. Gupta,Debit Card,New,277.4
+ORD100798,2025-05-24,CUST1378,Myra Gupta,South,Electronics,27in Monitor,1,142.16,S. Khan,Wallet,Returning,142.16
+ORD100610,2025-05-08,CUST1190,Ananya Reddy,North,Furniture,Office Chair,1,61.68,N. Joshi,Debit Card,New,61.68
+ORD101519,2025-05-17,CUST1259,Ananya Gupta,West,Software,Antivirus License,1,131.39,P. Iyer,Wallet,New,131.39
+ORD100731,2024-08-02,CUST1311,Myra Agarwal,South,Office Supplies,Desk Organizer,3,280.96,M. Gupta,Debit Card,New,842.88
+ORD101140,2024-06-14,CUST1300,Vivaan Sharma,West,Office Supplies,Notebook Pack,2,248.44,A. Sharma,Net Banking,New,496.88
+ORD100856,2025-04-22,CUST1016,Ayaan Malhotra,West,Office Supplies,Notebook Pack,3,398.01,R. Verma,Credit Card,Returning,1194.03
+ORD101503,2025-04-07,CUST1243,Aarav Patel,West,Software,Antivirus License,1,203.4,N. Joshi,Credit Card,Returning,203.4
+ORD101423,2024-05-04,CUST1163,Aditya Iyer,East,Software,Antivirus License,4,301.44,R. Verma,Net Banking,New,1205.76
+ORD100213,2025-10-21,CUST1213,Aditya Mehta,West,Electronics,Webcam HD,5,444.99,R. Verma,Credit Card,Returning,2224.95
+ORD101263,2024-01-09,CUST1003,Riya Gupta,East,Software,Project Mgmt Tool,1,163.88,P. Iyer,UPI,New,163.88
+ORD101241,2025-05-27,CUST1401,Ananya Iyer,East,Furniture,Standing Desk,5,322.12,M. Gupta,Credit Card,New,1610.6
+ORD101585,2025-05-06,CUST1325,Reyansh Kumar,South,Furniture,Desk Lamp,4,252.56,N. Joshi,Credit Card,New,1010.24
+ORD100415,2025-01-25,CUST1415,Vivaan Mehta,South,Furniture,Bookshelf,4,120.78,A. Sharma,Debit Card,New,483.12
+ORD100452,2025-12-21,CUST1032,Myra Patel,North,Office Supplies,Desk Organizer,1,94.67,M. Gupta,Wallet,Returning,94.67
+ORD100927,2024-11-24,CUST1087,Aarav Iyer,East,Software,Antivirus License,1,429.13,A. Sharma,UPI,New,429.13
+ORD100199,2024-09-21,CUST1199,Myra Reddy,West,Software,Project Mgmt Tool,2,20.13,R. Verma,Debit Card,New,40.26
+ORD100861,2024-02-08,CUST1021,Reyansh Sharma,West,Software,Cloud Backup Plan,5,355.86,N. Joshi,UPI,New,1779.3
+ORD100611,2024-01-07,CUST1191,Ishaan Nair,West,Office Supplies,Desk Organizer,2,58.7,A. Sharma,Debit Card,New,117.4
+ORD100855,2024-01-17,CUST1015,Ishaan Patel,North,Software,VPN Subscription,4,350.58,N. Joshi,Debit Card,Returning,1402.32
+ORD100933,2024-06-07,CUST1093,Navya Mehta,West,Electronics,27in Monitor,1,210.07,R. Verma,Debit Card,Returning,210.07
+ORD100216,2025-01-12,CUST1216,Navya Iyer,West,Software,Project Mgmt Tool,5,414.82,P. Iyer,Net Banking,New,2074.1
+ORD100737,2025-08-14,CUST1317,Diya Singh,East,Software,VPN Subscription,5,446.77,N. Joshi,Net Banking,Returning,2233.85
+ORD100253,2025-02-14,CUST1253,Diya Verma,North,Furniture,Standing Desk,1,426.01,R. Verma,Wallet,Returning,426.01
+ORD100152,2024-08-13,CUST1152,Sai Verma,West,Software,VPN Subscription,1,129.48,N. Joshi,UPI,New,129.48
+ORD100194,2024-04-12,CUST1194,Arjun Reddy,West,Software,Project Mgmt Tool,1,355.3,P. Iyer,UPI,Returning,355.3
+ORD100704,2025-02-20,CUST1284,Aditya Sharma,East,Office Supplies,Whiteboard,4,39.1,A. Sharma,Wallet,New,156.4
+ORD100734,2025-09-20,CUST1314,Arjun Patel,East,Software,Cloud Backup Plan,5,225.82,M. Gupta,Debit Card,New,1129.1
+ORD101367,2025-02-06,CUST1107,Riya Khan,East,Office Supplies,Whiteboard,1,265.59,M. Gupta,Credit Card,New,265.59
+ORD100068,2025-07-29,CUST1068,Diya Agarwal,North,Software,Antivirus License,1,189.58,N. Joshi,Credit Card,Returning,189.58
+ORD101544,2024-05-13,CUST1284,Kavya Verma,West,Office Supplies,Sticky Notes,1,441.31,N. Joshi,UPI,Returning,441.31
+ORD100130,2024-09-08,CUST1130,Reyansh Patel,East,Furniture,Standing Desk,3,121.74,S. Khan,UPI,New,365.22
+ORD101011,2025-05-07,CUST1171,Saanvi Kumar,South,Office Supplies,Whiteboard,4,315.84,M. Gupta,Net Banking,New,1263.36
+ORD101303,2024-01-03,CUST1043,Aditya Khan,East,Office Supplies,Notebook Pack,4,188.8,S. Khan,Debit Card,Returning,755.2
+ORD100300,2025-02-09,CUST1300,Navya Kumar,South,Electronics,Webcam HD,2,311.82,M. Gupta,Wallet,Returning,623.64
+ORD100504,2024-05-10,CUST1084,Pari Agarwal,East,Office Supplies,Pen Set,1,141.2,R. Verma,UPI,New,141.2
+ORD100829,2025-01-31,CUST1409,Aditya Singh,East,Electronics,Mechanical Keyboard,4,27.39,S. Khan,Debit Card,Returning,109.56
+ORD100450,2025-02-27,CUST1030,Myra Sharma,South,Electronics,Webcam HD,4,245.85,A. Sharma,UPI,New,983.4
+ORD101479,2025-01-31,CUST1219,Vihaan Agarwal,East,Electronics,USB-C Hub,5,251.73,M. Gupta,Net Banking,Returning,1258.65
+ORD100240,2025-10-03,CUST1240,Arjun Malhotra,North,Electronics,USB-C Hub,1,402.31,M. Gupta,UPI,New,402.31
+ORD100653,2024-10-21,CUST1233,Riya Khan,West,Software,Cloud Backup Plan,5,151.83,P. Iyer,Credit Card,Returning,759.15
+ORD101551,2024-09-16,CUST1291,Diya Chopra,East,Office Supplies,Pen Set,2,218.48,P. Iyer,Debit Card,New,436.96
+ORD101277,2024-04-22,CUST1017,Kavya Khan,East,Electronics,Mechanical Keyboard,2,155.86,S. Khan,Credit Card,Returning,311.72
+ORD100187,2024-10-28,CUST1187,Sai Khan,West,Software,Project Mgmt Tool,3,123.42,R. Verma,Credit Card,New,370.26
+ORD101126,2024-10-25,CUST1286,Kavya Chopra,West,Electronics,Wireless Mouse,2,272.43,P. Iyer,Net Banking,New,544.86
+ORD101192,2025-07-30,CUST1352,Vivaan Verma,West,Furniture,Office Chair,1,360.95,A. Sharma,UPI,New,360.95
+ORD101127,2025-02-01,CUST1287,Sai Gupta,East,Software,Antivirus License,2,105.38,P. Iyer,Debit Card,New,210.76
+ORD100765,2024-02-12,CUST1345,Ayaan Chopra,East,Furniture,Standing Desk,1,413.14,N. Joshi,Wallet,New,413.14
+ORD100180,2024-10-14,CUST1180,Ananya Reddy,West,Office Supplies,Notebook Pack,5,242.01,A. Sharma,Debit Card,New,1210.05
+ORD100302,2024-02-12,CUST1302,Kavya Malhotra,West,Software,Cloud Backup Plan,3,182.21,N. Joshi,Credit Card,New,546.63
+ORD100431,2025-06-12,CUST1011,Aadhya Malhotra,West,Office Supplies,Whiteboard,1,203.62,A. Sharma,Credit Card,Returning,203.62
+ORD100283,2025-01-12,CUST1283,Riya Mehta,West,Electronics,USB-C Hub,2,241.83,R. Verma,Wallet,New,483.66
+ORD100410,2024-10-14,CUST1410,Vivaan Gupta,South,Electronics,USB-C Hub,4,133.05,P. Iyer,Wallet,Returning,532.2
+ORD101291,2024-06-28,CUST1031,Vihaan Khan,South,Office Supplies,Pen Set,2,305.25,M. Gupta,UPI,New,610.5
+ORD101075,2024-11-06,CUST1235,Anika Agarwal,West,Electronics,Webcam HD,2,140.82,R. Verma,Net Banking,New,281.64
+ORD100702,2025-01-14,CUST1282,Pari Nair,North,Office Supplies,Desk Organizer,4,252.01,P. Iyer,Debit Card,New,1008.04
+ORD101190,2025-06-22,CUST1350,Navya Sharma,West,Electronics,Webcam HD,1,311.89,S. Khan,UPI,New,311.89
+ORD100771,2024-09-03,CUST1351,Vihaan Verma,West,Office Supplies,Notebook Pack,3,81.98,N. Joshi,UPI,Returning,245.94
+ORD100701,2025-02-24,CUST1281,Saanvi Reddy,East,Office Supplies,Notebook Pack,1,281.54,M. Gupta,Wallet,Returning,281.54
+ORD100109,2025-10-20,CUST1109,Diya Nair,West,Furniture,Desk Lamp,5,92.98,P. Iyer,Net Banking,New,464.9
+ORD101409,2024-05-01,CUST1149,Pari Kumar,East,Software,Antivirus License,2,395.62,R. Verma,Net Banking,New,791.24
+ORD100122,2024-01-04,CUST1122,Saanvi Joshi,East,Office Supplies,Pen Set,2,212.65,R. Verma,Debit Card,Returning,425.3
+ORD100936,2024-07-13,CUST1096,Vihaan Nair,South,Software,VPN Subscription,3,441.37,P. Iyer,UPI,New,1324.11
+ORD101227,2025-11-16,CUST1387,Anika Sharma,North,Furniture,Filing Cabinet,2,360.89,R. Verma,Credit Card,Returning,721.78
+ORD100280,2025-07-08,CUST1280,Anika Gupta,West,Office Supplies,Notebook Pack,5,8.32,A. Sharma,Wallet,Returning,41.6
+ORD101542,2024-10-17,CUST1282,Pari Malhotra,West,Furniture,Bookshelf,3,277.93,A. Sharma,Net Banking,Returning,833.79
+ORD100879,2024-06-08,CUST1039,Riya Mehta,East,Furniture,Bookshelf,1,429.48,P. Iyer,Debit Card,New,429.48
+ORD100746,2024-10-09,CUST1326,Vivaan Nair,West,Software,VPN Subscription,3,193.48,A. Sharma,UPI,New,580.44
+ORD101122,2024-06-16,CUST1282,Aarav Verma,East,Electronics,Webcam HD,2,31.04,S. Khan,Net Banking,Returning,62.08
+ORD101028,2025-08-16,CUST1188,Riya Mehta,South,Software,Cloud Backup Plan,1,399.08,P. Iyer,UPI,New,399.08
+ORD100572,2025-06-19,CUST1152,Aadhya Patel,North,Software,VPN Subscription,1,417.45,R. Verma,Wallet,Returning,417.45
+ORD101382,2024-04-27,CUST1122,Pari Chopra,North,Software,Cloud Backup Plan,5,240.48,R. Verma,Credit Card,Returning,1202.4
+ORD100677,2024-01-21,CUST1257,Aditya Gupta,North,Electronics,Mechanical Keyboard,1,104.15,R. Verma,Net Banking,New,104.15
+ORD101041,2025-01-16,CUST1201,Vihaan Chopra,East,Furniture,Standing Desk,1,148.98,R. Verma,Debit Card,Returning,148.98
+ORD100885,2024-07-08,CUST1045,Aadhya Sharma,North,Furniture,Bookshelf,1,419.68,A. Sharma,Net Banking,Returning,419.68
+ORD101166,2024-04-19,CUST1326,Anika Sharma,South,Office Supplies,Whiteboard,4,311.02,A. Sharma,UPI,Returning,1244.08
+ORD100643,2025-07-12,CUST1223,Arjun Chopra,West,Software,Antivirus License,1,66.51,P. Iyer,Debit Card,Returning,66.51
+ORD100484,2024-08-13,CUST1064,Ananya Chopra,North,Electronics,Wireless Mouse,1,328.01,P. Iyer,Wallet,New,328.01
+ORD101217,2024-02-24,CUST1377,Ananya Chopra,East,Office Supplies,Desk Organizer,4,396.39,R. Verma,Credit Card,Returning,1585.56
+ORD100067,2024-04-07,CUST1067,Ananya Chopra,West,Office Supplies,Whiteboard,4,146.14,S. Khan,Credit Card,New,584.56
+ORD100728,2025-06-02,CUST1308,Pari Chopra,West,Office Supplies,Whiteboard,1,342.42,N. Joshi,Net Banking,Returning,342.42
+ORD100637,2024-04-21,CUST1217,Riya Mehta,East,Electronics,USB-C Hub,5,58.03,N. Joshi,UPI,New,290.15
+ORD100860,2024-04-05,CUST1020,Krishna Gupta,South,Furniture,Filing Cabinet,2,182.32,R. Verma,UPI,New,364.64
+ORD100729,2025-04-12,CUST1309,Diya Khan,South,Electronics,Webcam HD,1,175.97,P. Iyer,Net Banking,New,175.97
+ORD100664,2025-03-24,CUST1244,Sai Joshi,North,Office Supplies,Notebook Pack,1,399.39,R. Verma,Wallet,Returning,399.39
+ORD101556,2024-04-05,CUST1296,Ishaan Mehta,East,Software,Antivirus License,5,303.67,S. Khan,UPI,New,1518.35
+ORD100674,2024-06-30,CUST1254,Navya Malhotra,North,Furniture,Office Chair,1,193.45,A. Sharma,Net Banking,New,193.45
+ORD100946,2025-06-07,CUST1106,Aadhya Chopra,West,Software,Project Mgmt Tool,1,382.85,A. Sharma,Net Banking,New,382.85
+ORD100389,2025-08-20,CUST1389,Pari Sharma,East,Electronics,Wireless Mouse,3,176.21,A. Sharma,Debit Card,New,528.63
+ORD100619,2024-07-23,CUST1199,Saanvi Gupta,South,Electronics,27in Monitor,2,225.07,S. Khan,Wallet,New,450.14
+ORD100353,2025-01-19,CUST1353,Vihaan Singh,South,Furniture,Standing Desk,1,216.18,M. Gupta,UPI,New,216.18
+ORD100372,2024-08-17,CUST1372,Pari Kumar,East,Electronics,USB-C Hub,1,76.08,A. Sharma,Net Banking,Returning,76.08
+ORD101132,2025-02-24,CUST1292,Aditya Patel,South,Furniture,Office Chair,1,75.02,S. Khan,Debit Card,Returning,75.02
+ORD100760,2025-12-02,CUST1340,Aditya Verma,West,Electronics,USB-C Hub,4,176.53,P. Iyer,Net Banking,New,706.12
+ORD100318,2024-03-30,CUST1318,Ishaan Malhotra,West,Electronics,Wireless Mouse,5,401.02,A. Sharma,Wallet,Returning,2005.1
+ORD100229,2025-10-02,CUST1229,Arjun Malhotra,West,Office Supplies,Notebook Pack,5,357.14,M. Gupta,Debit Card,New,1785.7
+ORD100650,2024-03-16,CUST1230,Kavya Nair,South,Furniture,Bookshelf,1,199.55,M. Gupta,Credit Card,New,199.55
+ORD100790,2024-08-30,CUST1370,Aditya Gupta,North,Electronics,Mechanical Keyboard,1,12.26,M. Gupta,Credit Card,New,12.26
+ORD100972,2025-07-17,CUST1132,Pari Verma,South,Software,Cloud Backup Plan,2,404.34,M. Gupta,Wallet,New,808.68
+ORD101402,2024-08-25,CUST1142,Vivaan Agarwal,South,Furniture,Desk Lamp,2,103.23,R. Verma,Net Banking,New,206.46
+ORD100720,2024-02-27,CUST1300,Krishna Reddy,North,Software,Project Mgmt Tool,2,245.75,N. Joshi,Credit Card,Returning,491.5
+ORD101343,2024-10-04,CUST1083,Pari Reddy,East,Furniture,Filing Cabinet,1,340.84,P. Iyer,Wallet,Returning,340.84
+ORD100518,2025-06-19,CUST1098,Kavya Gupta,East,Furniture,Desk Lamp,2,312.07,R. Verma,Net Banking,New,624.14
+ORD100224,2025-12-19,CUST1224,Navya Mehta,West,Office Supplies,Whiteboard,2,96.79,N. Joshi,Debit Card,New,193.58
+ORD101393,2025-10-16,CUST1133,Saanvi Gupta,East,Furniture,Filing Cabinet,4,192.09,R. Verma,Debit Card,Returning,768.36
+ORD100800,2024-10-15,CUST1380,Aadhya Reddy,South,Furniture,Desk Lamp,3,364.75,A. Sharma,Credit Card,Returning,1094.25
+ORD100603,2024-10-09,CUST1183,Diya Malhotra,West,Office Supplies,Sticky Notes,2,26.17,S. Khan,UPI,Returning,52.34
+ORD101102,2025-07-01,CUST1262,Kavya Patel,West,Software,Antivirus License,4,163.77,N. Joshi,Wallet,Returning,655.08
+ORD100125,2024-06-28,CUST1125,Ishaan Kumar,East,Office Supplies,Whiteboard,5,28.72,M. Gupta,Net Banking,Returning,143.6
+ORD100553,2024-04-22,CUST1133,Aarav Patel,South,Electronics,Mechanical Keyboard,3,167.5,S. Khan,Debit Card,Returning,502.5
+ORD101178,2025-01-23,CUST1338,Diya Patel,West,Software,Project Mgmt Tool,2,181.66,M. Gupta,Debit Card,Returning,363.32
+ORD101002,2024-06-03,CUST1162,Navya Nair,West,Furniture,Standing Desk,4,263.74,N. Joshi,Credit Card,Returning,1054.96
+ORD100833,2024-04-25,CUST1413,Aarav Patel,South,Office Supplies,Whiteboard,1,142.08,S. Khan,Debit Card,New,142.08
+ORD101047,2025-02-27,CUST1207,Krishna Kumar,West,Office Supplies,Pen Set,1,440.01,R. Verma,Credit Card,New,440.01
+ORD101455,2024-01-29,CUST1195,Myra Chopra,South,Software,Antivirus License,2,173.72,P. Iyer,UPI,Returning,347.44
+ORD100386,2025-09-28,CUST1386,Saanvi Reddy,West,Electronics,Mechanical Keyboard,1,300.2,P. Iyer,UPI,Returning,300.2
+ORD100289,2025-01-08,CUST1289,Vivaan Kumar,South,Electronics,27in Monitor,3,230.06,S. Khan,UPI,New,690.18
+ORD101020,2024-03-18,CUST1180,Krishna Chopra,East,Office Supplies,Whiteboard,1,414.43,S. Khan,Net Banking,New,414.43
+ORD100985,2025-05-01,CUST1145,Arjun Khan,East,Office Supplies,Notebook Pack,5,110.02,A. Sharma,UPI,New,550.1
+ORD100974,2024-06-14,CUST1134,Aarav Gupta,North,Software,VPN Subscription,3,116.95,S. Khan,Credit Card,New,350.85
+ORD100663,2024-08-29,CUST1243,Myra Joshi,North,Office Supplies,Pen Set,5,321.32,A. Sharma,Credit Card,Returning,1606.6
+ORD101082,2025-02-09,CUST1242,Aditya Chopra,North,Furniture,Desk Lamp,3,355.65,S. Khan,Debit Card,New,1066.95
+ORD101159,2024-10-21,CUST1319,Aarav Khan,South,Office Supplies,Sticky Notes,3,104.43,A. Sharma,Credit Card,New,313.29
+ORD101121,2025-08-18,CUST1281,Aditya Malhotra,East,Office Supplies,Notebook Pack,5,83.42,R. Verma,Credit Card,New,417.1
+ORD100883,2024-04-08,CUST1043,Aarav Patel,North,Furniture,Filing Cabinet,1,217.26,A. Sharma,Wallet,New,217.26
+ORD100040,2024-12-14,CUST1040,Aarav Reddy,East,Software,Antivirus License,1,119.6,S. Khan,Credit Card,New,119.6
+ORD101320,2024-09-25,CUST1060,Aarav Gupta,North,Electronics,Mechanical Keyboard,1,312.34,S. Khan,Wallet,Returning,312.34
+ORD101015,2024-01-15,CUST1175,Vivaan Patel,West,Software,VPN Subscription,3,195.23,A. Sharma,Wallet,Returning,585.69
+ORD100083,2025-04-17,CUST1083,Diya Nair,South,Software,Project Mgmt Tool,4,230.28,M. Gupta,Debit Card,Returning,921.12
+ORD100837,2024-11-11,CUST1417,Ananya Kumar,East,Furniture,Filing Cabinet,5,178.65,N. Joshi,Wallet,New,893.25
+ORD101288,2024-06-08,CUST1028,Vivaan Verma,East,Office Supplies,Whiteboard,2,26.8,M. Gupta,Credit Card,New,53.6
+ORD101123,2025-07-09,CUST1283,Krishna Iyer,North,Software,Cloud Backup Plan,2,30.12,S. Khan,Debit Card,Returning,60.24
+ORD101034,2025-12-06,CUST1194,Saanvi Khan,East,Furniture,Desk Lamp,4,199.32,A. Sharma,Credit Card,Returning,797.28
+ORD100513,2025-06-11,CUST1093,Myra Gupta,South,Electronics,USB-C Hub,4,436.62,R. Verma,UPI,Returning,1746.48
+ORD101049,2025-07-12,CUST1209,Aadhya Joshi,East,Furniture,Standing Desk,1,337.44,N. Joshi,Net Banking,Returning,337.44
+ORD101354,2024-05-12,CUST1094,Sai Singh,West,Furniture,Desk Lamp,4,315.78,R. Verma,Debit Card,New,1263.12
+ORD101115,2024-10-30,CUST1275,Riya Joshi,South,Electronics,Mechanical Keyboard,2,374.34,R. Verma,Debit Card,Returning,748.68
+ORD100955,2025-04-16,CUST1115,Krishna Kumar,East,Furniture,Bookshelf,2,70.04,R. Verma,Debit Card,Returning,140.08
+ORD101120,2025-03-13,CUST1280,Diya Malhotra,North,Software,VPN Subscription,5,277.48,N. Joshi,Credit Card,New,1387.4
+ORD101095,2025-02-12,CUST1255,Pari Gupta,East,Furniture,Desk Lamp,1,332.54,M. Gupta,Net Banking,New,332.54
+ORD101477,2025-10-18,CUST1217,Saanvi Chopra,South,Software,Antivirus License,5,136.81,A. Sharma,Debit Card,Returning,684.05
+ORD100048,2024-04-26,CUST1048,Aadhya Verma,South,Electronics,Webcam HD,1,294.29,N. Joshi,Net Banking,Returning,294.29
+ORD100902,2024-04-09,CUST1062,Kavya Joshi,West,Furniture,Bookshelf,2,93.1,R. Verma,Debit Card,New,186.2
+ORD100467,2025-06-05,CUST1047,Anika Iyer,North,Electronics,Mechanical Keyboard,5,237.35,S. Khan,UPI,Returning,1186.75
+ORD100153,2025-03-11,CUST1153,Vivaan Agarwal,North,Furniture,Desk Lamp,2,139.59,A. Sharma,UPI,New,279.18
+ORD100394,2025-04-23,CUST1394,Myra Singh,South,Office Supplies,Pen Set,4,421.11,S. Khan,Debit Card,New,1684.44
+ORD100123,2024-01-17,CUST1123,Vihaan Sharma,East,Furniture,Standing Desk,2,37.74,A. Sharma,Debit Card,New,75.48
+ORD100355,2024-06-23,CUST1355,Sai Agarwal,East,Furniture,Desk Lamp,1,189.97,S. Khan,UPI,Returning,189.97
+ORD100134,2025-10-14,CUST1134,Saanvi Iyer,East,Electronics,Wireless Mouse,1,44.55,A. Sharma,Wallet,New,44.55
+ORD100268,2025-02-03,CUST1268,Krishna Reddy,North,Electronics,Wireless Mouse,2,117.35,R. Verma,Credit Card,New,234.7
+ORD100220,2025-04-10,CUST1220,Diya Chopra,South,Software,Cloud Backup Plan,5,324.76,N. Joshi,Debit Card,New,1623.8
+ORD100041,2025-02-09,CUST1041,Ayaan Verma,South,Furniture,Office Chair,4,207.13,P. Iyer,Wallet,New,828.52
+ORD101005,2024-11-15,CUST1165,Navya Iyer,West,Office Supplies,Sticky Notes,1,204.22,R. Verma,Net Banking,New,204.22
+ORD101145,2025-07-05,CUST1305,Pari Gupta,North,Software,Cloud Backup Plan,2,117.33,S. Khan,Credit Card,Returning,234.66
+ORD100541,2025-06-30,CUST1121,Krishna Joshi,East,Office Supplies,Sticky Notes,2,25.28,P. Iyer,Credit Card,New,50.56
+ORD100700,2025-02-17,CUST1280,Ananya Joshi,East,Furniture,Office Chair,5,134.54,S. Khan,Net Banking,New,672.7
+ORD101323,2024-06-20,CUST1063,Ananya Iyer,East,Furniture,Bookshelf,1,62.52,S. Khan,Credit Card,New,62.52
+ORD100970,2025-06-07,CUST1130,Pari Sharma,West,Software,Project Mgmt Tool,4,405.65,M. Gupta,Debit Card,Returning,1622.6
+ORD101420,2025-07-26,CUST1160,Saanvi Singh,South,Office Supplies,Notebook Pack,2,213.38,R. Verma,Wallet,Returning,426.76
+ORD100742,2025-02-24,CUST1322,Navya Reddy,North,Furniture,Standing Desk,1,220.57,R. Verma,UPI,New,220.57
+ORD100866,2024-03-25,CUST1026,Ananya Reddy,South,Office Supplies,Pen Set,1,74.32,N. Joshi,Debit Card,New,74.32
+ORD101046,2025-12-16,CUST1206,Pari Agarwal,West,Electronics,Webcam HD,2,366.34,M. Gupta,Wallet,New,732.68
+ORD100758,2025-07-05,CUST1338,Arjun Iyer,East,Software,VPN Subscription,3,110.79,M. Gupta,Wallet,Returning,332.37
+ORD101271,2025-05-21,CUST1011,Anika Joshi,West,Furniture,Office Chair,1,140.5,R. Verma,UPI,Returning,140.5
+ORD101307,2024-01-06,CUST1047,Ayaan Patel,West,Software,Project Mgmt Tool,4,150.04,N. Joshi,Credit Card,Returning,600.16
+ORD101438,2025-10-03,CUST1178,Arjun Kumar,South,Electronics,Mechanical Keyboard,4,278.77,N. Joshi,Net Banking,New,1115.08
+ORD101517,2024-02-21,CUST1257,Ayaan Kumar,North,Furniture,Desk Lamp,1,263.92,R. Verma,Net Banking,Returning,263.92
+ORD101467,2025-06-01,CUST1207,Krishna Iyer,East,Software,Antivirus License,4,385.05,R. Verma,Credit Card,Returning,1540.2
+ORD100635,2025-02-22,CUST1215,Diya Khan,West,Software,Antivirus License,1,130.19,R. Verma,Net Banking,Returning,130.19
+ORD101554,2025-11-30,CUST1294,Arjun Iyer,South,Office Supplies,Desk Organizer,1,123.02,A. Sharma,Credit Card,New,123.02
+ORD100232,2025-07-04,CUST1232,Ananya Joshi,West,Furniture,Standing Desk,1,101.17,A. Sharma,Debit Card,Returning,101.17
+ORD100652,2025-01-24,CUST1232,Sai Sharma,West,Software,Project Mgmt Tool,3,222.03,R. Verma,Net Banking,Returning,666.09
+ORD100797,2025-09-10,CUST1377,Aarav Chopra,South,Software,VPN Subscription,4,169.64,R. Verma,Wallet,New,678.56
+ORD100468,2025-09-02,CUST1048,Ayaan Malhotra,East,Electronics,Mechanical Keyboard,2,195.86,P. Iyer,Wallet,New,391.72
+ORD100725,2024-11-26,CUST1305,Navya Chopra,West,Furniture,Office Chair,1,122.41,S. Khan,Debit Card,Returning,122.41
+ORD100735,2024-08-19,CUST1315,Saanvi Kumar,South,Electronics,Wireless Mouse,1,330.67,M. Gupta,Wallet,Returning,330.67
+ORD101395,2024-04-15,CUST1135,Saanvi Khan,South,Furniture,Standing Desk,5,44.15,S. Khan,Debit Card,New,220.75
+ORD100205,2025-09-27,CUST1205,Myra Sharma,East,Software,Antivirus License,5,401.13,P. Iyer,UPI,New,2005.65
+ORD100003,2024-07-09,CUST1003,Aditya Reddy,East,Office Supplies,Sticky Notes,5,175.72,N. Joshi,Net Banking,New,878.6
+ORD100584,2025-08-03,CUST1164,Navya Verma,West,Furniture,Bookshelf,3,404.87,M. Gupta,Net Banking,Returning,1214.61
+ORD100593,2025-01-29,CUST1173,Reyansh Sharma,North,Software,Antivirus License,5,54.2,P. Iyer,Net Banking,Returning,271.0
+ORD100961,2024-02-06,CUST1121,Vihaan Kumar,North,Furniture,Standing Desk,1,209.83,M. Gupta,Wallet,Returning,209.83
+ORD101487,2025-06-04,CUST1227,Myra Patel,South,Electronics,27in Monitor,2,78.31,M. Gupta,Debit Card,Returning,156.62
+ORD100953,2025-03-22,CUST1113,Riya Gupta,West,Software,VPN Subscription,1,377.97,N. Joshi,Credit Card,Returning,377.97
+ORD100869,2025-12-12,CUST1029,Vivaan Iyer,West,Office Supplies,Sticky Notes,5,166.57,S. Khan,UPI,New,832.85
+ORD101337,2025-03-16,CUST1077,Diya Reddy,West,Software,Project Mgmt Tool,1,380.5,N. Joshi,Net Banking,Returning,380.5
+ORD101168,2024-01-18,CUST1328,Navya Joshi,North,Electronics,Webcam HD,3,80.37,M. Gupta,Net Banking,Returning,241.11
+ORD101269,2025-03-21,CUST1009,Navya Kumar,South,Electronics,Wireless Mouse,1,422.9,P. Iyer,Credit Card,New,422.9
+ORD101103,2025-11-19,CUST1263,Ananya Kumar,South,Electronics,27in Monitor,1,111.06,P. Iyer,Credit Card,Returning,111.06
+ORD100656,2024-12-27,CUST1236,Saanvi Verma,South,Electronics,Wireless Mouse,1,237.24,M. Gupta,UPI,New,237.24
+ORD100715,2025-05-22,CUST1295,Aarav Patel,West,Office Supplies,Whiteboard,1,36.98,S. Khan,Net Banking,New,36.98
+ORD101013,2025-09-02,CUST1173,Aadhya Nair,North,Software,Antivirus License,2,194.19,A. Sharma,Wallet,Returning,388.38
+ORD101199,2025-07-24,CUST1359,Anika Mehta,East,Furniture,Office Chair,1,260.77,A. Sharma,UPI,Returning,260.77
+ORD100157,2024-11-12,CUST1157,Reyansh Khan,North,Office Supplies,Whiteboard,5,356.43,N. Joshi,UPI,New,1782.15
+ORD101062,2025-07-23,CUST1222,Ayaan Sharma,West,Electronics,USB-C Hub,2,115.4,S. Khan,UPI,New,230.8
+ORD100462,2025-05-22,CUST1042,Vihaan Khan,East,Furniture,Standing Desk,1,290.34,S. Khan,Net Banking,Returning,290.34
+ORD100160,2024-04-14,CUST1160,Aditya Singh,West,Office Supplies,Whiteboard,3,170.46,R. Verma,Debit Card,New,511.38
+ORD100305,2025-12-29,CUST1305,Kavya Verma,North,Software,Project Mgmt Tool,1,48.31,N. Joshi,UPI,New,48.31
+ORD100547,2024-06-16,CUST1127,Myra Agarwal,East,Office Supplies,Desk Organizer,3,219.68,M. Gupta,Credit Card,New,659.04
+ORD100395,2025-11-10,CUST1395,Aadhya Patel,South,Furniture,Filing Cabinet,4,125.99,R. Verma,UPI,New,503.96
+ORD101242,2025-11-04,CUST1402,Reyansh Chopra,East,Office Supplies,Whiteboard,1,34.36,A. Sharma,Credit Card,New,34.36
+ORD100693,2024-04-13,CUST1273,Vivaan Gupta,North,Furniture,Bookshelf,1,157.3,R. Verma,Net Banking,New,157.3
+ORD101203,2024-04-04,CUST1363,Vihaan Iyer,North,Electronics,USB-C Hub,1,370.62,N. Joshi,Wallet,Returning,370.62
+ORD101355,2024-06-18,CUST1095,Riya Iyer,South,Electronics,USB-C Hub,4,378.68,S. Khan,Debit Card,New,1514.72
+ORD100876,2024-09-28,CUST1036,Ayaan Nair,West,Furniture,Office Chair,2,25.92,S. Khan,Credit Card,New,51.84
+ORD100062,2024-04-11,CUST1062,Kavya Khan,East,Furniture,Standing Desk,3,34.76,S. Khan,Credit Card,New,104.28
+ORD100956,2024-09-23,CUST1116,Pari Malhotra,West,Office Supplies,Pen Set,3,90.48,R. Verma,Net Banking,Returning,271.44
+ORD100457,2024-02-04,CUST1037,Pari Verma,North,Electronics,27in Monitor,3,401.42,S. Khan,Credit Card,Returning,1204.26
+ORD101386,2025-02-17,CUST1126,Krishna Gupta,South,Electronics,USB-C Hub,1,89.63,P. Iyer,Net Banking,New,89.63
+ORD100478,2024-12-21,CUST1058,Aditya Kumar,West,Software,Antivirus License,4,278.96,M. Gupta,UPI,Returning,1115.84
+ORD100716,2025-04-28,CUST1296,Ishaan Joshi,South,Office Supplies,Desk Organizer,2,417.98,R. Verma,UPI,New,835.96
+ORD101205,2024-03-25,CUST1365,Vihaan Mehta,South,Software,Antivirus License,1,148.71,P. Iyer,Net Banking,New,148.71
+ORD101496,2025-11-01,CUST1236,Aarav Joshi,East,Office Supplies,Whiteboard,4,78.62,R. Verma,Credit Card,Returning,314.48
+ORD101149,2025-02-19,CUST1309,Diya Nair,East,Furniture,Desk Lamp,1,429.49,P. Iyer,Credit Card,Returning,429.49
+ORD101314,2025-11-28,CUST1054,Ishaan Chopra,North,Electronics,Webcam HD,4,175.33,M. Gupta,Credit Card,Returning,701.32
+ORD100347,2024-05-03,CUST1347,Vihaan Khan,South,Electronics,Wireless Mouse,4,157.11,A. Sharma,Wallet,New,628.44
+ORD101180,2024-11-27,CUST1340,Vihaan Reddy,North,Electronics,Wireless Mouse,3,244.65,P. Iyer,Credit Card,Returning,733.95
+ORD100446,2025-10-10,CUST1026,Riya Iyer,East,Furniture,Filing Cabinet,1,126.97,M. Gupta,Debit Card,Returning,126.97
+ORD101448,2025-09-11,CUST1188,Anika Gupta,West,Software,Antivirus License,5,327.91,P. Iyer,Net Banking,Returning,1639.55
+ORD100379,2025-11-14,CUST1379,Vihaan Malhotra,North,Electronics,27in Monitor,1,353.81,R. Verma,Net Banking,New,353.81
+ORD100564,2025-02-14,CUST1144,Pari Khan,East,Office Supplies,Notebook Pack,1,202.85,A. Sharma,UPI,Returning,202.85
+ORD101401,2024-04-23,CUST1141,Riya Singh,West,Electronics,27in Monitor,1,430.52,A. Sharma,Credit Card,Returning,430.52
+ORD100713,2025-09-07,CUST1293,Vihaan Khan,East,Office Supplies,Whiteboard,5,140.58,N. Joshi,UPI,New,702.9
+ORD100231,2024-11-24,CUST1231,Navya Singh,East,Office Supplies,Pen Set,1,178.56,P. Iyer,Wallet,Returning,178.56
+ORD100382,2025-07-24,CUST1382,Arjun Khan,North,Electronics,Webcam HD,1,153.03,P. Iyer,UPI,New,153.03
+ORD100781,2025-04-08,CUST1361,Sai Khan,South,Software,VPN Subscription,2,442.77,M. Gupta,Debit Card,New,885.54
+ORD100070,2024-05-26,CUST1070,Ishaan Malhotra,East,Office Supplies,Sticky Notes,1,70.71,R. Verma,UPI,Returning,70.71
+ORD100783,2024-11-19,CUST1363,Reyansh Kumar,East,Office Supplies,Desk Organizer,5,157.67,R. Verma,Debit Card,New,788.35
+ORD100671,2024-09-13,CUST1251,Aadhya Joshi,South,Furniture,Standing Desk,4,296.22,N. Joshi,Net Banking,Returning,1184.88
+ORD100493,2025-05-07,CUST1073,Ishaan Khan,South,Software,VPN Subscription,3,68.4,A. Sharma,Wallet,Returning,205.2
+ORD100684,2024-03-23,CUST1264,Arjun Singh,West,Software,Antivirus License,2,387.13,M. Gupta,Net Banking,New,774.26
+ORD100651,2024-07-10,CUST1231,Reyansh Kumar,South,Software,Project Mgmt Tool,2,66.25,N. Joshi,Debit Card,New,132.5
+ORD100272,2025-12-11,CUST1272,Ayaan Joshi,South,Electronics,27in Monitor,2,294.62,A. Sharma,Debit Card,New,589.24
+ORD101048,2024-08-15,CUST1208,Diya Agarwal,East,Electronics,Mechanical Keyboard,1,214.98,N. Joshi,Net Banking,Returning,214.98
+ORD101106,2025-01-30,CUST1266,Ayaan Khan,West,Furniture,Bookshelf,4,280.47,N. Joshi,Wallet,Returning,1121.88
+ORD101287,2024-02-23,CUST1027,Anika Reddy,East,Electronics,USB-C Hub,4,295.52,N. Joshi,Debit Card,New,1182.08
+ORD100042,2024-06-09,CUST1042,Aditya Gupta,North,Office Supplies,Sticky Notes,4,207.12,N. Joshi,Net Banking,Returning,828.48
+ORD100056,2024-10-29,CUST1056,Vihaan Singh,East,Software,VPN Subscription,1,440.25,N. Joshi,Credit Card,Returning,440.25
+ORD101292,2025-08-11,CUST1032,Aditya Gupta,East,Software,Antivirus License,2,79.74,M. Gupta,Credit Card,New,159.48
+ORD100789,2025-07-19,CUST1369,Ananya Gupta,East,Software,VPN Subscription,5,132.49,N. Joshi,Net Banking,New,662.45
+ORD101474,2024-07-26,CUST1214,Aarav Chopra,North,Office Supplies,Desk Organizer,2,440.6,P. Iyer,Debit Card,Returning,881.2
+ORD100038,2024-11-09,CUST1038,Riya Patel,West,Furniture,Filing Cabinet,2,61.33,N. Joshi,Debit Card,New,122.66
+ORD100306,2024-02-06,CUST1306,Sai Malhotra,West,Software,Antivirus License,1,87.06,S. Khan,Net Banking,New,87.06
+ORD101177,2025-07-11,CUST1337,Navya Sharma,South,Furniture,Standing Desk,4,47.93,A. Sharma,Net Banking,Returning,191.72
+ORD100408,2024-08-28,CUST1408,Vihaan Joshi,West,Furniture,Office Chair,3,448.56,N. Joshi,Credit Card,New,1345.68
+ORD100534,2024-07-10,CUST1114,Arjun Singh,North,Office Supplies,Pen Set,1,196.43,S. Khan,Wallet,Returning,196.43
+ORD100583,2024-10-14,CUST1163,Krishna Gupta,West,Software,Project Mgmt Tool,1,265.97,N. Joshi,UPI,Returning,265.97
+ORD101427,2024-08-15,CUST1167,Ananya Nair,South,Office Supplies,Pen Set,3,290.9,A. Sharma,Net Banking,New,872.7
+ORD101541,2025-03-04,CUST1281,Vihaan Patel,South,Furniture,Filing Cabinet,3,8.02,A. Sharma,Credit Card,Returning,24.06
+ORD101526,2024-09-21,CUST1266,Saanvi Singh,West,Electronics,Webcam HD,2,327.71,S. Khan,Debit Card,New,655.42
+ORD101565,2024-03-30,CUST1305,Myra Malhotra,South,Furniture,Standing Desk,4,46.95,P. Iyer,Debit Card,New,187.8
+ORD100777,2025-04-10,CUST1357,Navya Kumar,West,Office Supplies,Whiteboard,1,208.77,N. Joshi,Debit Card,Returning,208.77
+ORD100316,2025-06-21,CUST1316,Diya Khan,West,Software,Project Mgmt Tool,1,57.61,S. Khan,Wallet,New,57.61
+ORD101042,2024-12-16,CUST1202,Aditya Nair,West,Electronics,Wireless Mouse,2,428.18,S. Khan,Debit Card,New,856.36
+ORD101391,2025-03-15,CUST1131,Aarav Gupta,East,Software,VPN Subscription,2,84.85,R. Verma,UPI,Returning,169.7
+ORD100516,2025-10-29,CUST1096,Anika Chopra,West,Software,Antivirus License,2,434.83,R. Verma,Credit Card,Returning,869.66
+ORD100739,2025-03-22,CUST1319,Ishaan Gupta,West,Electronics,Webcam HD,1,183.72,N. Joshi,Debit Card,New,183.72
+ORD100533,2024-10-07,CUST1113,Aadhya Singh,East,Software,Antivirus License,2,346.89,S. Khan,Debit Card,Returning,693.78
+ORD100756,2025-10-09,CUST1336,Anika Mehta,South,Office Supplies,Notebook Pack,3,325.16,S. Khan,Net Banking,New,975.48
+ORD101442,2025-03-04,CUST1182,Aarav Iyer,West,Office Supplies,Sticky Notes,4,243.95,A. Sharma,UPI,New,975.8
+ORD101550,2025-09-11,CUST1290,Anika Reddy,West,Furniture,Office Chair,5,125.12,P. Iyer,Net Banking,New,625.6
+ORD100548,2024-08-17,CUST1128,Anika Malhotra,North,Furniture,Office Chair,2,196.79,N. Joshi,UPI,New,393.58
+ORD100453,2024-07-03,CUST1033,Navya Reddy,South,Office Supplies,Pen Set,2,420.64,P. Iyer,Debit Card,New,841.28
+ORD100606,2025-04-29,CUST1186,Pari Malhotra,East,Office Supplies,Whiteboard,2,366.78,A. Sharma,Net Banking,Returning,733.56
+ORD101488,2024-11-08,CUST1228,Riya Sharma,East,Software,Cloud Backup Plan,1,167.64,S. Khan,UPI,New,167.64
+ORD101413,2024-01-09,CUST1153,Diya Iyer,South,Software,Project Mgmt Tool,1,301.19,P. Iyer,Credit Card,New,301.19
+ORD100598,2024-10-21,CUST1178,Reyansh Patel,East,Office Supplies,Desk Organizer,1,89.8,N. Joshi,Debit Card,New,89.8
+ORD100687,2024-12-13,CUST1267,Reyansh Sharma,North,Office Supplies,Whiteboard,1,196.16,A. Sharma,Net Banking,Returning,196.16
+ORD100893,2024-02-20,CUST1053,Ayaan Khan,South,Furniture,Standing Desk,1,199.52,N. Joshi,UPI,Returning,199.52
+ORD100570,2024-11-20,CUST1150,Arjun Malhotra,South,Furniture,Office Chair,4,124.16,R. Verma,UPI,New,496.64
+ORD101069,2025-05-13,CUST1229,Arjun Sharma,South,Office Supplies,Desk Organizer,2,331.16,A. Sharma,UPI,Returning,662.32
+ORD100061,2025-04-09,CUST1061,Vihaan Singh,North,Software,Antivirus License,4,267.6,S. Khan,Wallet,Returning,1070.4
+ORD101118,2025-09-16,CUST1278,Diya Sharma,North,Office Supplies,Pen Set,4,180.75,R. Verma,Debit Card,New,723.0
+ORD100536,2025-03-17,CUST1116,Ishaan Khan,North,Furniture,Standing Desk,2,427.16,A. Sharma,Wallet,New,854.32
+ORD101105,2024-04-01,CUST1265,Kavya Reddy,West,Furniture,Desk Lamp,2,178.46,P. Iyer,Credit Card,New,356.92
+ORD100244,2024-07-01,CUST1244,Diya Khan,West,Software,Cloud Backup Plan,5,81.2,R. Verma,Debit Card,Returning,406.0
+ORD100025,2024-02-17,CUST1025,Ishaan Singh,East,Electronics,Mechanical Keyboard,5,278.18,M. Gupta,Debit Card,Returning,1390.9
+ORD100222,2025-10-10,CUST1222,Ananya Verma,West,Software,Project Mgmt Tool,5,210.17,A. Sharma,Wallet,New,1050.85
+ORD101167,2025-08-24,CUST1327,Ishaan Singh,West,Software,Antivirus License,4,286.06,M. Gupta,Wallet,New,1144.24
+ORD100105,2024-07-22,CUST1105,Ananya Joshi,South,Software,Cloud Backup Plan,1,28.02,S. Khan,Debit Card,New,28.02
+ORD100673,2024-10-07,CUST1253,Saanvi Sharma,East,Furniture,Filing Cabinet,1,389.53,S. Khan,Debit Card,Returning,389.53
+ORD100642,2025-01-06,CUST1222,Ananya Patel,South,Furniture,Bookshelf,5,287.62,A. Sharma,Debit Card,New,1438.1
+ORD100867,2025-12-03,CUST1027,Arjun Kumar,North,Office Supplies,Notebook Pack,1,25.87,M. Gupta,Credit Card,New,25.87
+ORD100665,2024-10-04,CUST1245,Aadhya Kumar,West,Furniture,Office Chair,3,257.2,M. Gupta,Net Banking,Returning,771.6
+ORD100509,2025-12-06,CUST1089,Vivaan Reddy,West,Furniture,Standing Desk,2,448.61,S. Khan,Net Banking,Returning,897.22
+ORD100131,2025-10-19,CUST1131,Myra Gupta,East,Office Supplies,Pen Set,1,378.87,A. Sharma,UPI,New,378.87
+ORD101097,2024-03-14,CUST1257,Riya Patel,East,Furniture,Office Chair,4,85.14,S. Khan,Debit Card,Returning,340.56
+ORD100444,2024-09-18,CUST1024,Vihaan Joshi,West,Electronics,Wireless Mouse,1,143.6,P. Iyer,Debit Card,New,143.6
+ORD100748,2024-02-10,CUST1328,Navya Iyer,North,Furniture,Desk Lamp,5,384.69,N. Joshi,UPI,New,1923.45
+ORD100508,2024-09-05,CUST1088,Ananya Agarwal,North,Software,VPN Subscription,1,182.73,P. Iyer,Debit Card,Returning,182.73
+ORD100075,2025-06-06,CUST1075,Sai Verma,East,Office Supplies,Sticky Notes,3,163.19,A. Sharma,Debit Card,Returning,489.57
+ORD100036,2024-08-05,CUST1036,Aarav Khan,South,Software,Cloud Backup Plan,2,158.43,A. Sharma,Wallet,New,316.86
+ORD100057,2025-06-11,CUST1057,Reyansh Reddy,East,Furniture,Standing Desk,1,407.3,M. Gupta,Net Banking,New,407.3
+ORD100196,2024-08-21,CUST1196,Myra Chopra,East,Furniture,Bookshelf,2,438.6,S. Khan,Wallet,New,877.2
+ORD101563,2024-07-29,CUST1303,Diya Agarwal,East,Software,VPN Subscription,2,145.48,N. Joshi,Credit Card,New,290.96
+ORD100820,2024-05-20,CUST1400,Diya Iyer,South,Software,VPN Subscription,3,293.3,A. Sharma,Net Banking,New,879.9
+ORD100977,2024-08-29,CUST1137,Vivaan Singh,South,Software,Antivirus License,1,368.09,A. Sharma,Net Banking,New,368.09
+ORD100824,2024-09-16,CUST1404,Sai Chopra,North,Electronics,Mechanical Keyboard,1,194.49,P. Iyer,Net Banking,Returning,194.49
+ORD100477,2025-05-29,CUST1057,Navya Reddy,East,Software,Project Mgmt Tool,2,97.15,M. Gupta,Debit Card,Returning,194.3
+ORD100086,2024-09-19,CUST1086,Kavya Reddy,East,Office Supplies,Whiteboard,1,250.57,P. Iyer,Debit Card,Returning,250.57
+ORD101492,2024-06-19,CUST1232,Diya Reddy,North,Office Supplies,Desk Organizer,3,89.62,N. Joshi,UPI,New,268.86
+ORD100561,2025-10-02,CUST1141,Ishaan Gupta,North,Software,Antivirus License,2,398.91,R. Verma,Wallet,Returning,797.82
+ORD100334,2025-11-05,CUST1334,Navya Gupta,East,Electronics,Wireless Mouse,3,365.07,M. Gupta,Credit Card,Returning,1095.21
+ORD100975,2024-05-13,CUST1135,Pari Joshi,West,Furniture,Standing Desk,1,367.05,S. Khan,Credit Card,New,367.05
+ORD101117,2024-04-01,CUST1277,Pari Sharma,East,Furniture,Filing Cabinet,5,401.06,P. Iyer,Debit Card,Returning,2005.3
+ORD101280,2025-02-28,CUST1020,Vivaan Iyer,East,Furniture,Desk Lamp,2,308.44,M. Gupta,UPI,Returning,616.88
+ORD100708,2025-09-14,CUST1288,Arjun Mehta,West,Software,Cloud Backup Plan,4,121.73,R. Verma,Wallet,New,486.92
+ORD101039,2025-05-13,CUST1199,Anika Patel,North,Furniture,Bookshelf,2,320.08,M. Gupta,Debit Card,New,640.16
+ORD101459,2024-01-08,CUST1199,Aarav Agarwal,East,Electronics,Mechanical Keyboard,1,399.61,R. Verma,Wallet,New,399.61
+ORD101259,2024-05-23,CUST1419,Kavya Khan,East,Electronics,Webcam HD,5,275.62,R. Verma,Debit Card,New,1378.1
+ORD100538,2024-07-25,CUST1118,Navya Patel,West,Electronics,Webcam HD,1,64.5,M. Gupta,Net Banking,Returning,64.5
+ORD101160,2025-10-17,CUST1320,Aditya Malhotra,West,Office Supplies,Notebook Pack,5,226.64,N. Joshi,Debit Card,Returning,1133.2
+ORD100888,2024-09-10,CUST1048,Sai Reddy,West,Electronics,USB-C Hub,3,82.42,N. Joshi,Credit Card,Returning,247.26
+ORD101251,2024-08-31,CUST1411,Diya Agarwal,North,Office Supplies,Notebook Pack,2,122.5,R. Verma,Net Banking,New,245.0
+ORD100736,2025-01-29,CUST1316,Arjun Reddy,South,Software,Cloud Backup Plan,2,440.95,R. Verma,Debit Card,Returning,881.9
+ORD100418,2024-03-11,CUST1418,Myra Kumar,East,Software,Antivirus License,4,138.6,A. Sharma,Wallet,Returning,554.4
+ORD101064,2024-09-01,CUST1224,Ayaan Iyer,South,Electronics,Mechanical Keyboard,5,171.56,S. Khan,Credit Card,New,857.8
+ORD101512,2025-01-25,CUST1252,Diya Iyer,South,Office Supplies,Pen Set,2,423.46,R. Verma,Wallet,Returning,846.92
+ORD101489,2024-07-19,CUST1229,Krishna Gupta,North,Software,Project Mgmt Tool,5,205.5,M. Gupta,Net Banking,Returning,1027.5
+ORD100573,2024-03-30,CUST1153,Navya Malhotra,West,Software,Cloud Backup Plan,1,295.13,M. Gupta,Wallet,New,295.13
+ORD100740,2025-06-21,CUST1320,Navya Agarwal,South,Furniture,Desk Lamp,3,246.44,R. Verma,Credit Card,New,739.32
+ORD101374,2025-08-28,CUST1114,Kavya Kumar,North,Office Supplies,Whiteboard,4,135.57,A. Sharma,Debit Card,Returning,542.28
+ORD100332,2024-12-05,CUST1332,Kavya Joshi,North,Electronics,27in Monitor,3,432.58,M. Gupta,Net Banking,Returning,1297.74
+ORD101050,2025-10-07,CUST1210,Ananya Agarwal,South,Furniture,Standing Desk,4,412.43,S. Khan,Net Banking,New,1649.72
+ORD100574,2025-01-25,CUST1154,Aadhya Singh,West,Electronics,USB-C Hub,2,386.5,S. Khan,UPI,Returning,773.0
+ORD101389,2024-02-17,CUST1129,Aarav Verma,North,Software,Project Mgmt Tool,1,343.11,A. Sharma,Debit Card,New,343.11
+ORD101268,2025-04-19,CUST1008,Diya Sharma,West,Office Supplies,Pen Set,2,127.95,R. Verma,Credit Card,New,255.9
+ORD101179,2025-10-27,CUST1339,Sai Joshi,West,Software,Antivirus License,4,10.07,S. Khan,Net Banking,Returning,40.28
+ORD101475,2025-05-12,CUST1215,Aarav Agarwal,South,Software,Cloud Backup Plan,5,313.01,R. Verma,Wallet,New,1565.05
+ORD101308,2025-01-27,CUST1048,Riya Reddy,North,Office Supplies,Desk Organizer,2,24.37,A. Sharma,Net Banking,Returning,48.74
+ORD101377,2025-04-08,CUST1117,Navya Mehta,South,Software,Cloud Backup Plan,3,74.18,P. Iyer,Credit Card,New,222.54
+ORD101267,2025-02-13,CUST1007,Arjun Khan,North,Electronics,Webcam HD,4,57.02,S. Khan,UPI,New,228.08
+ORD100008,2024-08-05,CUST1008,Myra Chopra,South,Electronics,Wireless Mouse,5,426.51,R. Verma,Wallet,New,2132.55
+ORD101497,2025-05-20,CUST1237,Navya Patel,South,Office Supplies,Pen Set,2,156.33,M. Gupta,Debit Card,New,312.66
+ORD101392,2025-09-28,CUST1132,Pari Joshi,West,Office Supplies,Sticky Notes,2,165.45,S. Khan,UPI,Returning,330.9
+ORD100925,2024-02-07,CUST1085,Ananya Iyer,South,Furniture,Bookshelf,1,237.7,N. Joshi,Credit Card,Returning,237.7
+ORD100304,2025-05-27,CUST1304,Arjun Khan,West,Electronics,Webcam HD,1,352.2,S. Khan,Net Banking,Returning,352.2
+ORD101316,2025-06-28,CUST1056,Myra Mehta,East,Furniture,Bookshelf,2,43.33,M. Gupta,Wallet,Returning,86.66
+ORD100878,2024-11-04,CUST1038,Ananya Nair,South,Software,Antivirus License,2,82.71,S. Khan,Debit Card,New,165.42
+ORD100074,2025-09-24,CUST1074,Vihaan Iyer,West,Software,Cloud Backup Plan,3,46.95,M. Gupta,Credit Card,Returning,140.85
+ORD101449,2024-02-23,CUST1189,Riya Patel,West,Office Supplies,Notebook Pack,2,72.34,M. Gupta,Debit Card,Returning,144.68
+ORD100522,2024-10-15,CUST1102,Myra Verma,North,Furniture,Desk Lamp,1,404.28,P. Iyer,Wallet,Returning,404.28
+ORD100335,2025-10-14,CUST1335,Aadhya Agarwal,North,Office Supplies,Whiteboard,2,263.37,A. Sharma,Credit Card,New,526.74
+ORD100569,2024-06-13,CUST1149,Diya Iyer,East,Office Supplies,Desk Organizer,3,411.37,M. Gupta,Debit Card,New,1234.11
+ORD100590,2024-08-19,CUST1170,Vihaan Patel,South,Electronics,Mechanical Keyboard,1,92.49,A. Sharma,Credit Card,Returning,92.49
+ORD100088,2024-01-21,CUST1088,Riya Joshi,North,Electronics,Webcam HD,5,27.24,P. Iyer,Credit Card,Returning,136.2
+ORD100848,2024-01-23,CUST1008,Pari Singh,West,Software,Antivirus License,3,166.91,S. Khan,Credit Card,Returning,500.73
+ORD100217,2025-08-11,CUST1217,Anika Mehta,South,Furniture,Desk Lamp,5,160.82,M. Gupta,Wallet,New,804.1
+ORD100712,2024-06-03,CUST1292,Krishna Joshi,West,Electronics,Webcam HD,2,34.9,S. Khan,Credit Card,New,69.8
+ORD101109,2025-09-09,CUST1269,Ishaan Reddy,South,Furniture,Office Chair,2,376.53,P. Iyer,Debit Card,Returning,753.06
+ORD100173,2024-05-13,CUST1173,Pari Reddy,North,Software,Antivirus License,2,123.36,N. Joshi,Net Banking,Returning,246.72
+ORD100221,2024-06-17,CUST1221,Anika Patel,East,Furniture,Desk Lamp,1,371.25,R. Verma,Debit Card,New,371.25
+ORD101411,2024-10-09,CUST1151,Kavya Reddy,East,Software,Antivirus License,4,180.57,R. Verma,Credit Card,New,722.28
+ORD101451,2025-01-29,CUST1191,Vivaan Kumar,East,Electronics,USB-C Hub,1,311.7,A. Sharma,Net Banking,New,311.7
+ORD101116,2024-08-25,CUST1276,Aadhya Singh,West,Office Supplies,Sticky Notes,4,230.96,M. Gupta,Credit Card,New,923.84
+ORD100266,2024-03-14,CUST1266,Ananya Iyer,West,Office Supplies,Desk Organizer,1,159.88,M. Gupta,UPI,Returning,159.88
+ORD100006,2025-03-21,CUST1006,Krishna Agarwal,East,Electronics,Webcam HD,5,9.43,R. Verma,Wallet,New,47.15
+ORD101306,2024-10-27,CUST1046,Vivaan Singh,West,Office Supplies,Whiteboard,2,382.21,S. Khan,UPI,New,764.42
+ORD101430,2025-01-01,CUST1170,Sai Joshi,South,Office Supplies,Pen Set,1,74.84,M. Gupta,Debit Card,New,74.84
+ORD100738,2025-11-15,CUST1318,Myra Agarwal,East,Furniture,Bookshelf,2,35.9,R. Verma,Credit Card,New,71.8
+ORD100138,2024-11-11,CUST1138,Ananya Patel,West,Office Supplies,Whiteboard,3,344.52,M. Gupta,Wallet,Returning,1033.56
+ORD100163,2024-03-13,CUST1163,Saanvi Verma,East,Office Supplies,Whiteboard,3,420.79,P. Iyer,Wallet,New,1262.37
+ORD101359,2025-05-23,CUST1099,Krishna Verma,East,Software,Cloud Backup Plan,3,97.52,M. Gupta,Wallet,New,292.56
+ORD100594,2025-09-27,CUST1174,Ayaan Malhotra,South,Electronics,Mechanical Keyboard,4,91.08,M. Gupta,Credit Card,New,364.32
+ORD101528,2025-10-28,CUST1268,Myra Nair,North,Electronics,27in Monitor,4,185.0,M. Gupta,UPI,New,740.0
+ORD101432,2025-05-04,CUST1172,Diya Patel,East,Electronics,Webcam HD,2,8.21,R. Verma,Debit Card,New,16.42
+ORD101561,2025-01-10,CUST1301,Ishaan Verma,West,Software,VPN Subscription,2,11.83,S. Khan,Net Banking,New,23.66
+ORD101260,2024-01-08,CUST1000,Riya Agarwal,South,Furniture,Bookshelf,5,225.75,R. Verma,Debit Card,New,1128.75
+ORD101538,2025-03-08,CUST1278,Pari Iyer,East,Electronics,Mechanical Keyboard,3,100.61,P. Iyer,Credit Card,Returning,301.83
+ORD101494,2025-01-01,CUST1234,Myra Nair,South,Electronics,Wireless Mouse,2,312.38,S. Khan,Debit Card,New,624.76
+ORD100523,2024-09-05,CUST1103,Aarav Nair,West,Office Supplies,Sticky Notes,4,258.86,P. Iyer,Debit Card,Returning,1035.44
+ORD101146,2024-07-01,CUST1306,Riya Mehta,North,Software,Project Mgmt Tool,1,318.06,M. Gupta,UPI,New,318.06
+ORD101571,2025-10-22,CUST1311,Reyansh Gupta,South,Software,Antivirus License,2,255.01,R. Verma,Wallet,Returning,510.02
+ORD100578,2024-10-07,CUST1158,Arjun Khan,North,Software,Antivirus License,2,139.24,S. Khan,Net Banking,New,278.48
+ORD100986,2025-10-27,CUST1146,Ayaan Gupta,West,Electronics,27in Monitor,3,149.19,N. Joshi,Credit Card,New,447.57
+ORD100633,2024-05-15,CUST1213,Saanvi Khan,West,Furniture,Standing Desk,2,361.42,M. Gupta,Net Banking,Returning,722.84
+ORD100882,2025-05-21,CUST1042,Ayaan Chopra,South,Software,Antivirus License,4,150.42,R. Verma,Credit Card,Returning,601.68
+ORD100618,2025-03-06,CUST1198,Sai Mehta,South,Office Supplies,Notebook Pack,1,278.46,P. Iyer,Wallet,New,278.46
+ORD100899,2025-04-23,CUST1059,Arjun Singh,North,Electronics,Webcam HD,1,53.36,R. Verma,Debit Card,New,53.36
+ORD100655,2024-08-12,CUST1235,Krishna Malhotra,West,Software,VPN Subscription,1,144.36,R. Verma,Credit Card,Returning,144.36
+ORD101186,2024-01-24,CUST1346,Reyansh Joshi,North,Electronics,USB-C Hub,1,182.99,P. Iyer,Credit Card,New,182.99
+ORD101441,2025-08-25,CUST1181,Aadhya Kumar,West,Software,VPN Subscription,1,80.79,A. Sharma,Credit Card,Returning,80.79
+ORD100137,2025-03-18,CUST1137,Myra Singh,East,Furniture,Filing Cabinet,4,45.88,A. Sharma,Net Banking,New,183.52
+ORD100557,2024-08-04,CUST1137,Aditya Joshi,South,Office Supplies,Sticky Notes,1,104.76,A. Sharma,UPI,Returning,104.76
+ORD100697,2025-02-16,CUST1277,Riya Mehta,South,Software,Project Mgmt Tool,1,287.07,M. Gupta,Net Banking,Returning,287.07
+ORD101329,2024-12-04,CUST1069,Krishna Singh,West,Electronics,Webcam HD,1,19.29,R. Verma,Wallet,Returning,19.29
+ORD101162,2025-09-05,CUST1322,Anika Chopra,North,Furniture,Office Chair,2,206.12,N. Joshi,Debit Card,Returning,412.24
+ORD101206,2025-06-01,CUST1366,Krishna Agarwal,East,Electronics,Mechanical Keyboard,3,345.09,S. Khan,Wallet,Returning,1035.27
+ORD100448,2024-12-25,CUST1028,Navya Kumar,North,Software,Cloud Backup Plan,2,28.1,S. Khan,Credit Card,New,56.2
+ORD100368,2024-07-18,CUST1368,Diya Verma,North,Office Supplies,Whiteboard,2,94.51,A. Sharma,Wallet,Returning,189.02
+ORD101523,2024-10-01,CUST1263,Aditya Khan,South,Electronics,Mechanical Keyboard,1,145.23,R. Verma,Wallet,Returning,145.23
+ORD101210,2025-08-01,CUST1370,Sai Agarwal,North,Software,Antivirus License,2,302.18,S. Khan,Wallet,New,604.36
+ORD100327,2025-06-06,CUST1327,Diya Verma,East,Furniture,Filing Cabinet,1,384.81,A. Sharma,Wallet,Returning,384.81
+ORD100317,2024-11-13,CUST1317,Ananya Malhotra,West,Office Supplies,Desk Organizer,1,348.11,R. Verma,Debit Card,New,348.11
+ORD101232,2024-10-09,CUST1392,Ananya Sharma,East,Electronics,Wireless Mouse,4,122.73,M. Gupta,UPI,New,490.92
+ORD100528,2024-02-06,CUST1108,Ishaan Malhotra,South,Software,Project Mgmt Tool,5,33.41,A. Sharma,Credit Card,Returning,167.05
+ORD100479,2024-06-10,CUST1059,Vihaan Iyer,West,Office Supplies,Pen Set,2,302.66,S. Khan,UPI,New,605.32
+ORD100338,2025-02-25,CUST1338,Aarav Nair,East,Furniture,Desk Lamp,1,310.99,A. Sharma,Credit Card,New,310.99
+ORD100875,2024-03-05,CUST1035,Ananya Sharma,East,Electronics,USB-C Hub,4,418.64,P. Iyer,Wallet,New,1674.56
+ORD100657,2024-01-14,CUST1237,Aadhya Singh,East,Furniture,Bookshelf,1,341.76,A. Sharma,Debit Card,Returning,341.76
+ORD100148,2025-12-22,CUST1148,Reyansh Khan,West,Electronics,Webcam HD,2,131.03,M. Gupta,Debit Card,Returning,262.06
+ORD101431,2024-02-29,CUST1171,Navya Khan,South,Office Supplies,Whiteboard,1,321.26,R. Verma,Net Banking,Returning,321.26
+ORD101495,2024-05-23,CUST1235,Kavya Kumar,West,Office Supplies,Desk Organizer,3,375.06,N. Joshi,Debit Card,Returning,1125.18
+ORD100028,2025-07-07,CUST1028,Ishaan Singh,South,Software,Antivirus License,1,74.67,S. Khan,UPI,Returning,74.67
+ORD100246,2025-07-31,CUST1246,Sai Joshi,South,Office Supplies,Sticky Notes,2,426.69,S. Khan,Debit Card,New,853.38
+ORD100365,2025-10-12,CUST1365,Ishaan Gupta,South,Office Supplies,Pen Set,1,113.15,P. Iyer,Net Banking,New,113.15
+ORD100945,2024-04-04,CUST1105,Sai Verma,South,Software,Project Mgmt Tool,1,53.23,R. Verma,Wallet,Returning,53.23
+ORD101273,2024-06-26,CUST1013,Riya Reddy,South,Office Supplies,Whiteboard,4,332.4,A. Sharma,Wallet,Returning,1329.6
+ORD100198,2024-07-22,CUST1198,Vivaan Khan,South,Electronics,Mechanical Keyboard,3,371.99,A. Sharma,Debit Card,Returning,1115.97
+ORD101153,2025-01-14,CUST1313,Ayaan Sharma,East,Furniture,Filing Cabinet,1,8.28,N. Joshi,UPI,New,8.28
+ORD100903,2024-02-02,CUST1063,Vivaan Nair,South,Furniture,Filing Cabinet,2,170.06,S. Khan,Debit Card,New,340.12
+ORD100744,2025-11-07,CUST1324,Vihaan Agarwal,North,Furniture,Desk Lamp,2,371.43,N. Joshi,Net Banking,Returning,742.86
+ORD100192,2025-02-08,CUST1192,Pari Malhotra,West,Software,VPN Subscription,1,61.16,R. Verma,Debit Card,New,61.16
+ORD100404,2025-07-08,CUST1404,Diya Gupta,East,Electronics,27in Monitor,1,427.06,A. Sharma,UPI,New,427.06
+ORD100921,2024-03-19,CUST1081,Ayaan Sharma,South,Software,Cloud Backup Plan,5,343.21,M. Gupta,UPI,New,1716.05
+ORD100483,2025-09-04,CUST1063,Vihaan Iyer,South,Electronics,Webcam HD,1,349.41,R. Verma,Debit Card,New,349.41
+ORD100158,2024-05-15,CUST1158,Aarav Iyer,North,Software,VPN Subscription,1,394.5,A. Sharma,Net Banking,New,394.5
+ORD100315,2025-01-19,CUST1315,Aditya Gupta,North,Furniture,Bookshelf,4,90.82,P. Iyer,Credit Card,Returning,363.28
+ORD100256,2024-09-13,CUST1256,Krishna Malhotra,East,Electronics,Webcam HD,4,256.92,S. Khan,UPI,New,1027.68
+ORD100007,2024-01-01,CUST1007,Sai Joshi,East,Office Supplies,Sticky Notes,5,16.61,P. Iyer,Debit Card,New,83.05
+ORD100791,2024-03-24,CUST1371,Navya Verma,West,Furniture,Office Chair,1,325.47,R. Verma,Credit Card,New,325.47
+ORD100857,2025-09-04,CUST1017,Saanvi Malhotra,East,Furniture,Filing Cabinet,3,370.92,S. Khan,Credit Card,Returning,1112.76
+ORD100384,2024-07-24,CUST1384,Sai Verma,South,Software,Antivirus License,1,110.93,M. Gupta,Wallet,Returning,110.93
+ORD100951,2024-10-17,CUST1111,Anika Joshi,South,Furniture,Desk Lamp,5,284.72,A. Sharma,UPI,New,1423.6
+ORD100177,2024-07-03,CUST1177,Pari Kumar,West,Electronics,Webcam HD,5,365.71,A. Sharma,Credit Card,Returning,1828.55
+ORD100870,2024-03-01,CUST1030,Kavya Gupta,East,Office Supplies,Desk Organizer,1,55.59,P. Iyer,Net Banking,New,55.59
+ORD100840,2025-10-10,CUST1000,Ishaan Nair,South,Office Supplies,Notebook Pack,1,400.17,N. Joshi,Net Banking,Returning,400.17
+ORD100314,2025-07-03,CUST1314,Myra Gupta,West,Electronics,Mechanical Keyboard,5,354.52,P. Iyer,Wallet,Returning,1772.6
+ORD100357,2025-12-10,CUST1357,Myra Singh,West,Electronics,27in Monitor,2,66.66,S. Khan,Net Banking,New,133.32
+ORD100981,2024-08-07,CUST1141,Kavya Malhotra,South,Furniture,Desk Lamp,2,260.77,N. Joshi,Debit Card,Returning,521.54
+ORD100298,2024-12-11,CUST1298,Riya Nair,South,Office Supplies,Pen Set,4,448.09,R. Verma,Net Banking,New,1792.36
+ORD100455,2025-08-08,CUST1035,Aarav Iyer,East,Software,Cloud Backup Plan,2,440.32,R. Verma,Net Banking,Returning,880.64
+ORD100543,2025-08-20,CUST1123,Riya Nair,East,Furniture,Office Chair,4,425.98,R. Verma,UPI,New,1703.92
+ORD100662,2024-03-01,CUST1242,Anika Mehta,North,Software,VPN Subscription,2,190.04,N. Joshi,Wallet,Returning,380.08
+ORD100596,2025-08-03,CUST1176,Diya Verma,East,Software,Cloud Backup Plan,2,91.74,M. Gupta,UPI,New,183.48
+ORD101597,2025-02-16,CUST1337,Diya Malhotra,West,Furniture,Filing Cabinet,1,356.04,N. Joshi,Credit Card,New,356.04
+ORD101131,2025-03-04,CUST1291,Sai Malhotra,West,Furniture,Standing Desk,4,162.39,N. Joshi,Net Banking,New,649.56
+ORD100685,2025-04-28,CUST1265,Myra Joshi,West,Furniture,Office Chair,5,320.15,R. Verma,UPI,Returning,1600.75
+ORD100527,2024-04-25,CUST1107,Aadhya Khan,East,Furniture,Office Chair,2,375.62,S. Khan,Net Banking,Returning,751.24
+ORD101480,2024-02-10,CUST1220,Vihaan Chopra,East,Software,Antivirus License,3,350.05,M. Gupta,Debit Card,Returning,1050.15
+ORD100799,2024-11-27,CUST1379,Vivaan Patel,West,Office Supplies,Whiteboard,2,70.53,S. Khan,Credit Card,Returning,141.06
+ORD100002,2025-08-11,CUST1002,Diya Reddy,West,Furniture,Desk Lamp,2,443.47,S. Khan,Net Banking,New,886.94
+ORD100360,2024-07-28,CUST1360,Riya Mehta,North,Furniture,Standing Desk,3,113.48,M. Gupta,Debit Card,New,340.44
+ORD101428,2024-04-02,CUST1168,Sai Malhotra,South,Software,VPN Subscription,1,51.85,R. Verma,Credit Card,Returning,51.85
+ORD100202,2024-09-24,CUST1202,Ananya Kumar,East,Software,Antivirus License,2,74.27,M. Gupta,UPI,Returning,148.54
+ORD101236,2025-06-26,CUST1396,Vihaan Khan,West,Electronics,Mechanical Keyboard,1,400.79,P. Iyer,UPI,New,400.79
+ORD101562,2025-09-29,CUST1302,Vihaan Khan,East,Furniture,Standing Desk,2,320.0,M. Gupta,UPI,Returning,640.0
+ORD101072,2024-03-13,CUST1232,Pari Verma,West,Furniture,Filing Cabinet,1,445.88,N. Joshi,Credit Card,Returning,445.88
+ORD100112,2024-05-20,CUST1112,Ananya Mehta,South,Electronics,27in Monitor,1,187.85,R. Verma,Net Banking,Returning,187.85
+ORD100937,2024-06-17,CUST1097,Krishna Nair,South,Furniture,Desk Lamp,2,8.43,S. Khan,Credit Card,New,16.86
+ORD101027,2025-07-19,CUST1187,Myra Reddy,South,Furniture,Office Chair,1,291.67,P. Iyer,Debit Card,New,291.67
+ORD100307,2025-05-25,CUST1307,Navya Agarwal,North,Office Supplies,Notebook Pack,5,113.14,A. Sharma,Wallet,New,565.7
+ORD100978,2025-08-23,CUST1138,Arjun Nair,South,Electronics,Wireless Mouse,1,48.87,M. Gupta,Debit Card,New,48.87
+ORD100422,2024-07-14,CUST1002,Aadhya Chopra,South,Office Supplies,Desk Organizer,2,348.22,R. Verma,UPI,Returning,696.44
+ORD100915,2025-10-25,CUST1075,Reyansh Iyer,West,Office Supplies,Pen Set,4,126.37,M. Gupta,Net Banking,New,505.48
+ORD101196,2025-03-06,CUST1356,Saanvi Reddy,East,Software,Project Mgmt Tool,3,49.71,S. Khan,Wallet,Returning,149.13
+ORD101281,2025-12-12,CUST1021,Ishaan Reddy,North,Furniture,Office Chair,1,123.96,A. Sharma,Wallet,Returning,123.96
+ORD101567,2024-11-08,CUST1307,Aadhya Mehta,East,Furniture,Filing Cabinet,2,60.9,A. Sharma,Debit Card,Returning,121.8
+ORD101090,2024-06-29,CUST1250,Diya Mehta,North,Software,Cloud Backup Plan,1,262.42,R. Verma,Net Banking,Returning,262.42
+ORD100459,2024-10-03,CUST1039,Pari Singh,East,Software,Cloud Backup Plan,1,289.71,S. Khan,Debit Card,New,289.71
+ORD100589,2025-02-06,CUST1169,Riya Agarwal,East,Software,Antivirus License,5,226.05,M. Gupta,Credit Card,New,1130.25
+ORD101400,2025-11-11,CUST1140,Reyansh Iyer,West,Furniture,Office Chair,1,88.23,M. Gupta,UPI,New,88.23
+ORD100762,2024-01-29,CUST1342,Anika Sharma,East,Office Supplies,Notebook Pack,1,430.42,R. Verma,Net Banking,New,430.42
+ORD100815,2025-03-09,CUST1395,Vihaan Sharma,East,Software,Project Mgmt Tool,1,131.75,A. Sharma,Net Banking,New,131.75
+ORD100947,2025-11-28,CUST1107,Pari Joshi,West,Electronics,27in Monitor,5,219.42,S. Khan,Wallet,New,1097.1
+ORD101169,2024-10-31,CUST1329,Krishna Mehta,South,Furniture,Filing Cabinet,3,201.61,S. Khan,Net Banking,Returning,604.83
+ORD100449,2024-12-16,CUST1029,Anika Agarwal,East,Office Supplies,Pen Set,5,128.67,M. Gupta,Net Banking,New,643.35
+ORD101321,2024-02-14,CUST1061,Vivaan Sharma,South,Office Supplies,Whiteboard,5,162.18,P. Iyer,Net Banking,Returning,810.9
+ORD100679,2024-06-23,CUST1259,Anika Khan,West,Furniture,Bookshelf,4,76.82,N. Joshi,Net Banking,New,307.28
+ORD100692,2025-03-17,CUST1272,Vihaan Gupta,South,Electronics,Webcam HD,3,437.56,N. Joshi,Wallet,Returning,1312.68
+ORD101081,2025-05-29,CUST1241,Saanvi Iyer,West,Software,Cloud Backup Plan,1,198.46,P. Iyer,Net Banking,New,198.46
+ORD100080,2025-09-01,CUST1080,Ishaan Nair,East,Office Supplies,Sticky Notes,2,255.04,N. Joshi,Wallet,New,510.08
+ORD101416,2024-07-16,CUST1156,Krishna Khan,South,Electronics,Webcam HD,2,22.12,P. Iyer,UPI,New,44.24
+ORD101089,2025-08-10,CUST1249,Aadhya Sharma,East,Office Supplies,Notebook Pack,2,345.27,R. Verma,Credit Card,New,690.54
+ORD101087,2025-11-29,CUST1247,Kavya Khan,East,Office Supplies,Whiteboard,4,91.23,N. Joshi,Credit Card,Returning,364.92
+ORD101381,2025-08-09,CUST1121,Arjun Gupta,East,Software,VPN Subscription,2,215.22,P. Iyer,Net Banking,Returning,430.44
+ORD100905,2025-11-03,CUST1065,Riya Nair,East,Office Supplies,Pen Set,5,131.4,A. Sharma,Debit Card,Returning,657.0
+ORD100215,2025-05-04,CUST1215,Kavya Kumar,South,Software,VPN Subscription,1,57.97,R. Verma,Credit Card,Returning,57.97
+ORD101067,2024-12-13,CUST1227,Riya Joshi,West,Electronics,27in Monitor,5,244.46,M. Gupta,UPI,New,1222.3
+ORD100030,2025-02-18,CUST1030,Myra Sharma,West,Furniture,Filing Cabinet,5,414.44,M. Gupta,Wallet,New,2072.2
+ORD100242,2025-05-10,CUST1242,Pari Reddy,South,Office Supplies,Desk Organizer,1,104.72,A. Sharma,Debit Card,Returning,104.72
+ORD101198,2025-05-05,CUST1358,Navya Agarwal,West,Software,Cloud Backup Plan,4,64.09,M. Gupta,Wallet,Returning,256.36
+ORD101085,2025-07-16,CUST1245,Arjun Malhotra,North,Furniture,Standing Desk,1,412.94,N. Joshi,Net Banking,New,412.94
+ORD100641,2025-10-05,CUST1221,Riya Joshi,West,Electronics,USB-C Hub,5,355.55,M. Gupta,Debit Card,Returning,1777.75
+ORD100696,2025-08-25,CUST1276,Ishaan Mehta,East,Electronics,Webcam HD,3,247.32,P. Iyer,Net Banking,Returning,741.96
+ORD100209,2024-11-07,CUST1209,Arjun Patel,East,Furniture,Filing Cabinet,4,16.45,A. Sharma,Wallet,New,65.8
+ORD101325,2025-11-26,CUST1065,Reyansh Nair,East,Electronics,USB-C Hub,4,227.7,S. Khan,Wallet,New,910.8
+ORD100770,2025-02-27,CUST1350,Krishna Iyer,East,Furniture,Standing Desk,2,380.44,A. Sharma,UPI,New,760.88
+ORD100752,2025-07-27,CUST1332,Pari Kumar,East,Electronics,Mechanical Keyboard,1,183.9,M. Gupta,UPI,Returning,183.9
+ORD101410,2024-12-18,CUST1150,Saanvi Verma,West,Software,Project Mgmt Tool,1,449.27,A. Sharma,Credit Card,New,449.27
+ORD100435,2024-09-22,CUST1015,Anika Verma,East,Furniture,Filing Cabinet,1,29.1,N. Joshi,Credit Card,Returning,29.1
+ORD101419,2025-06-06,CUST1159,Navya Patel,East,Furniture,Office Chair,2,135.26,N. Joshi,Debit Card,New,270.52
+ORD101515,2025-08-01,CUST1255,Krishna Iyer,West,Software,Antivirus License,5,417.72,R. Verma,Credit Card,New,2088.6
+ORD101347,2024-09-19,CUST1087,Krishna Patel,North,Software,Cloud Backup Plan,2,38.37,A. Sharma,Debit Card,New,76.74
+ORD101476,2025-10-17,CUST1216,Aarav Verma,West,Software,Cloud Backup Plan,5,416.55,S. Khan,UPI,New,2082.75
+ORD100688,2024-04-13,CUST1268,Kavya Agarwal,South,Software,Antivirus License,1,79.11,A. Sharma,UPI,Returning,79.11
+ORD100551,2024-12-10,CUST1131,Aditya Verma,South,Software,VPN Subscription,1,150.79,S. Khan,UPI,Returning,150.79
+ORD100544,2025-03-20,CUST1124,Saanvi Gupta,East,Office Supplies,Pen Set,1,406.76,R. Verma,Debit Card,Returning,406.76
+ORD100832,2024-09-26,CUST1412,Kavya Nair,South,Office Supplies,Desk Organizer,1,437.12,A. Sharma,Debit Card,New,437.12
+ORD101590,2025-05-04,CUST1330,Krishna Singh,South,Office Supplies,Whiteboard,2,338.79,A. Sharma,UPI,Returning,677.58
+ORD101499,2024-06-28,CUST1239,Diya Sharma,East,Software,Cloud Backup Plan,1,116.87,S. Khan,UPI,New,116.87
+ORD100714,2025-06-03,CUST1294,Navya Kumar,West,Furniture,Filing Cabinet,2,428.53,P. Iyer,Wallet,Returning,857.06
+ORD100403,2025-10-26,CUST1403,Pari Verma,West,Furniture,Bookshelf,4,358.35,P. Iyer,Debit Card,Returning,1433.4
+ORD101598,2024-04-14,CUST1338,Ishaan Khan,West,Office Supplies,Desk Organizer,4,364.63,P. Iyer,UPI,Returning,1458.52
+ORD100362,2024-03-19,CUST1362,Aditya Iyer,North,Software,Antivirus License,1,129.97,M. Gupta,Credit Card,Returning,129.97
+ORD100271,2025-01-17,CUST1271,Ishaan Reddy,West,Electronics,27in Monitor,4,397.92,N. Joshi,UPI,Returning,1591.68
+ORD100466,2024-06-01,CUST1046,Navya Reddy,East,Office Supplies,Notebook Pack,2,31.54,M. Gupta,UPI,New,63.08
+ORD101446,2025-05-14,CUST1186,Krishna Patel,South,Electronics,Webcam HD,5,13.19,M. Gupta,UPI,New,65.95
+ORD101188,2025-09-22,CUST1348,Riya Nair,South,Furniture,Standing Desk,1,430.0,S. Khan,Credit Card,Returning,430.0
+ORD101056,2024-08-09,CUST1216,Aarav Iyer,North,Electronics,Wireless Mouse,1,97.84,R. Verma,Credit Card,New,97.84
+ORD100277,2025-09-02,CUST1277,Aarav Gupta,South,Software,Cloud Backup Plan,1,436.23,R. Verma,Net Banking,New,436.23
+ORD101444,2025-05-20,CUST1184,Sai Gupta,West,Furniture,Office Chair,1,134.8,R. Verma,Net Banking,New,134.8
+ORD101534,2024-06-26,CUST1274,Pari Nair,West,Software,VPN Subscription,3,111.31,A. Sharma,Wallet,New,333.93
+ORD101324,2024-10-30,CUST1064,Ishaan Joshi,West,Software,Project Mgmt Tool,1,342.93,P. Iyer,Credit Card,Returning,342.93
+ORD100441,2025-10-01,CUST1021,Kavya Gupta,South,Software,VPN Subscription,4,110.91,S. Khan,Net Banking,New,443.64
+ORD100722,2024-07-22,CUST1302,Ananya Khan,West,Office Supplies,Desk Organizer,2,274.8,S. Khan,UPI,Returning,549.6
+ORD100786,2025-11-15,CUST1366,Ishaan Nair,North,Office Supplies,Pen Set,3,137.22,S. Khan,Credit Card,Returning,411.66
+ORD101244,2024-02-07,CUST1404,Aadhya Reddy,North,Office Supplies,Notebook Pack,1,405.13,M. Gupta,Credit Card,New,405.13
+ORD100442,2024-03-28,CUST1022,Ishaan Joshi,South,Electronics,Webcam HD,1,431.12,A. Sharma,Credit Card,New,431.12
+ORD100299,2025-02-25,CUST1299,Aarav Agarwal,North,Furniture,Standing Desk,5,337.56,R. Verma,Debit Card,New,1687.8
+ORD101453,2025-11-03,CUST1193,Vivaan Gupta,East,Electronics,Webcam HD,4,404.68,S. Khan,Credit Card,Returning,1618.72
+ORD100375,2024-11-19,CUST1375,Navya Agarwal,North,Office Supplies,Notebook Pack,2,310.97,R. Verma,Credit Card,New,621.94
+ORD101549,2024-10-13,CUST1289,Ayaan Chopra,West,Electronics,27in Monitor,5,212.01,S. Khan,Debit Card,Returning,1060.05
+ORD101208,2024-02-01,CUST1368,Kavya Reddy,South,Office Supplies,Pen Set,4,70.21,P. Iyer,Net Banking,New,280.84
+ORD100016,2025-07-21,CUST1016,Navya Agarwal,East,Software,Cloud Backup Plan,1,423.01,M. Gupta,Debit Card,Returning,423.01
+ORD100906,2024-02-25,CUST1066,Pari Verma,East,Software,Antivirus License,1,255.55,R. Verma,Credit Card,New,255.55
+ORD101088,2024-02-16,CUST1248,Diya Patel,South,Electronics,Wireless Mouse,1,414.98,A. Sharma,Net Banking,New,414.98
+ORD100472,2024-08-27,CUST1052,Ayaan Singh,West,Office Supplies,Whiteboard,5,158.57,N. Joshi,UPI,New,792.85
+ORD101022,2025-10-30,CUST1182,Vivaan Nair,East,Furniture,Office Chair,2,296.28,A. Sharma,Credit Card,New,592.56
+ORD100563,2024-10-29,CUST1143,Aditya Khan,North,Furniture,Desk Lamp,1,131.81,S. Khan,Net Banking,Returning,131.81
+ORD100871,2024-08-02,CUST1031,Riya Mehta,West,Software,Antivirus License,1,168.98,P. Iyer,UPI,New,168.98
+ORD100750,2024-11-25,CUST1330,Reyansh Joshi,East,Furniture,Standing Desk,3,353.19,P. Iyer,Wallet,New,1059.57
+ORD100388,2025-11-06,CUST1388,Myra Agarwal,West,Furniture,Filing Cabinet,5,256.52,M. Gupta,UPI,Returning,1282.6
+ORD100022,2025-12-26,CUST1022,Saanvi Malhotra,East,Software,Antivirus License,1,237.8,N. Joshi,Debit Card,Returning,237.8
+ORD100898,2024-09-07,CUST1058,Vihaan Iyer,South,Software,Cloud Backup Plan,1,387.15,S. Khan,Debit Card,Returning,387.15
+ORD100957,2025-06-26,CUST1117,Pari Singh,South,Office Supplies,Whiteboard,1,106.81,S. Khan,Net Banking,Returning,106.81
+ORD100124,2025-05-30,CUST1124,Reyansh Agarwal,West,Office Supplies,Pen Set,2,368.58,N. Joshi,Net Banking,New,737.16
+ORD100423,2024-02-22,CUST1003,Reyansh Kumar,West,Software,Project Mgmt Tool,1,53.38,S. Khan,Wallet,Returning,53.38
+ORD100992,2024-07-22,CUST1152,Aarav Singh,West,Furniture,Filing Cabinet,4,77.21,S. Khan,UPI,Returning,308.84
+ORD100880,2025-09-21,CUST1040,Riya Khan,West,Electronics,Webcam HD,1,165.47,M. Gupta,Net Banking,New,165.47
+ORD101454,2025-03-08,CUST1194,Saanvi Iyer,North,Furniture,Desk Lamp,1,259.39,M. Gupta,Wallet,New,259.39
+ORD100470,2025-05-28,CUST1050,Aditya Patel,South,Office Supplies,Sticky Notes,2,417.56,R. Verma,Net Banking,New,835.12
+ORD100721,2024-09-08,CUST1301,Ishaan Reddy,West,Office Supplies,Pen Set,2,254.05,A. Sharma,Net Banking,Returning,508.1
+ORD101338,2025-10-23,CUST1078,Pari Khan,East,Electronics,USB-C Hub,1,239.04,N. Joshi,UPI,Returning,239.04
+ORD100142,2025-12-08,CUST1142,Ananya Kumar,West,Office Supplies,Whiteboard,3,174.22,M. Gupta,Debit Card,New,522.66
+ORD100050,2025-07-10,CUST1050,Kavya Joshi,East,Software,Project Mgmt Tool,5,420.32,S. Khan,Debit Card,Returning,2101.6
+ORD100863,2025-02-18,CUST1023,Krishna Patel,South,Software,VPN Subscription,2,362.34,R. Verma,Debit Card,Returning,724.68
+ORD101509,2024-09-20,CUST1249,Vivaan Sharma,West,Software,Project Mgmt Tool,1,435.2,P. Iyer,Wallet,Returning,435.2
+ORD101380,2025-07-14,CUST1120,Reyansh Malhotra,North,Electronics,Wireless Mouse,1,437.98,N. Joshi,Debit Card,Returning,437.98
+ORD100623,2024-09-26,CUST1203,Vihaan Reddy,East,Electronics,Webcam HD,1,157.42,R. Verma,Debit Card,Returning,157.42
+ORD101221,2025-06-24,CUST1381,Saanvi Sharma,South,Electronics,Wireless Mouse,1,372.12,N. Joshi,Wallet,Returning,372.12
+ORD100081,2025-12-05,CUST1081,Diya Kumar,West,Furniture,Office Chair,2,449.99,M. Gupta,Wallet,New,899.98
+ORD100703,2025-08-14,CUST1283,Arjun Kumar,West,Office Supplies,Sticky Notes,5,116.31,S. Khan,Wallet,New,581.55
+ORD100482,2025-04-02,CUST1062,Vihaan Gupta,South,Electronics,Webcam HD,1,304.76,R. Verma,Debit Card,New,304.76
+ORD100321,2025-09-23,CUST1321,Pari Nair,West,Office Supplies,Pen Set,2,154.89,A. Sharma,UPI,New,309.78
+ORD101352,2024-03-10,CUST1092,Aadhya Sharma,North,Electronics,Mechanical Keyboard,1,362.23,R. Verma,Net Banking,Returning,362.23
+ORD100505,2024-04-01,CUST1085,Reyansh Gupta,West,Office Supplies,Desk Organizer,4,447.07,S. Khan,Net Banking,New,1788.28
+ORD101537,2025-04-05,CUST1277,Navya Gupta,South,Office Supplies,Whiteboard,2,158.29,M. Gupta,Wallet,Returning,316.58
+ORD100841,2025-07-17,CUST1001,Aditya Kumar,East,Furniture,Desk Lamp,1,37.41,M. Gupta,Wallet,Returning,37.41
+ORD100066,2025-10-10,CUST1066,Navya Gupta,West,Electronics,USB-C Hub,4,447.63,A. Sharma,Credit Card,New,1790.52
+ORD101385,2024-05-11,CUST1125,Saanvi Nair,West,Electronics,Webcam HD,5,378.82,R. Verma,UPI,New,1894.1
+ORD100733,2025-03-05,CUST1313,Vihaan Sharma,West,Office Supplies,Desk Organizer,1,436.18,S. Khan,Debit Card,New,436.18
+ORD101435,2024-05-15,CUST1175,Aditya Agarwal,East,Electronics,27in Monitor,1,306.43,S. Khan,Credit Card,Returning,306.43
+ORD100801,2024-11-16,CUST1381,Ananya Mehta,East,Office Supplies,Desk Organizer,2,253.31,R. Verma,Net Banking,New,506.62
+ORD101543,2024-11-14,CUST1283,Pari Agarwal,North,Software,VPN Subscription,1,372.57,M. Gupta,UPI,New,372.57
+ORD100907,2024-09-04,CUST1067,Anika Chopra,South,Office Supplies,Notebook Pack,3,240.08,R. Verma,Credit Card,Returning,720.24
+ORD100031,2025-04-10,CUST1031,Sai Sharma,North,Office Supplies,Whiteboard,3,344.46,P. Iyer,Credit Card,Returning,1033.38
+ORD100795,2025-12-15,CUST1375,Ananya Reddy,North,Electronics,Wireless Mouse,2,329.4,P. Iyer,UPI,Returning,658.8
+ORD100417,2024-02-11,CUST1417,Navya Gupta,West,Software,Cloud Backup Plan,5,306.99,M. Gupta,Wallet,New,1534.95
+ORD100881,2024-07-17,CUST1041,Ananya Gupta,North,Office Supplies,Desk Organizer,3,21.17,M. Gupta,UPI,New,63.51
+ORD100632,2025-09-28,CUST1212,Reyansh Agarwal,North,Furniture,Desk Lamp,4,353.91,M. Gupta,UPI,Returning,1415.64
+ORD100064,2025-01-01,CUST1064,Vihaan Nair,South,Furniture,Standing Desk,3,14.98,A. Sharma,Credit Card,Returning,44.94
+ORD100139,2025-01-29,CUST1139,Riya Verma,North,Electronics,USB-C Hub,2,190.9,R. Verma,Wallet,New,381.8
+ORD101304,2024-08-18,CUST1044,Myra Kumar,North,Office Supplies,Sticky Notes,2,221.12,A. Sharma,UPI,Returning,442.24
+ORD101297,2025-08-05,CUST1037,Saanvi Verma,South,Software,VPN Subscription,1,91.6,M. Gupta,Debit Card,New,91.6
+ORD100077,2024-10-20,CUST1077,Kavya Khan,North,Electronics,USB-C Hub,1,279.83,N. Joshi,Credit Card,Returning,279.83
+ORD100491,2025-12-09,CUST1071,Sai Mehta,West,Software,Cloud Backup Plan,2,134.13,S. Khan,Credit Card,Returning,268.26
+ORD101141,2025-03-03,CUST1301,Aarav Malhotra,East,Office Supplies,Pen Set,1,34.36,S. Khan,UPI,New,34.36
+ORD101228,2025-02-02,CUST1388,Kavya Kumar,North,Software,Cloud Backup Plan,3,37.3,P. Iyer,Debit Card,New,111.9
+ORD100532,2024-12-18,CUST1112,Vihaan Verma,West,Software,Project Mgmt Tool,2,31.0,A. Sharma,UPI,Returning,62.0
+ORD101366,2024-03-19,CUST1106,Diya Joshi,East,Electronics,USB-C Hub,1,144.39,A. Sharma,Debit Card,New,144.39
+ORD101361,2025-12-02,CUST1101,Anika Sharma,East,Software,Project Mgmt Tool,4,43.04,A. Sharma,Wallet,New,172.16
+ORD100296,2025-12-01,CUST1296,Myra Iyer,North,Furniture,Bookshelf,3,284.35,A. Sharma,Net Banking,Returning,853.05
+ORD100591,2025-01-23,CUST1171,Aditya Kumar,North,Electronics,USB-C Hub,1,416.79,R. Verma,Wallet,Returning,416.79
+ORD100419,2024-01-17,CUST1419,Diya Kumar,West,Software,Cloud Backup Plan,5,87.36,N. Joshi,Net Banking,Returning,436.8
+ORD100767,2024-10-11,CUST1347,Anika Chopra,East,Furniture,Office Chair,3,334.75,R. Verma,Net Banking,New,1004.25
+ORD100892,2024-05-06,CUST1052,Reyansh Khan,North,Electronics,USB-C Hub,3,439.94,N. Joshi,Debit Card,New,1319.82
+ORD100438,2025-04-13,CUST1018,Sai Gupta,West,Software,VPN Subscription,1,314.96,M. Gupta,Net Banking,New,314.96
+ORD100261,2024-01-09,CUST1261,Vihaan Mehta,West,Office Supplies,Whiteboard,2,175.71,R. Verma,Wallet,Returning,351.42
+ORD101078,2024-09-26,CUST1238,Aditya Nair,West,Office Supplies,Sticky Notes,2,255.39,P. Iyer,UPI,New,510.78
+ORD100954,2025-11-10,CUST1114,Diya Sharma,North,Office Supplies,Desk Organizer,4,176.38,A. Sharma,Credit Card,New,705.52
+ORD100724,2024-06-04,CUST1304,Aadhya Chopra,North,Office Supplies,Notebook Pack,1,88.3,N. Joshi,UPI,New,88.3
+ORD101520,2025-12-24,CUST1260,Myra Singh,North,Software,Antivirus License,4,388.81,R. Verma,Wallet,Returning,1555.24
+ORD100281,2025-07-18,CUST1281,Saanvi Singh,South,Electronics,Webcam HD,2,150.59,A. Sharma,Credit Card,New,301.18
+ORD100626,2025-07-16,CUST1206,Saanvi Mehta,North,Electronics,27in Monitor,1,201.58,R. Verma,Net Banking,Returning,201.58
+ORD101104,2025-05-06,CUST1264,Pari Nair,West,Furniture,Bookshelf,1,8.53,P. Iyer,Wallet,Returning,8.53
+ORD101566,2025-04-05,CUST1306,Reyansh Sharma,North,Office Supplies,Notebook Pack,1,304.9,N. Joshi,UPI,Returning,304.9
+ORD101301,2024-12-01,CUST1041,Vivaan Reddy,East,Software,Project Mgmt Tool,2,78.62,A. Sharma,Net Banking,New,157.24
+ORD100251,2025-01-14,CUST1251,Aadhya Joshi,East,Software,Project Mgmt Tool,2,444.92,R. Verma,Credit Card,New,889.84
+ORD101465,2024-03-11,CUST1205,Ananya Sharma,East,Electronics,Wireless Mouse,1,193.22,M. Gupta,Wallet,New,193.22
+ORD101530,2024-04-06,CUST1270,Ayaan Iyer,North,Office Supplies,Desk Organizer,2,136.26,P. Iyer,Debit Card,New,272.52
+ORD100982,2025-07-25,CUST1142,Sai Verma,East,Office Supplies,Sticky Notes,1,415.49,R. Verma,Debit Card,Returning,415.49
+ORD101425,2024-02-02,CUST1165,Sai Singh,South,Office Supplies,Sticky Notes,1,208.83,R. Verma,UPI,New,208.83
+ORD100706,2024-12-03,CUST1286,Ayaan Agarwal,East,Furniture,Standing Desk,5,405.44,P. Iyer,UPI,Returning,2027.2
+ORD100273,2024-01-20,CUST1273,Krishna Mehta,East,Software,VPN Subscription,1,436.61,R. Verma,UPI,New,436.61
+ORD101588,2025-10-01,CUST1328,Saanvi Malhotra,South,Furniture,Standing Desk,1,272.89,S. Khan,UPI,New,272.89
+ORD101348,2025-04-26,CUST1088,Aarav Joshi,South,Software,VPN Subscription,1,208.06,M. Gupta,Net Banking,Returning,208.06
+ORD100963,2025-12-24,CUST1123,Krishna Kumar,East,Software,VPN Subscription,3,442.55,N. Joshi,Wallet,Returning,1327.65
+ORD100877,2025-08-17,CUST1037,Ishaan Agarwal,East,Electronics,Webcam HD,2,352.62,N. Joshi,Net Banking,New,705.24
+ORD101460,2024-05-23,CUST1200,Vihaan Verma,West,Software,VPN Subscription,1,314.44,A. Sharma,Wallet,New,314.44
+ORD100411,2025-03-26,CUST1411,Arjun Joshi,West,Furniture,Filing Cabinet,2,73.69,N. Joshi,UPI,Returning,147.38
+ORD100667,2024-12-24,CUST1247,Vivaan Reddy,North,Furniture,Office Chair,3,285.94,S. Khan,Wallet,Returning,857.82
+ORD100149,2025-10-16,CUST1149,Krishna Nair,East,Software,Antivirus License,4,278.2,M. Gupta,Debit Card,Returning,1112.8
+ORD100644,2025-09-15,CUST1224,Ananya Malhotra,South,Furniture,Office Chair,1,40.6,N. Joshi,UPI,Returning,40.6
+ORD101295,2025-12-30,CUST1035,Kavya Khan,South,Furniture,Desk Lamp,4,75.3,S. Khan,UPI,Returning,301.2
+ORD100218,2024-12-04,CUST1218,Sai Verma,North,Software,VPN Subscription,1,232.06,A. Sharma,UPI,Returning,232.06
+ORD100239,2025-03-22,CUST1239,Ayaan Agarwal,West,Electronics,USB-C Hub,3,67.36,P. Iyer,Net Banking,Returning,202.08
+ORD100792,2024-07-09,CUST1372,Reyansh Mehta,West,Office Supplies,Whiteboard,2,331.35,M. Gupta,Credit Card,New,662.7
+ORD100191,2024-06-03,CUST1191,Krishna Singh,North,Software,VPN Subscription,1,303.32,R. Verma,Wallet,New,303.32
+ORD100333,2025-10-01,CUST1333,Vivaan Nair,North,Office Supplies,Pen Set,2,222.26,P. Iyer,Debit Card,Returning,444.52
+ORD100962,2025-06-23,CUST1122,Krishna Patel,North,Software,Antivirus License,4,79.95,S. Khan,UPI,New,319.8
+ORD101405,2024-12-03,CUST1145,Reyansh Kumar,South,Office Supplies,Notebook Pack,2,400.56,S. Khan,Credit Card,Returning,801.12
+ORD101569,2025-02-07,CUST1309,Krishna Gupta,North,Office Supplies,Desk Organizer,4,372.31,S. Khan,Net Banking,Returning,1489.24
+ORD101334,2025-03-18,CUST1074,Reyansh Nair,North,Furniture,Standing Desk,1,225.8,S. Khan,Wallet,New,225.8
+ORD101305,2025-12-08,CUST1045,Myra Patel,West,Office Supplies,Notebook Pack,1,72.8,M. Gupta,Credit Card,New,72.8
+ORD100582,2024-05-09,CUST1162,Arjun Singh,North,Electronics,USB-C Hub,2,220.86,P. Iyer,UPI,Returning,441.72
+ORD101535,2024-01-03,CUST1275,Krishna Nair,North,Furniture,Standing Desk,4,305.62,R. Verma,Net Banking,New,1222.48
+ORD101158,2025-02-02,CUST1318,Aarav Kumar,South,Furniture,Filing Cabinet,2,310.65,P. Iyer,Debit Card,New,621.3
+ORD100839,2025-10-03,CUST1419,Anika Nair,East,Office Supplies,Sticky Notes,1,362.59,N. Joshi,Wallet,Returning,362.59
+ORD100627,2025-07-03,CUST1207,Pari Sharma,North,Office Supplies,Notebook Pack,1,393.98,S. Khan,Debit Card,Returning,393.98
+ORD100323,2024-06-23,CUST1323,Myra Verma,West,Electronics,Wireless Mouse,3,275.16,A. Sharma,Net Banking,New,825.48
+ORD101327,2025-10-20,CUST1067,Kavya Verma,West,Electronics,USB-C Hub,4,434.28,R. Verma,UPI,Returning,1737.12
+ORD100778,2025-02-24,CUST1358,Aadhya Agarwal,East,Furniture,Office Chair,4,63.26,S. Khan,UPI,Returning,253.04
+ORD100939,2025-08-19,CUST1099,Sai Chopra,East,Software,VPN Subscription,4,285.12,P. Iyer,Credit Card,Returning,1140.48
+ORD100437,2025-02-05,CUST1017,Aditya Verma,South,Software,VPN Subscription,5,42.51,S. Khan,Net Banking,Returning,212.55
+ORD100119,2025-03-28,CUST1119,Riya Gupta,North,Office Supplies,Pen Set,2,324.88,A. Sharma,UPI,New,649.76
+ORD101098,2024-09-14,CUST1258,Krishna Agarwal,East,Electronics,USB-C Hub,1,422.06,N. Joshi,Net Banking,New,422.06
+ORD101584,2024-07-15,CUST1324,Sai Sharma,North,Furniture,Desk Lamp,1,343.3,R. Verma,Net Banking,New,343.3
+ORD101026,2025-03-11,CUST1186,Anika Kumar,North,Software,VPN Subscription,1,131.25,P. Iyer,UPI,New,131.25
+ORD101114,2024-03-21,CUST1274,Aarav Joshi,South,Furniture,Filing Cabinet,1,123.4,P. Iyer,UPI,Returning,123.4
+ORD100076,2025-07-31,CUST1076,Sai Agarwal,South,Office Supplies,Notebook Pack,3,390.0,S. Khan,Net Banking,Returning,1170.0
+ORD101053,2024-11-18,CUST1213,Saanvi Mehta,North,Office Supplies,Notebook Pack,1,309.7,R. Verma,UPI,Returning,309.7
+ORD100900,2024-10-14,CUST1060,Aarav Malhotra,East,Electronics,USB-C Hub,2,49.32,P. Iyer,Wallet,New,98.64
+ORD100371,2025-10-16,CUST1371,Pari Agarwal,West,Furniture,Office Chair,4,85.3,R. Verma,Debit Card,Returning,341.2
+ORD101545,2025-06-13,CUST1285,Aditya Nair,South,Furniture,Desk Lamp,2,343.36,S. Khan,Debit Card,Returning,686.72
+ORD101591,2025-11-24,CUST1331,Myra Patel,North,Electronics,27in Monitor,2,50.42,N. Joshi,Credit Card,Returning,100.84
+ORD100941,2025-02-10,CUST1101,Navya Verma,West,Office Supplies,Pen Set,1,436.87,R. Verma,Net Banking,Returning,436.87
+ORD100577,2025-10-04,CUST1157,Anika Verma,West,Electronics,Mechanical Keyboard,1,427.33,N. Joshi,Wallet,New,427.33
+ORD100819,2025-01-15,CUST1399,Myra Joshi,East,Furniture,Filing Cabinet,3,332.96,S. Khan,Net Banking,Returning,998.88
+ORD101182,2024-01-23,CUST1342,Pari Singh,East,Electronics,Webcam HD,1,192.93,N. Joshi,Wallet,New,192.93
+ORD101200,2024-07-21,CUST1360,Saanvi Reddy,North,Software,Project Mgmt Tool,2,131.14,A. Sharma,Wallet,New,262.28
+ORD101394,2024-11-21,CUST1134,Krishna Malhotra,East,Furniture,Filing Cabinet,3,100.1,R. Verma,Wallet,Returning,300.3
+ORD100886,2024-10-10,CUST1046,Reyansh Reddy,East,Office Supplies,Pen Set,1,366.72,P. Iyer,Wallet,Returning,366.72
+ORD100968,2024-01-08,CUST1128,Reyansh Reddy,South,Electronics,Mechanical Keyboard,1,34.07,S. Khan,Net Banking,Returning,34.07
+ORD100785,2025-03-27,CUST1365,Pari Mehta,West,Office Supplies,Notebook Pack,5,403.14,P. Iyer,Credit Card,Returning,2015.7
+ORD101240,2025-04-12,CUST1400,Ayaan Kumar,South,Furniture,Bookshelf,5,96.41,M. Gupta,UPI,Returning,482.05
+ORD101298,2025-09-17,CUST1038,Riya Joshi,South,Software,VPN Subscription,3,413.03,M. Gupta,Debit Card,New,1239.09
+ORD100301,2025-02-22,CUST1301,Myra Gupta,East,Software,VPN Subscription,2,427.99,R. Verma,Credit Card,New,855.98
+ORD100689,2025-04-06,CUST1269,Krishna Mehta,West,Furniture,Filing Cabinet,5,322.71,R. Verma,UPI,Returning,1613.55
+ORD100812,2025-09-09,CUST1392,Vihaan Nair,South,Furniture,Filing Cabinet,2,89.7,R. Verma,Debit Card,Returning,179.4
+ORD101061,2024-03-03,CUST1221,Vihaan Khan,South,Office Supplies,Sticky Notes,1,104.73,A. Sharma,Credit Card,New,104.73
+ORD100236,2024-03-28,CUST1236,Pari Reddy,South,Electronics,Wireless Mouse,2,338.75,N. Joshi,Wallet,New,677.5
+ORD101225,2024-04-24,CUST1385,Navya Agarwal,North,Office Supplies,Whiteboard,1,196.62,S. Khan,Debit Card,New,196.62
+ORD100499,2024-06-07,CUST1079,Pari Chopra,West,Electronics,27in Monitor,2,442.46,A. Sharma,Debit Card,New,884.92
+ORD101079,2024-05-02,CUST1239,Ayaan Singh,East,Furniture,Desk Lamp,1,42.78,S. Khan,Credit Card,Returning,42.78
+ORD100794,2025-06-27,CUST1374,Aadhya Kumar,West,Furniture,Standing Desk,2,132.4,N. Joshi,Credit Card,Returning,264.8
+ORD101233,2024-04-23,CUST1393,Ananya Patel,East,Office Supplies,Pen Set,1,408.38,R. Verma,Wallet,Returning,408.38
+ORD100990,2025-06-04,CUST1150,Ananya Mehta,North,Electronics,Wireless Mouse,4,208.21,A. Sharma,Credit Card,Returning,832.84
+ORD101345,2025-06-02,CUST1085,Diya Malhotra,North,Software,Cloud Backup Plan,2,154.1,P. Iyer,Net Banking,Returning,308.2
+ORD100934,2025-06-16,CUST1094,Navya Malhotra,South,Office Supplies,Sticky Notes,1,377.5,S. Khan,Credit Card,New,377.5
+ORD100387,2024-11-18,CUST1387,Aadhya Malhotra,East,Electronics,Wireless Mouse,5,211.17,P. Iyer,Debit Card,Returning,1055.85
+ORD100390,2024-04-27,CUST1390,Aditya Malhotra,South,Furniture,Desk Lamp,1,16.71,M. Gupta,Wallet,Returning,16.71
+ORD100743,2024-05-23,CUST1323,Diya Verma,West,Office Supplies,Desk Organizer,1,328.88,R. Verma,Net Banking,Returning,328.88
+ORD100352,2024-01-30,CUST1352,Vivaan Malhotra,East,Electronics,Wireless Mouse,1,39.32,S. Khan,Debit Card,Returning,39.32
+ORD100235,2025-07-12,CUST1235,Ayaan Gupta,North,Office Supplies,Pen Set,1,139.74,N. Joshi,Net Banking,New,139.74
+ORD101376,2024-11-05,CUST1116,Sai Agarwal,East,Office Supplies,Sticky Notes,2,126.75,R. Verma,UPI,Returning,253.5
+ORD100480,2025-06-02,CUST1060,Ananya Iyer,East,Electronics,Webcam HD,5,19.81,P. Iyer,UPI,New,99.05
+ORD100567,2025-08-04,CUST1147,Arjun Khan,East,Electronics,Webcam HD,4,35.58,R. Verma,Credit Card,New,142.32
+ORD101360,2025-05-20,CUST1100,Anika Verma,West,Office Supplies,Whiteboard,2,171.36,R. Verma,UPI,New,342.72
+ORD101501,2024-04-27,CUST1241,Ananya Sharma,West,Electronics,Wireless Mouse,1,180.3,S. Khan,Debit Card,New,180.3
+ORD101261,2024-06-18,CUST1001,Vihaan Patel,South,Software,Cloud Backup Plan,5,324.65,M. Gupta,Net Banking,Returning,1623.25
+ORD100120,2025-02-09,CUST1120,Kavya Nair,West,Electronics,Webcam HD,1,337.65,A. Sharma,Wallet,New,337.65
+ORD101390,2025-09-04,CUST1130,Saanvi Verma,South,Office Supplies,Pen Set,3,375.92,P. Iyer,Debit Card,Returning,1127.76
+ORD101024,2025-05-01,CUST1184,Riya Iyer,South,Office Supplies,Pen Set,1,297.53,S. Khan,Debit Card,New,297.53
+ORD101086,2025-05-25,CUST1246,Krishna Chopra,West,Software,Cloud Backup Plan,1,227.77,N. Joshi,Credit Card,Returning,227.77
+ORD100926,2024-04-08,CUST1086,Aadhya Agarwal,South,Software,VPN Subscription,1,196.52,A. Sharma,Wallet,New,196.52
+ORD100515,2025-03-20,CUST1095,Sai Iyer,West,Electronics,Webcam HD,1,51.95,R. Verma,UPI,New,51.95
+ORD100223,2025-01-31,CUST1223,Pari Gupta,West,Software,Project Mgmt Tool,4,193.05,S. Khan,Net Banking,Returning,772.2
+ORD100613,2025-07-06,CUST1193,Arjun Chopra,West,Electronics,Mechanical Keyboard,5,220.37,P. Iyer,Net Banking,Returning,1101.85
+ORD100843,2024-02-10,CUST1003,Vihaan Malhotra,East,Furniture,Standing Desk,1,57.25,R. Verma,Debit Card,New,57.25
+ORD100052,2025-09-30,CUST1052,Aditya Khan,North,Software,Project Mgmt Tool,1,384.48,P. Iyer,UPI,New,384.48
+ORD101485,2024-08-12,CUST1225,Diya Nair,North,Software,Project Mgmt Tool,3,328.25,M. Gupta,UPI,Returning,984.75
+ORD101539,2024-07-10,CUST1279,Vivaan Agarwal,West,Office Supplies,Notebook Pack,5,101.82,N. Joshi,UPI,Returning,509.1
+ORD100818,2024-01-02,CUST1398,Krishna Chopra,West,Furniture,Office Chair,4,255.05,N. Joshi,Credit Card,Returning,1020.2
+ORD100155,2024-05-15,CUST1155,Krishna Chopra,North,Software,Antivirus License,1,322.44,S. Khan,Debit Card,Returning,322.44
+ORD100600,2025-08-03,CUST1180,Ayaan Khan,West,Electronics,27in Monitor,2,240.17,P. Iyer,Net Banking,Returning,480.34
+ORD100248,2025-06-28,CUST1248,Myra Malhotra,South,Electronics,Mechanical Keyboard,1,221.15,N. Joshi,UPI,Returning,221.15
+ORD100761,2025-10-24,CUST1341,Sai Kumar,West,Software,Antivirus License,3,207.66,A. Sharma,Wallet,New,622.98
+ORD101564,2024-06-26,CUST1304,Saanvi Singh,South,Electronics,USB-C Hub,1,53.44,R. Verma,Credit Card,New,53.44
+ORD101130,2025-02-10,CUST1290,Myra Kumar,North,Office Supplies,Whiteboard,2,78.7,P. Iyer,Debit Card,Returning,157.4
+ORD100542,2024-03-26,CUST1122,Diya Nair,South,Electronics,Wireless Mouse,1,188.49,A. Sharma,Net Banking,New,188.49
+ORD100793,2025-12-20,CUST1373,Riya Reddy,South,Furniture,Standing Desk,2,90.68,N. Joshi,Wallet,Returning,181.36
+ORD101173,2024-05-31,CUST1333,Kavya Khan,North,Office Supplies,Notebook Pack,4,266.66,N. Joshi,Net Banking,New,1066.64
+ORD100628,2025-11-04,CUST1208,Ayaan Kumar,North,Furniture,Desk Lamp,1,41.76,P. Iyer,Debit Card,Returning,41.76
+ORD100150,2024-05-24,CUST1150,Ayaan Kumar,North,Furniture,Office Chair,4,271.62,M. Gupta,Debit Card,New,1086.48
+ORD100291,2024-09-29,CUST1291,Navya Mehta,West,Office Supplies,Pen Set,3,310.65,P. Iyer,Net Banking,New,931.95
+ORD100381,2025-11-20,CUST1381,Myra Patel,North,Office Supplies,Pen Set,1,376.96,S. Khan,Credit Card,Returning,376.96
+ORD100686,2024-01-28,CUST1266,Diya Khan,East,Software,Antivirus License,1,347.39,M. Gupta,Wallet,Returning,347.39
+ORD100897,2025-03-05,CUST1057,Aarav Patel,West,Electronics,Mechanical Keyboard,1,220.61,S. Khan,Net Banking,Returning,220.61
+ORD100854,2024-09-14,CUST1014,Pari Mehta,West,Furniture,Desk Lamp,1,230.39,M. Gupta,Net Banking,Returning,230.39
+ORD101071,2025-02-20,CUST1231,Anika Verma,East,Electronics,Mechanical Keyboard,4,95.09,M. Gupta,Debit Card,Returning,380.36
+ORD101326,2024-11-10,CUST1066,Ishaan Verma,East,Office Supplies,Sticky Notes,2,33.02,R. Verma,Credit Card,Returning,66.04
+ORD101433,2024-10-23,CUST1173,Riya Agarwal,North,Software,VPN Subscription,2,378.34,P. Iyer,Net Banking,New,756.68
+ORD100891,2024-02-17,CUST1051,Arjun Mehta,South,Electronics,Mechanical Keyboard,4,66.77,N. Joshi,Debit Card,New,267.08
+ORD100615,2025-05-30,CUST1195,Krishna Sharma,East,Software,VPN Subscription,3,406.93,R. Verma,Net Banking,Returning,1220.79
+ORD100154,2024-07-30,CUST1154,Aadhya Gupta,South,Furniture,Desk Lamp,3,243.27,P. Iyer,Net Banking,Returning,729.81
+ORD101379,2025-10-20,CUST1119,Pari Agarwal,West,Electronics,Webcam HD,3,165.36,S. Khan,UPI,Returning,496.08
+ORD100322,2025-04-26,CUST1322,Ishaan Nair,North,Electronics,27in Monitor,2,71.52,R. Verma,Net Banking,Returning,143.04
+ORD101246,2025-02-27,CUST1406,Vivaan Kumar,West,Furniture,Office Chair,1,120.18,S. Khan,Debit Card,Returning,120.18
+ORD100082,2024-06-18,CUST1082,Sai Gupta,East,Software,Project Mgmt Tool,1,189.6,P. Iyer,UPI,New,189.6
+ORD100512,2024-07-19,CUST1092,Myra Kumar,South,Office Supplies,Whiteboard,3,328.87,R. Verma,UPI,Returning,986.61
+ORD101229,2025-05-06,CUST1389,Ishaan Chopra,East,Electronics,27in Monitor,2,95.35,M. Gupta,Net Banking,New,190.7
+ORD100929,2025-06-25,CUST1089,Myra Chopra,South,Furniture,Standing Desk,4,28.39,A. Sharma,Credit Card,Returning,113.56
+ORD101318,2025-04-04,CUST1058,Arjun Patel,West,Furniture,Office Chair,2,408.83,A. Sharma,UPI,New,817.66
+ORD100010,2025-08-07,CUST1010,Reyansh Joshi,North,Furniture,Filing Cabinet,2,354.8,S. Khan,Net Banking,Returning,709.6
+ORD100831,2024-03-30,CUST1411,Aadhya Joshi,West,Electronics,USB-C Hub,3,217.78,R. Verma,Credit Card,New,653.34
+ORD100032,2024-01-02,CUST1032,Aditya Agarwal,North,Furniture,Standing Desk,2,378.94,A. Sharma,Wallet,New,757.88
+ORD100413,2025-05-25,CUST1413,Pari Gupta,South,Electronics,Webcam HD,3,19.48,M. Gupta,Credit Card,Returning,58.44
+ORD100580,2025-12-04,CUST1160,Aditya Khan,North,Electronics,27in Monitor,4,401.25,P. Iyer,Credit Card,New,1605.0
+ORD101558,2025-09-30,CUST1298,Ananya Kumar,West,Furniture,Office Chair,1,412.26,A. Sharma,Wallet,Returning,412.26
+ORD101532,2025-12-24,CUST1272,Myra Patel,North,Electronics,USB-C Hub,2,214.62,P. Iyer,Credit Card,New,429.24
+ORD100614,2025-04-13,CUST1194,Aadhya Chopra,West,Electronics,27in Monitor,4,12.87,M. Gupta,UPI,New,51.48
+ORD101045,2025-03-27,CUST1205,Vivaan Mehta,East,Software,Antivirus License,1,96.23,P. Iyer,Credit Card,New,96.23
+ORD101014,2025-10-28,CUST1174,Myra Sharma,East,Electronics,27in Monitor,1,140.03,S. Khan,UPI,Returning,140.03
+ORD100089,2025-10-20,CUST1089,Ananya Gupta,South,Electronics,Webcam HD,5,441.52,N. Joshi,UPI,New,2207.6
+ORD101371,2024-09-17,CUST1111,Diya Verma,South,Electronics,27in Monitor,4,360.32,P. Iyer,UPI,Returning,1441.28
+ORD100601,2024-01-14,CUST1181,Krishna Nair,West,Furniture,Desk Lamp,2,321.89,M. Gupta,UPI,New,643.78
+ORD100133,2025-06-23,CUST1133,Vihaan Joshi,North,Office Supplies,Notebook Pack,3,126.16,M. Gupta,Debit Card,New,378.48
+ORD100555,2025-02-03,CUST1135,Ayaan Verma,South,Office Supplies,Notebook Pack,1,215.64,S. Khan,UPI,Returning,215.64
+ORD101031,2024-06-28,CUST1191,Vivaan Chopra,South,Office Supplies,Notebook Pack,1,35.86,A. Sharma,Credit Card,Returning,35.86
+ORD101262,2024-06-25,CUST1002,Aadhya Mehta,South,Office Supplies,Sticky Notes,2,183.87,P. Iyer,Debit Card,Returning,367.74
+ORD100320,2025-09-19,CUST1320,Ishaan Reddy,East,Furniture,Standing Desk,5,30.42,S. Khan,Credit Card,New,152.1
+ORD101424,2025-02-11,CUST1164,Saanvi Reddy,North,Office Supplies,Whiteboard,2,141.17,P. Iyer,Credit Card,Returning,282.34
+ORD101399,2024-05-27,CUST1139,Saanvi Gupta,South,Furniture,Filing Cabinet,4,380.36,R. Verma,Wallet,New,1521.44
+ORD100634,2025-09-14,CUST1214,Krishna Nair,West,Furniture,Bookshelf,1,143.65,S. Khan,UPI,New,143.65
+ORD100552,2025-06-30,CUST1132,Ayaan Iyer,West,Furniture,Standing Desk,2,178.01,N. Joshi,Debit Card,New,356.02
+ORD101055,2024-04-12,CUST1215,Kavya Kumar,West,Furniture,Office Chair,2,381.28,N. Joshi,Wallet,Returning,762.56
+ORD101407,2025-11-01,CUST1147,Aarav Gupta,North,Furniture,Filing Cabinet,2,48.67,P. Iyer,Net Banking,New,97.34
+ORD100796,2025-04-21,CUST1376,Pari Gupta,West,Office Supplies,Desk Organizer,3,416.16,S. Khan,UPI,New,1248.48
+ORD101344,2025-02-08,CUST1084,Navya Chopra,South,Office Supplies,Notebook Pack,1,379.02,S. Khan,UPI,New,379.02
+ORD101378,2025-03-20,CUST1118,Kavya Kumar,South,Furniture,Office Chair,1,391.9,R. Verma,UPI,New,391.9
+ORD100174,2024-06-08,CUST1174,Reyansh Gupta,West,Office Supplies,Notebook Pack,1,206.71,R. Verma,UPI,Returning,206.71
+ORD100245,2025-08-27,CUST1245,Vihaan Khan,North,Software,Cloud Backup Plan,4,17.92,N. Joshi,Wallet,New,71.68
+ORD101080,2025-04-09,CUST1240,Pari Nair,East,Software,VPN Subscription,2,327.01,R. Verma,Net Banking,New,654.02
+ORD101573,2024-11-03,CUST1313,Krishna Sharma,East,Office Supplies,Desk Organizer,2,207.41,P. Iyer,Credit Card,New,414.82
+ORD100145,2025-07-25,CUST1145,Vihaan Kumar,East,Electronics,Wireless Mouse,5,173.36,R. Verma,Net Banking,New,866.8
+ORD100090,2025-07-10,CUST1090,Vivaan Patel,East,Electronics,Mechanical Keyboard,2,24.19,A. Sharma,Net Banking,Returning,48.38
+ORD100682,2024-11-03,CUST1262,Diya Reddy,West,Office Supplies,Sticky Notes,2,345.32,P. Iyer,Wallet,Returning,690.64
+ORD100310,2024-12-03,CUST1310,Myra Gupta,North,Electronics,USB-C Hub,2,315.56,N. Joshi,Wallet,New,631.12
+ORD100093,2024-01-02,CUST1093,Diya Joshi,East,Electronics,27in Monitor,5,23.38,S. Khan,Wallet,New,116.9
+ORD100924,2024-05-22,CUST1084,Anika Khan,East,Office Supplies,Whiteboard,2,83.41,M. Gupta,Debit Card,New,166.82
+ORD101035,2024-11-27,CUST1195,Ayaan Kumar,East,Electronics,Wireless Mouse,4,279.44,S. Khan,Credit Card,New,1117.76
+ORD100243,2025-06-17,CUST1243,Vivaan Nair,West,Software,Antivirus License,2,263.76,M. Gupta,Credit Card,Returning,527.52
+ORD101111,2024-03-03,CUST1271,Aarav Malhotra,North,Office Supplies,Notebook Pack,1,388.31,M. Gupta,Net Banking,New,388.31
+ORD100214,2024-05-21,CUST1214,Vihaan Chopra,East,Software,Antivirus License,3,166.03,A. Sharma,Net Banking,Returning,498.09
+ORD101197,2024-07-02,CUST1357,Diya Reddy,North,Furniture,Bookshelf,1,54.98,M. Gupta,Credit Card,New,54.98
+ORD100998,2025-07-07,CUST1158,Reyansh Khan,South,Office Supplies,Notebook Pack,1,47.35,A. Sharma,Net Banking,New,47.35
+ORD100853,2025-10-17,CUST1013,Sai Mehta,East,Office Supplies,Whiteboard,1,442.42,S. Khan,UPI,Returning,442.42
+ORD100425,2025-04-25,CUST1005,Aadhya Sharma,North,Furniture,Filing Cabinet,5,110.59,M. Gupta,UPI,New,552.95
+ORD101142,2024-07-27,CUST1302,Navya Malhotra,South,Office Supplies,Pen Set,5,188.12,N. Joshi,Wallet,Returning,940.6
+ORD101143,2024-04-21,CUST1303,Ayaan Iyer,South,Software,Antivirus License,1,91.92,R. Verma,Wallet,New,91.92
+ORD100226,2024-07-27,CUST1226,Arjun Chopra,East,Furniture,Bookshelf,3,367.8,R. Verma,Wallet,Returning,1103.4
+ORD101315,2024-10-29,CUST1055,Vihaan Verma,South,Office Supplies,Desk Organizer,1,72.86,A. Sharma,UPI,Returning,72.86
+ORD100000,2025-07-12,CUST1000,Ayaan Gupta,North,Furniture,Standing Desk,4,22.05,M. Gupta,Debit Card,Returning,88.2
+ORD100401,2024-02-04,CUST1401,Ananya Malhotra,East,Office Supplies,Whiteboard,1,371.85,P. Iyer,UPI,New,371.85
+ORD100084,2024-10-18,CUST1084,Vihaan Mehta,North,Furniture,Desk Lamp,1,128.57,R. Verma,UPI,Returning,128.57
+ORD100162,2025-09-14,CUST1162,Aditya Singh,East,Office Supplies,Sticky Notes,1,382.77,M. Gupta,Debit Card,Returning,382.77
+ORD100114,2024-10-18,CUST1114,Pari Reddy,East,Electronics,USB-C Hub,5,401.05,A. Sharma,Net Banking,New,2005.25
+ORD100670,2025-02-06,CUST1250,Ishaan Joshi,West,Software,Cloud Backup Plan,4,320.16,A. Sharma,Wallet,New,1280.64
+ORD101174,2024-05-04,CUST1334,Reyansh Gupta,West,Electronics,USB-C Hub,2,355.97,R. Verma,Wallet,Returning,711.94
+ORD101231,2025-01-08,CUST1391,Vihaan Patel,East,Electronics,Mechanical Keyboard,2,186.69,M. Gupta,Net Banking,New,373.38
+ORD100889,2025-06-19,CUST1049,Anika Singh,South,Office Supplies,Desk Organizer,2,225.75,S. Khan,Debit Card,Returning,451.5
+ORD100625,2025-05-04,CUST1205,Myra Joshi,East,Electronics,Wireless Mouse,2,17.48,M. Gupta,Wallet,Returning,34.96
+ORD101577,2024-05-04,CUST1317,Ishaan Kumar,South,Office Supplies,Pen Set,5,365.52,S. Khan,Debit Card,New,1827.6
+ORD100952,2025-03-11,CUST1112,Saanvi Khan,East,Office Supplies,Pen Set,1,420.79,M. Gupta,Credit Card,Returning,420.79
+ORD100807,2024-11-27,CUST1387,Navya Chopra,East,Office Supplies,Sticky Notes,1,327.47,R. Verma,Debit Card,New,327.47
+ORD100258,2024-08-11,CUST1258,Riya Malhotra,North,Furniture,Office Chair,1,426.63,R. Verma,Debit Card,New,426.63
+ORD100624,2024-02-06,CUST1204,Pari Malhotra,North,Software,Antivirus License,1,427.86,M. Gupta,UPI,New,427.86
+ORD100826,2024-03-29,CUST1406,Aarav Iyer,West,Furniture,Filing Cabinet,2,248.33,A. Sharma,UPI,Returning,496.66
+ORD100234,2025-05-29,CUST1234,Vivaan Mehta,North,Electronics,Webcam HD,2,355.81,S. Khan,UPI,Returning,711.62
+ORD100135,2025-07-10,CUST1135,Vivaan Malhotra,South,Software,Cloud Backup Plan,1,418.51,N. Joshi,UPI,New,418.51
+ORD100616,2025-10-22,CUST1196,Ishaan Malhotra,West,Office Supplies,Sticky Notes,4,433.45,M. Gupta,Wallet,Returning,1733.8
+ORD101578,2024-08-14,CUST1318,Reyansh Nair,East,Software,VPN Subscription,4,226.09,M. Gupta,UPI,Returning,904.36
+ORD100836,2024-03-17,CUST1416,Ayaan Reddy,South,Software,Project Mgmt Tool,1,192.45,N. Joshi,Credit Card,Returning,192.45
+ORD100842,2025-05-02,CUST1002,Aadhya Nair,West,Furniture,Office Chair,4,146.41,A. Sharma,Credit Card,New,585.64
+ORD100959,2025-08-18,CUST1119,Vivaan Singh,North,Software,Project Mgmt Tool,2,358.71,A. Sharma,Net Banking,Returning,717.42
+ORD100592,2024-10-14,CUST1172,Anika Singh,West,Electronics,Webcam HD,5,107.82,M. Gupta,Debit Card,New,539.1
+ORD100343,2025-11-29,CUST1343,Pari Joshi,North,Software,Antivirus License,4,32.4,P. Iyer,Credit Card,Returning,129.6
+ORD101333,2025-03-29,CUST1073,Ananya Gupta,East,Furniture,Bookshelf,4,259.23,R. Verma,Credit Card,New,1036.92
+ORD100293,2025-04-05,CUST1293,Aarav Patel,North,Office Supplies,Sticky Notes,1,154.69,P. Iyer,Wallet,Returning,154.69
+ORD100364,2024-06-24,CUST1364,Ishaan Reddy,East,Software,VPN Subscription,2,222.04,P. Iyer,Net Banking,Returning,444.08
+ORD100178,2024-12-28,CUST1178,Myra Sharma,North,Software,VPN Subscription,1,129.54,M. Gupta,Debit Card,Returning,129.54
+ORD100659,2024-11-27,CUST1239,Saanvi Singh,North,Electronics,Webcam HD,1,141.55,M. Gupta,UPI,Returning,141.55
+ORD100996,2025-02-28,CUST1156,Kavya Reddy,South,Electronics,Mechanical Keyboard,2,53.11,S. Khan,Net Banking,New,106.22
+ORD100014,2024-02-10,CUST1014,Vihaan Malhotra,North,Office Supplies,Whiteboard,4,298.56,N. Joshi,Net Banking,New,1194.24
+ORD101110,2024-12-02,CUST1270,Riya Gupta,West,Electronics,Webcam HD,1,275.6,N. Joshi,Wallet,Returning,275.6
+ORD100165,2025-07-03,CUST1165,Anika Malhotra,East,Furniture,Office Chair,4,267.21,P. Iyer,UPI,New,1068.84
+ORD101514,2024-06-27,CUST1254,Kavya Iyer,North,Electronics,Wireless Mouse,3,90.02,M. Gupta,UPI,New,270.06
+ORD100059,2025-02-08,CUST1059,Saanvi Chopra,West,Office Supplies,Desk Organizer,2,245.16,M. Gupta,UPI,Returning,490.32
+ORD100709,2024-06-08,CUST1289,Navya Malhotra,East,Software,VPN Subscription,3,175.07,S. Khan,Debit Card,Returning,525.21
+ORD100676,2025-02-23,CUST1256,Vivaan Kumar,East,Office Supplies,Whiteboard,1,145.53,N. Joshi,Credit Card,Returning,145.53
+ORD100780,2025-07-09,CUST1360,Ishaan Singh,West,Software,Cloud Backup Plan,2,407.87,R. Verma,Debit Card,Returning,815.74
+ORD100424,2025-05-14,CUST1004,Anika Reddy,North,Software,VPN Subscription,1,241.51,N. Joshi,UPI,Returning,241.51
+ORD100292,2025-03-28,CUST1292,Sai Patel,East,Electronics,USB-C Hub,5,27.84,N. Joshi,Credit Card,New,139.2
+ORD101065,2025-07-17,CUST1225,Diya Chopra,North,Electronics,Wireless Mouse,1,91.56,M. Gupta,Debit Card,New,91.56
+ORD101443,2025-09-20,CUST1183,Navya Singh,West,Software,Project Mgmt Tool,2,121.77,M. Gupta,Credit Card,Returning,243.54
+ORD100329,2024-05-27,CUST1329,Arjun Gupta,East,Office Supplies,Sticky Notes,4,438.94,S. Khan,Wallet,Returning,1755.76
+ORD100429,2024-07-29,CUST1009,Vivaan Joshi,North,Electronics,Webcam HD,1,329.93,A. Sharma,Debit Card,Returning,329.93
+ORD101012,2025-05-09,CUST1172,Vivaan Verma,East,Furniture,Bookshelf,1,381.41,S. Khan,Credit Card,Returning,381.41
+ORD100079,2025-10-24,CUST1079,Ananya Nair,East,Software,VPN Subscription,1,153.72,N. Joshi,Wallet,New,153.72
+ORD101052,2025-06-03,CUST1212,Vihaan Verma,East,Electronics,Mechanical Keyboard,1,273.65,N. Joshi,UPI,Returning,273.65
+ORD100834,2025-07-08,CUST1414,Vihaan Gupta,West,Software,Project Mgmt Tool,1,302.85,S. Khan,Wallet,New,302.85
+ORD100749,2024-01-30,CUST1329,Ananya Verma,South,Office Supplies,Notebook Pack,2,166.5,P. Iyer,UPI,New,333.0
+ORD100890,2024-05-07,CUST1050,Pari Kumar,East,Software,VPN Subscription,2,294.57,R. Verma,Net Banking,New,589.14
+ORD100254,2024-01-01,CUST1254,Sai Nair,South,Office Supplies,Pen Set,1,448.59,M. Gupta,Debit Card,New,448.59
+ORD101396,2024-09-09,CUST1136,Aadhya Joshi,East,Office Supplies,Sticky Notes,4,354.88,S. Khan,Wallet,New,1419.52
+ORD101576,2025-09-22,CUST1316,Kavya Malhotra,North,Software,Cloud Backup Plan,2,232.95,P. Iyer,Wallet,Returning,465.9
+ORD101108,2025-07-27,CUST1268,Navya Kumar,East,Electronics,USB-C Hub,4,162.12,P. Iyer,Net Banking,Returning,648.48
+ORD100136,2024-05-23,CUST1136,Saanvi Nair,East,Office Supplies,Pen Set,3,31.73,M. Gupta,Wallet,Returning,95.19
+ORD101218,2025-02-13,CUST1378,Diya Kumar,West,Furniture,Standing Desk,2,292.13,M. Gupta,UPI,New,584.26
+ORD100852,2025-06-09,CUST1012,Aarav Patel,South,Office Supplies,Desk Organizer,1,182.06,R. Verma,Wallet,Returning,182.06
+ORD101202,2025-06-15,CUST1362,Reyansh Sharma,East,Electronics,Mechanical Keyboard,2,358.63,M. Gupta,Credit Card,New,717.26
+ORD100723,2024-11-30,CUST1303,Pari Iyer,North,Furniture,Office Chair,2,262.07,M. Gupta,Credit Card,New,524.14
+ORD100859,2025-03-24,CUST1019,Vivaan Agarwal,East,Furniture,Bookshelf,4,345.53,M. Gupta,Wallet,New,1382.12
+ORD100969,2025-06-15,CUST1129,Aarav Joshi,South,Software,Cloud Backup Plan,5,86.21,P. Iyer,Net Banking,Returning,431.05
+ORD100496,2024-06-14,CUST1076,Ayaan Reddy,West,Office Supplies,Sticky Notes,1,348.77,M. Gupta,Credit Card,New,348.77
+ORD100950,2024-12-04,CUST1110,Aarav Gupta,South,Furniture,Desk Lamp,2,300.74,N. Joshi,Net Banking,Returning,601.48
+ORD100805,2024-05-31,CUST1385,Aditya Patel,East,Electronics,27in Monitor,4,253.43,P. Iyer,UPI,Returning,1013.72
+ORD100129,2024-04-10,CUST1129,Krishna Patel,West,Furniture,Bookshelf,3,412.13,R. Verma,Debit Card,New,1236.39
+ORD100337,2024-10-03,CUST1337,Navya Malhotra,North,Furniture,Filing Cabinet,1,120.86,R. Verma,Wallet,New,120.86
+ORD100608,2025-12-30,CUST1188,Kavya Mehta,West,Office Supplies,Pen Set,5,164.55,M. Gupta,Credit Card,Returning,822.75
+ORD101148,2025-02-25,CUST1308,Krishna Nair,South,Electronics,27in Monitor,2,35.81,M. Gupta,Credit Card,Returning,71.62
+ORD100195,2025-02-15,CUST1195,Saanvi Gupta,West,Office Supplies,Sticky Notes,4,401.19,P. Iyer,Net Banking,New,1604.76
+ORD101593,2024-12-10,CUST1333,Aadhya Joshi,East,Furniture,Standing Desk,1,428.23,M. Gupta,Credit Card,Returning,428.23
+ORD100909,2024-03-24,CUST1069,Sai Agarwal,North,Electronics,USB-C Hub,2,220.5,N. Joshi,Net Banking,New,441.0
+ORD100103,2024-08-08,CUST1103,Aditya Iyer,West,Software,Antivirus License,1,30.34,S. Khan,Net Banking,New,30.34
+ORD101491,2025-09-02,CUST1231,Ayaan Malhotra,North,Office Supplies,Sticky Notes,2,372.37,P. Iyer,Debit Card,New,744.74
+ORD101505,2024-02-18,CUST1245,Ananya Joshi,East,Office Supplies,Pen Set,1,128.31,S. Khan,UPI,Returning,128.31
+ORD100719,2024-08-08,CUST1299,Saanvi Patel,East,Furniture,Filing Cabinet,2,55.22,N. Joshi,Wallet,Returning,110.44
+ORD100884,2024-03-11,CUST1044,Aadhya Kumar,East,Furniture,Desk Lamp,2,368.54,A. Sharma,Wallet,Returning,737.08
+ORD100776,2024-02-06,CUST1356,Pari Verma,West,Electronics,27in Monitor,1,294.8,P. Iyer,Wallet,Returning,294.8
+ORD100849,2024-06-21,CUST1009,Diya Malhotra,East,Office Supplies,Sticky Notes,2,381.89,A. Sharma,Debit Card,New,763.78
+ORD100894,2024-01-15,CUST1054,Arjun Kumar,South,Electronics,USB-C Hub,1,267.23,N. Joshi,Net Banking,Returning,267.23
+ORD100227,2025-12-02,CUST1227,Saanvi Iyer,South,Furniture,Office Chair,1,13.73,S. Khan,Debit Card,Returning,13.73
+ORD101516,2024-12-18,CUST1256,Saanvi Mehta,East,Software,Project Mgmt Tool,1,352.52,N. Joshi,Debit Card,Returning,352.52
+ORD100126,2024-08-18,CUST1126,Sai Agarwal,West,Furniture,Filing Cabinet,1,364.15,M. Gupta,Wallet,New,364.15
+ORD100405,2025-11-01,CUST1405,Navya Iyer,East,Electronics,27in Monitor,1,14.24,N. Joshi,UPI,New,14.24
+ORD100775,2025-06-14,CUST1355,Ananya Sharma,East,Office Supplies,Pen Set,1,328.04,N. Joshi,Debit Card,New,328.04
+ORD100821,2025-05-28,CUST1401,Saanvi Verma,East,Office Supplies,Desk Organizer,1,262.36,N. Joshi,Debit Card,Returning,262.36
+ORD100711,2025-07-01,CUST1291,Vihaan Patel,South,Electronics,27in Monitor,1,205.41,R. Verma,Debit Card,New,205.41
+ORD101521,2025-02-24,CUST1261,Aadhya Verma,East,Software,Project Mgmt Tool,5,411.92,R. Verma,Wallet,New,2059.6
+ORD101163,2024-12-30,CUST1323,Vihaan Chopra,South,Software,Cloud Backup Plan,5,96.15,P. Iyer,Debit Card,Returning,480.75
+ORD100303,2025-07-25,CUST1303,Anika Joshi,West,Electronics,Mechanical Keyboard,1,91.91,P. Iyer,UPI,New,91.91
+ORD100267,2024-08-28,CUST1267,Sai Gupta,West,Software,VPN Subscription,1,101.07,S. Khan,Wallet,New,101.07
+ORD100545,2025-04-12,CUST1125,Ishaan Gupta,South,Furniture,Office Chair,1,71.44,S. Khan,Credit Card,New,71.44
+ORD100212,2024-06-13,CUST1212,Anika Singh,South,Office Supplies,Sticky Notes,5,410.38,A. Sharma,Credit Card,New,2051.9
+ORD100896,2024-04-19,CUST1056,Ishaan Mehta,East,Furniture,Desk Lamp,2,119.43,M. Gupta,Wallet,New,238.86
+ORD101222,2025-07-17,CUST1382,Vivaan Mehta,North,Office Supplies,Desk Organizer,1,47.54,S. Khan,Credit Card,New,47.54
+ORD100916,2024-05-13,CUST1076,Aarav Singh,East,Furniture,Standing Desk,4,102.53,A. Sharma,UPI,Returning,410.12
+ORD100675,2025-08-23,CUST1255,Ananya Malhotra,East,Electronics,USB-C Hub,1,423.72,A. Sharma,Debit Card,New,423.72
+ORD101289,2024-06-27,CUST1029,Anika Gupta,West,Software,Project Mgmt Tool,2,380.36,A. Sharma,UPI,New,760.72
+ORD100814,2025-11-14,CUST1394,Myra Joshi,West,Office Supplies,Whiteboard,1,280.44,A. Sharma,Net Banking,New,280.44
+ORD101265,2024-12-16,CUST1005,Arjun Iyer,West,Software,Antivirus License,3,198.2,A. Sharma,Credit Card,New,594.6
+ORD100342,2025-02-04,CUST1342,Saanvi Kumar,West,Electronics,Wireless Mouse,5,219.34,A. Sharma,Wallet,New,1096.7
+ORD100549,2024-05-01,CUST1129,Vihaan Kumar,West,Electronics,Mechanical Keyboard,1,403.85,M. Gupta,Debit Card,Returning,403.85
+ORD101214,2025-03-07,CUST1374,Arjun Kumar,South,Furniture,Filing Cabinet,5,449.63,A. Sharma,Debit Card,Returning,2248.15
+ORD100966,2025-09-26,CUST1126,Anika Joshi,North,Furniture,Bookshelf,1,228.82,S. Khan,UPI,Returning,228.82
+ORD101230,2025-07-08,CUST1390,Riya Chopra,East,Electronics,Webcam HD,1,105.41,M. Gupta,Credit Card,New,105.41
+ORD100295,2025-01-24,CUST1295,Ishaan Chopra,East,Electronics,Wireless Mouse,3,222.22,S. Khan,Wallet,New,666.66
+ORD100695,2025-02-28,CUST1275,Krishna Sharma,North,Office Supplies,Sticky Notes,2,126.04,R. Verma,Debit Card,New,252.08
+ORD100605,2024-09-14,CUST1185,Aadhya Patel,North,Furniture,Office Chair,3,396.4,M. Gupta,Debit Card,New,1189.2
+ORD100104,2024-02-22,CUST1104,Diya Agarwal,North,Office Supplies,Sticky Notes,3,252.52,P. Iyer,Wallet,New,757.56
+ORD100645,2024-06-04,CUST1225,Pari Malhotra,East,Office Supplies,Desk Organizer,3,305.87,N. Joshi,Wallet,Returning,917.61
+ORD101581,2024-05-30,CUST1321,Pari Patel,South,Furniture,Bookshelf,2,165.98,P. Iyer,Net Banking,New,331.96
+ORD101040,2025-03-22,CUST1200,Navya Mehta,North,Furniture,Office Chair,1,79.92,A. Sharma,UPI,New,79.92
+ORD100439,2025-01-15,CUST1019,Pari Kumar,West,Electronics,USB-C Hub,3,142.04,M. Gupta,UPI,New,426.12
+ORD101019,2025-12-29,CUST1179,Myra Reddy,North,Electronics,Wireless Mouse,1,94.58,P. Iyer,UPI,New,94.58
+ORD100091,2024-07-10,CUST1091,Kavya Malhotra,North,Software,VPN Subscription,5,170.37,S. Khan,Credit Card,Returning,851.85
+ORD101112,2024-05-08,CUST1272,Myra Agarwal,East,Furniture,Bookshelf,2,12.49,S. Khan,Credit Card,New,24.98
+ORD101414,2024-04-15,CUST1154,Krishna Sharma,North,Software,Project Mgmt Tool,1,436.04,A. Sharma,Net Banking,New,436.04
+ORD100908,2025-03-08,CUST1068,Aditya Joshi,West,Office Supplies,Desk Organizer,3,211.72,A. Sharma,Credit Card,New,635.16
+ORD100102,2025-04-03,CUST1102,Vivaan Kumar,West,Office Supplies,Notebook Pack,1,367.56,R. Verma,UPI,Returning,367.56
+ORD100238,2024-11-21,CUST1238,Vihaan Kumar,East,Office Supplies,Desk Organizer,5,153.13,M. Gupta,Net Banking,Returning,765.65
+ORD101375,2025-04-08,CUST1115,Vihaan Joshi,East,Software,Project Mgmt Tool,1,273.1,A. Sharma,Credit Card,New,273.1
+ORD100942,2024-11-01,CUST1102,Vihaan Khan,South,Furniture,Filing Cabinet,1,307.69,R. Verma,UPI,New,307.69
+ORD101270,2024-02-02,CUST1010,Saanvi Joshi,West,Software,VPN Subscription,2,357.2,P. Iyer,UPI,New,714.4
+ORD100938,2024-01-27,CUST1098,Aditya Nair,North,Office Supplies,Notebook Pack,1,173.83,N. Joshi,Wallet,New,173.83
+ORD101181,2024-01-09,CUST1341,Riya Sharma,North,Office Supplies,Pen Set,1,223.08,A. Sharma,Net Banking,Returning,223.08
+ORD100005,2024-02-18,CUST1005,Ayaan Gupta,West,Software,Cloud Backup Plan,1,285.33,S. Khan,Wallet,Returning,285.33
+ORD101464,2024-09-21,CUST1204,Arjun Chopra,South,Office Supplies,Desk Organizer,1,210.73,S. Khan,Credit Card,New,210.73
+ORD100965,2024-04-28,CUST1125,Ayaan Verma,East,Office Supplies,Pen Set,3,38.61,R. Verma,UPI,New,115.83
+ORD100018,2024-02-06,CUST1018,Aditya Malhotra,West,Electronics,Wireless Mouse,1,197.97,A. Sharma,Net Banking,New,197.97
+ORD100121,2025-10-23,CUST1121,Aadhya Gupta,North,Electronics,USB-C Hub,3,446.84,S. Khan,Credit Card,New,1340.52
+ORD100661,2025-10-20,CUST1241,Ayaan Khan,South,Electronics,27in Monitor,3,71.55,R. Verma,UPI,New,214.65
+ORD101363,2024-05-27,CUST1103,Ayaan Khan,North,Software,Project Mgmt Tool,2,106.97,S. Khan,Net Banking,Returning,213.94
+ORD100274,2025-05-25,CUST1274,Myra Singh,South,Office Supplies,Notebook Pack,5,316.05,R. Verma,Credit Card,Returning,1580.25
+ORD100433,2025-12-18,CUST1013,Krishna Malhotra,East,Furniture,Office Chair,5,292.59,S. Khan,Net Banking,Returning,1462.95
+ORD100811,2025-09-29,CUST1391,Arjun Joshi,East,Software,Project Mgmt Tool,2,253.87,M. Gupta,Net Banking,Returning,507.74
+ORD101300,2024-08-20,CUST1040,Aditya Agarwal,West,Office Supplies,Pen Set,2,331.14,R. Verma,Wallet,Returning,662.28
+ORD101335,2025-07-25,CUST1075,Aarav Malhotra,West,Furniture,Filing Cabinet,1,113.21,M. Gupta,Wallet,Returning,113.21
+ORD101506,2024-06-09,CUST1246,Aadhya Joshi,East,Office Supplies,Desk Organizer,5,84.26,R. Verma,Net Banking,Returning,421.3
+ORD101522,2025-05-26,CUST1262,Vihaan Agarwal,West,Office Supplies,Notebook Pack,4,446.07,A. Sharma,UPI,New,1784.28
+ORD100181,2024-06-26,CUST1181,Saanvi Patel,East,Office Supplies,Pen Set,2,269.89,A. Sharma,Net Banking,New,539.78
+ORD100184,2025-09-20,CUST1184,Sai Mehta,West,Software,Cloud Backup Plan,2,302.16,P. Iyer,Debit Card,New,604.32
+ORD100406,2025-03-17,CUST1406,Krishna Kumar,South,Office Supplies,Desk Organizer,2,447.88,S. Khan,Debit Card,New,895.76
+ORD100865,2024-08-29,CUST1025,Aarav Patel,West,Software,VPN Subscription,5,418.1,R. Verma,Net Banking,New,2090.5
+ORD100520,2025-11-09,CUST1100,Diya Reddy,South,Furniture,Standing Desk,4,371.13,M. Gupta,Debit Card,New,1484.52
+ORD101003,2025-03-09,CUST1163,Krishna Malhotra,North,Office Supplies,Notebook Pack,3,196.8,S. Khan,Net Banking,New,590.4
+ORD100427,2025-11-24,CUST1007,Vivaan Sharma,East,Office Supplies,Pen Set,1,373.95,S. Khan,Credit Card,New,373.95
+ORD100078,2024-12-17,CUST1078,Vivaan Khan,South,Software,Project Mgmt Tool,1,25.3,M. Gupta,Debit Card,Returning,25.3
+ORD101009,2024-07-16,CUST1169,Navya Verma,West,Furniture,Office Chair,2,20.49,N. Joshi,UPI,New,40.98
+ORD101589,2025-10-26,CUST1329,Diya Patel,East,Office Supplies,Notebook Pack,2,388.52,M. Gupta,Debit Card,New,777.04
+ORD100607,2024-05-18,CUST1187,Pari Gupta,East,Software,Cloud Backup Plan,2,141.07,M. Gupta,Debit Card,Returning,282.14
+ORD101513,2024-10-22,CUST1253,Reyansh Nair,East,Office Supplies,Desk Organizer,1,141.45,S. Khan,Debit Card,New,141.45
+ORD101470,2025-02-11,CUST1210,Reyansh Singh,North,Office Supplies,Notebook Pack,4,272.44,A. Sharma,Credit Card,New,1089.76
+ORD101057,2024-06-04,CUST1217,Aditya Joshi,West,Furniture,Office Chair,3,397.18,P. Iyer,Debit Card,Returning,1191.54
+ORD101091,2024-08-20,CUST1251,Arjun Nair,South,Office Supplies,Desk Organizer,1,8.63,R. Verma,Net Banking,New,8.63
+ORD101101,2025-08-02,CUST1261,Riya Reddy,West,Software,VPN Subscription,2,40.79,M. Gupta,Debit Card,New,81.58
+ORD101129,2025-09-05,CUST1289,Ishaan Joshi,East,Software,Antivirus License,1,127.77,M. Gupta,UPI,Returning,127.77
+ORD101235,2024-01-28,CUST1395,Arjun Sharma,East,Software,VPN Subscription,2,35.03,P. Iyer,UPI,New,70.06
+ORD101421,2024-12-18,CUST1161,Ananya Chopra,East,Software,Antivirus License,3,269.82,P. Iyer,Debit Card,New,809.46
+ORD100958,2025-05-14,CUST1118,Riya Patel,North,Furniture,Filing Cabinet,2,107.1,N. Joshi,Wallet,New,214.2
+ORD100559,2024-09-03,CUST1139,Reyansh Joshi,North,Electronics,USB-C Hub,1,439.69,A. Sharma,Credit Card,Returning,439.69
+ORD100846,2025-01-28,CUST1006,Aadhya Mehta,South,Electronics,Wireless Mouse,1,247.24,M. Gupta,Net Banking,Returning,247.24
+ORD100690,2025-04-10,CUST1270,Pari Kumar,North,Electronics,USB-C Hub,1,213.43,A. Sharma,Wallet,Returning,213.43
+ORD101560,2025-11-19,CUST1300,Krishna Kumar,North,Furniture,Desk Lamp,2,354.13,A. Sharma,Wallet,Returning,708.26
+ORD101504,2024-07-01,CUST1244,Ananya Sharma,South,Furniture,Bookshelf,4,336.14,A. Sharma,Debit Card,Returning,1344.56
+ORD100436,2025-09-08,CUST1016,Ishaan Kumar,East,Office Supplies,Sticky Notes,4,237.69,P. Iyer,UPI,New,950.76
+ORD100490,2024-02-23,CUST1070,Aditya Chopra,East,Software,Antivirus License,2,63.5,R. Verma,Debit Card,New,127.0
+ORD101482,2025-10-20,CUST1222,Pari Agarwal,North,Furniture,Standing Desk,1,447.99,R. Verma,Credit Card,New,447.99
+ORD101387,2025-02-17,CUST1127,Vihaan Verma,East,Office Supplies,Sticky Notes,5,24.21,M. Gupta,Debit Card,New,121.05
+ORD100069,2024-04-20,CUST1069,Anika Singh,East,Electronics,Webcam HD,3,58.78,M. Gupta,Wallet,New,176.34
+ORD100808,2024-03-12,CUST1388,Diya Patel,South,Office Supplies,Notebook Pack,4,248.94,R. Verma,Wallet,New,995.76
+ORD101184,2024-05-02,CUST1344,Aadhya Agarwal,West,Office Supplies,Notebook Pack,4,378.9,A. Sharma,Debit Card,Returning,1515.6
+ORD100011,2024-04-21,CUST1011,Vivaan Iyer,West,Electronics,Wireless Mouse,2,92.07,R. Verma,Credit Card,Returning,184.14
+ORD100144,2025-07-03,CUST1144,Riya Sharma,West,Software,VPN Subscription,1,347.88,A. Sharma,Wallet,Returning,347.88
+ORD100917,2024-08-22,CUST1077,Ishaan Chopra,West,Furniture,Bookshelf,3,248.21,N. Joshi,Credit Card,New,744.63
+ORD100639,2024-08-08,CUST1219,Anika Agarwal,North,Furniture,Desk Lamp,1,298.42,A. Sharma,Debit Card,Returning,298.42
+ORD100176,2024-09-12,CUST1176,Saanvi Chopra,East,Office Supplies,Notebook Pack,5,53.04,R. Verma,Debit Card,New,265.2
+ORD100994,2024-09-15,CUST1154,Pari Khan,North,Electronics,27in Monitor,1,339.07,M. Gupta,Credit Card,Returning,339.07
+ORD100440,2024-02-15,CUST1020,Myra Sharma,East,Office Supplies,Desk Organizer,5,261.29,S. Khan,Wallet,New,1306.45
+ORD101595,2024-12-26,CUST1335,Krishna Mehta,East,Office Supplies,Notebook Pack,5,433.17,P. Iyer,UPI,Returning,2165.85
+ORD101004,2025-11-17,CUST1164,Kavya Reddy,East,Furniture,Office Chair,1,137.44,N. Joshi,Net Banking,Returning,137.44
+ORD101255,2024-11-12,CUST1415,Myra Iyer,North,Office Supplies,Desk Organizer,2,78.74,P. Iyer,Credit Card,New,157.48
+ORD100143,2025-02-22,CUST1143,Ishaan Chopra,North,Office Supplies,Whiteboard,1,287.93,S. Khan,Credit Card,Returning,287.93
+ORD100753,2024-10-27,CUST1333,Diya Iyer,South,Furniture,Desk Lamp,3,449.75,N. Joshi,Net Banking,New,1349.25
+ORD100519,2024-03-17,CUST1099,Diya Kumar,South,Office Supplies,Pen Set,2,176.75,P. Iyer,UPI,New,353.5
+ORD101322,2024-03-12,CUST1062,Riya Reddy,South,Furniture,Bookshelf,1,62.97,M. Gupta,UPI,Returning,62.97
+ORD100822,2025-06-02,CUST1402,Riya Malhotra,West,Furniture,Bookshelf,3,339.42,N. Joshi,UPI,New,1018.26
+ORD100428,2025-07-24,CUST1008,Ananya Agarwal,North,Software,Cloud Backup Plan,1,385.21,A. Sharma,UPI,Returning,385.21
+ORD100612,2025-02-18,CUST1192,Kavya Iyer,North,Electronics,Webcam HD,1,370.56,N. Joshi,UPI,New,370.56
+ORD101032,2024-04-05,CUST1192,Aditya Chopra,West,Electronics,Webcam HD,1,413.43,N. Joshi,Debit Card,New,413.43
+ORD100156,2025-01-12,CUST1156,Aditya Iyer,West,Software,Antivirus License,5,152.66,N. Joshi,UPI,Returning,763.3
+ORD100539,2025-05-30,CUST1119,Aditya Khan,West,Electronics,27in Monitor,1,272.83,M. Gupta,Credit Card,New,272.83
+ORD101290,2025-08-29,CUST1030,Aditya Verma,East,Software,Cloud Backup Plan,4,387.49,A. Sharma,Wallet,New,1549.96
+ORD100461,2024-07-25,CUST1041,Diya Singh,North,Electronics,27in Monitor,3,91.7,N. Joshi,Net Banking,Returning,275.1
+ORD100576,2024-02-22,CUST1156,Riya Iyer,East,Software,Project Mgmt Tool,1,423.21,P. Iyer,Wallet,New,423.21
+ORD100255,2024-08-19,CUST1255,Pari Patel,North,Furniture,Desk Lamp,5,418.93,A. Sharma,Wallet,New,2094.65
+ORD100979,2025-09-15,CUST1139,Aditya Singh,South,Software,VPN Subscription,1,183.84,R. Verma,Credit Card,Returning,183.84
+ORD101006,2024-09-29,CUST1166,Anika Reddy,West,Office Supplies,Notebook Pack,2,279.42,S. Khan,Debit Card,Returning,558.84
+ORD100560,2025-02-04,CUST1140,Ishaan Iyer,North,Electronics,USB-C Hub,1,318.57,A. Sharma,Wallet,New,318.57
+ORD100208,2024-11-09,CUST1208,Reyansh Sharma,East,Furniture,Desk Lamp,3,145.94,A. Sharma,Credit Card,Returning,437.82
+ORD100910,2025-10-23,CUST1070,Saanvi Nair,North,Furniture,Bookshelf,2,123.28,M. Gupta,Wallet,Returning,246.56
+ORD100001,2024-08-08,CUST1001,Sai Mehta,South,Furniture,Office Chair,1,48.99,A. Sharma,UPI,New,48.99
+ORD101365,2024-11-21,CUST1105,Ananya Nair,South,Furniture,Bookshelf,1,166.0,N. Joshi,Debit Card,Returning,166.0
+ORD100269,2025-12-15,CUST1269,Riya Malhotra,East,Software,VPN Subscription,5,286.92,N. Joshi,Wallet,Returning,1434.6
+ORD100265,2024-06-27,CUST1265,Reyansh Reddy,West,Furniture,Desk Lamp,3,151.69,A. Sharma,UPI,Returning,455.07
+ORD100914,2025-02-05,CUST1074,Vivaan Kumar,North,Office Supplies,Notebook Pack,1,401.47,N. Joshi,Net Banking,New,401.47
+ORD100230,2024-12-05,CUST1230,Aditya Patel,North,Software,VPN Subscription,3,137.76,M. Gupta,Credit Card,New,413.28
+ORD101592,2025-03-31,CUST1332,Ananya Nair,East,Office Supplies,Pen Set,3,175.62,P. Iyer,Net Banking,Returning,526.86
+ORD101587,2024-06-06,CUST1327,Aadhya Malhotra,East,Furniture,Bookshelf,1,279.85,S. Khan,Debit Card,Returning,279.85
+ORD100864,2024-05-09,CUST1024,Saanvi Iyer,South,Furniture,Filing Cabinet,5,427.23,A. Sharma,UPI,Returning,2136.15
+ORD101066,2024-04-24,CUST1226,Diya Reddy,East,Software,Antivirus License,2,244.7,P. Iyer,Wallet,Returning,489.4
+ORD100873,2025-05-22,CUST1033,Vivaan Malhotra,North,Furniture,Standing Desk,2,326.59,N. Joshi,Net Banking,Returning,653.18
+ORD101447,2025-11-23,CUST1187,Arjun Sharma,North,Electronics,Mechanical Keyboard,2,63.91,R. Verma,Debit Card,New,127.82
+ORD100398,2025-08-21,CUST1398,Navya Verma,East,Electronics,Mechanical Keyboard,2,421.49,P. Iyer,UPI,Returning,842.98
+ORD101473,2024-11-06,CUST1213,Diya Chopra,South,Software,Antivirus License,2,347.94,R. Verma,Credit Card,New,695.88
+ORD100045,2025-08-22,CUST1045,Anika Nair,East,Office Supplies,Whiteboard,5,436.32,A. Sharma,Debit Card,Returning,2181.6
+ORD100161,2025-09-22,CUST1161,Reyansh Nair,North,Software,Cloud Backup Plan,2,46.32,S. Khan,Net Banking,Returning,92.64
+ORD100991,2024-07-20,CUST1151,Reyansh Agarwal,East,Software,Cloud Backup Plan,1,257.79,P. Iyer,UPI,Returning,257.79
+ORD100727,2025-03-26,CUST1307,Reyansh Agarwal,South,Furniture,Standing Desk,4,19.24,A. Sharma,UPI,Returning,76.96
+ORD100629,2025-05-30,CUST1209,Anika Malhotra,East,Furniture,Standing Desk,1,161.21,A. Sharma,Debit Card,New,161.21
+ORD100288,2025-08-13,CUST1288,Navya Nair,West,Software,Antivirus License,1,352.81,S. Khan,UPI,New,352.81
+ORD101059,2024-08-05,CUST1219,Ayaan Khan,West,Furniture,Office Chair,2,260.06,P. Iyer,Debit Card,New,520.12
+ORD101574,2025-02-02,CUST1314,Saanvi Mehta,East,Furniture,Filing Cabinet,3,198.69,M. Gupta,Wallet,Returning,596.07
+ORD100850,2025-03-22,CUST1010,Krishna Khan,North,Electronics,Webcam HD,1,109.26,A. Sharma,Wallet,New,109.26
+ORD101339,2024-11-17,CUST1079,Pari Mehta,North,Software,Antivirus License,2,271.97,S. Khan,Net Banking,New,543.94
+ORD100911,2024-02-13,CUST1071,Sai Chopra,East,Electronics,Mechanical Keyboard,4,215.24,A. Sharma,Credit Card,Returning,860.96
+ORD101254,2025-08-16,CUST1414,Krishna Agarwal,East,Electronics,Mechanical Keyboard,5,352.79,M. Gupta,Wallet,New,1763.95
+ORD101466,2024-08-13,CUST1206,Kavya Chopra,East,Furniture,Desk Lamp,2,232.36,M. Gupta,Debit Card,New,464.72
+ORD100932,2025-09-25,CUST1092,Aarav Agarwal,South,Electronics,USB-C Hub,1,401.62,R. Verma,Net Banking,New,401.62
+ORD101100,2025-10-29,CUST1260,Aadhya Gupta,South,Furniture,Standing Desk,1,68.09,R. Verma,Wallet,New,68.09
+ORD101207,2025-07-17,CUST1367,Kavya Gupta,East,Software,VPN Subscription,2,397.51,M. Gupta,Credit Card,New,795.02
+ORD100247,2025-12-03,CUST1247,Sai Reddy,West,Office Supplies,Pen Set,5,271.67,A. Sharma,Debit Card,Returning,1358.35
+ORD100476,2025-04-02,CUST1056,Aarav Gupta,West,Furniture,Desk Lamp,1,65.08,R. Verma,Debit Card,New,65.08
+ORD100085,2025-01-18,CUST1085,Anika Patel,North,Electronics,27in Monitor,1,148.86,R. Verma,Debit Card,New,148.86
+ORD100469,2025-06-08,CUST1049,Anika Patel,South,Furniture,Filing Cabinet,4,207.41,P. Iyer,UPI,New,829.64
+ORD100774,2025-06-01,CUST1354,Vivaan Iyer,South,Software,Project Mgmt Tool,2,89.31,S. Khan,Credit Card,New,178.62
+ORD100331,2024-10-13,CUST1331,Arjun Mehta,East,Software,Antivirus License,1,239.32,N. Joshi,Credit Card,Returning,239.32
+ORD100233,2024-09-14,CUST1233,Ananya Sharma,North,Electronics,27in Monitor,2,410.66,P. Iyer,Credit Card,Returning,821.32
+ORD100588,2025-06-30,CUST1168,Arjun Chopra,North,Software,Cloud Backup Plan,3,292.99,N. Joshi,Net Banking,Returning,878.97
+ORD100475,2025-05-15,CUST1055,Riya Gupta,East,Office Supplies,Notebook Pack,1,95.96,P. Iyer,Wallet,New,95.96
+ORD101284,2025-04-12,CUST1024,Aarav Singh,South,Furniture,Standing Desk,1,306.16,N. Joshi,Wallet,New,306.16
+ORD100599,2025-11-13,CUST1179,Ananya Malhotra,East,Office Supplies,Desk Organizer,4,155.65,N. Joshi,Credit Card,Returning,622.6
+ORD100421,2025-12-08,CUST1001,Ishaan Reddy,West,Software,VPN Subscription,2,46.73,N. Joshi,Debit Card,New,93.46
+ORD100182,2024-08-12,CUST1182,Myra Sharma,South,Furniture,Standing Desk,5,8.3,N. Joshi,Debit Card,Returning,41.5
+ORD100988,2024-09-14,CUST1148,Ayaan Kumar,East,Software,Project Mgmt Tool,4,9.21,M. Gupta,Credit Card,New,36.84
+ORD101000,2025-04-07,CUST1160,Ishaan Joshi,North,Software,Cloud Backup Plan,2,260.42,A. Sharma,Wallet,New,520.84
+ORD101356,2024-03-29,CUST1096,Reyansh Nair,West,Office Supplies,Pen Set,1,441.92,S. Khan,Wallet,New,441.92
+ORD101462,2025-10-08,CUST1202,Aadhya Malhotra,West,Electronics,Webcam HD,1,174.28,S. Khan,UPI,Returning,174.28
+ORD100049,2025-04-06,CUST1049,Riya Gupta,West,Office Supplies,Whiteboard,1,130.1,M. Gupta,Net Banking,New,130.1
+ORD101511,2024-03-21,CUST1251,Vihaan Reddy,West,Furniture,Filing Cabinet,5,205.2,M. Gupta,Wallet,Returning,1026.0
+ORD101029,2024-04-01,CUST1189,Arjun Kumar,West,Furniture,Filing Cabinet,2,85.36,R. Verma,Wallet,Returning,170.72
+ORD100529,2025-10-06,CUST1109,Vihaan Iyer,South,Furniture,Office Chair,4,62.74,R. Verma,UPI,Returning,250.96
+ORD101258,2025-08-12,CUST1418,Reyansh Gupta,East,Furniture,Office Chair,3,164.74,R. Verma,Credit Card,New,494.22
+ORD100486,2024-04-14,CUST1066,Ishaan Agarwal,North,Office Supplies,Whiteboard,2,431.89,N. Joshi,Debit Card,Returning,863.78
+ORD101572,2024-02-15,CUST1312,Ishaan Patel,North,Furniture,Office Chair,1,320.27,A. Sharma,UPI,New,320.27
+ORD100497,2025-01-26,CUST1077,Ishaan Joshi,West,Software,Cloud Backup Plan,4,340.59,M. Gupta,Net Banking,New,1362.36
+ORD100106,2025-06-03,CUST1106,Navya Mehta,East,Office Supplies,Whiteboard,2,217.9,S. Khan,Wallet,Returning,435.8
+ORD100443,2024-11-24,CUST1023,Pari Khan,North,Office Supplies,Desk Organizer,1,225.23,A. Sharma,Wallet,Returning,225.23
+ORD100646,2025-08-16,CUST1226,Ananya Sharma,North,Furniture,Filing Cabinet,2,150.68,N. Joshi,Debit Card,Returning,301.36
+ORD100726,2024-10-02,CUST1306,Ishaan Gupta,South,Office Supplies,Desk Organizer,3,429.96,R. Verma,Debit Card,Returning,1289.88
+ORD100190,2025-04-27,CUST1190,Myra Chopra,South,Furniture,Office Chair,2,48.28,P. Iyer,Debit Card,Returning,96.56
+ORD100029,2025-12-13,CUST1029,Aadhya Iyer,West,Electronics,Mechanical Keyboard,4,218.83,S. Khan,Wallet,New,875.32
+ORD100169,2025-05-03,CUST1169,Riya Agarwal,West,Office Supplies,Notebook Pack,3,117.73,M. Gupta,Net Banking,New,353.19
+ORD101001,2024-05-04,CUST1161,Vivaan Iyer,North,Furniture,Desk Lamp,2,176.07,N. Joshi,Credit Card,New,352.14
+ORD100100,2025-10-04,CUST1100,Pari Iyer,North,Furniture,Standing Desk,2,221.46,A. Sharma,Credit Card,New,442.92
+ORD100197,2024-02-27,CUST1197,Myra Agarwal,South,Office Supplies,Whiteboard,1,145.52,M. Gupta,Credit Card,New,145.52
+ORD100495,2024-09-09,CUST1075,Vivaan Nair,East,Software,Cloud Backup Plan,5,23.25,N. Joshi,Debit Card,Returning,116.25
+ORD100647,2025-03-25,CUST1227,Ishaan Gupta,East,Electronics,USB-C Hub,1,135.51,R. Verma,Net Banking,New,135.51
+ORD100987,2025-02-19,CUST1147,Vihaan Sharma,East,Office Supplies,Notebook Pack,5,170.91,S. Khan,Wallet,Returning,854.55
+ORD100710,2025-09-15,CUST1290,Ayaan Kumar,West,Electronics,USB-C Hub,2,165.57,N. Joshi,Wallet,New,331.14
+ORD100373,2024-03-09,CUST1373,Vihaan Agarwal,South,Office Supplies,Notebook Pack,5,257.98,N. Joshi,Credit Card,Returning,1289.9
+ORD100678,2025-02-27,CUST1258,Ishaan Gupta,South,Electronics,27in Monitor,2,128.58,S. Khan,Net Banking,New,257.16
+ORD100566,2025-03-19,CUST1146,Vihaan Malhotra,West,Electronics,Mechanical Keyboard,4,153.29,N. Joshi,UPI,New,613.16
+ORD100847,2025-09-07,CUST1007,Navya Singh,North,Software,VPN Subscription,1,356.33,R. Verma,Net Banking,New,356.33
+ORD100460,2025-01-01,CUST1040,Ishaan Reddy,South,Electronics,Mechanical Keyboard,1,73.15,A. Sharma,Wallet,New,73.15
+ORD101437,2024-07-16,CUST1177,Aditya Kumar,West,Software,Antivirus License,1,20.78,R. Verma,Wallet,New,20.78
+ORD101155,2024-02-05,CUST1315,Anika Khan,West,Electronics,Wireless Mouse,1,286.91,A. Sharma,Debit Card,Returning,286.91
+ORD100434,2024-05-09,CUST1014,Riya Patel,South,Electronics,Wireless Mouse,2,49.03,R. Verma,Credit Card,New,98.06
+ORD100973,2025-05-19,CUST1133,Vihaan Khan,East,Furniture,Filing Cabinet,1,365.24,P. Iyer,Net Banking,Returning,365.24
+ORD101239,2025-05-31,CUST1399,Navya Gupta,West,Office Supplies,Sticky Notes,1,187.65,M. Gupta,UPI,New,187.65
+ORD101007,2024-04-25,CUST1167,Aditya Verma,North,Electronics,Webcam HD,3,300.24,R. Verma,UPI,New,900.72
+ORD101498,2025-06-27,CUST1238,Sai Agarwal,West,Office Supplies,Notebook Pack,2,229.92,R. Verma,Credit Card,New,459.84
+ORD100456,2024-12-08,CUST1036,Aadhya Agarwal,North,Electronics,27in Monitor,2,55.67,P. Iyer,Wallet,New,111.34
+ORD100260,2024-10-13,CUST1260,Myra Gupta,East,Software,Cloud Backup Plan,2,339.57,M. Gupta,Credit Card,Returning,679.14
+ORD100035,2024-10-03,CUST1035,Aadhya Gupta,West,Software,Project Mgmt Tool,5,200.52,A. Sharma,Net Banking,Returning,1002.6
+ORD100827,2025-07-04,CUST1407,Ananya Kumar,East,Software,Antivirus License,4,49.97,A. Sharma,Wallet,Returning,199.88
+ORD100309,2025-12-17,CUST1309,Sai Nair,North,Software,Project Mgmt Tool,5,339.21,P. Iyer,Net Banking,Returning,1696.05
+ORD100276,2025-07-16,CUST1276,Ananya Gupta,South,Software,Cloud Backup Plan,2,220.7,N. Joshi,Debit Card,New,441.4
+ORD100636,2024-08-26,CUST1216,Sai Gupta,East,Office Supplies,Desk Organizer,1,89.44,M. Gupta,Debit Card,New,89.44
+ORD100654,2024-10-24,CUST1234,Myra Reddy,West,Office Supplies,Whiteboard,2,401.3,P. Iyer,Net Banking,Returning,802.6
+ORD100622,2024-10-23,CUST1202,Navya Joshi,North,Office Supplies,Notebook Pack,4,318.85,A. Sharma,Wallet,New,1275.4
+ORD100844,2024-06-24,CUST1004,Aarav Joshi,East,Office Supplies,Desk Organizer,2,247.44,M. Gupta,Net Banking,Returning,494.88
+ORD100393,2024-03-19,CUST1393,Anika Khan,East,Electronics,Webcam HD,2,199.35,M. Gupta,Wallet,Returning,398.7
+ORD100107,2024-06-23,CUST1107,Pari Singh,North,Furniture,Desk Lamp,1,371.17,R. Verma,Credit Card,Returning,371.17
+ORD100349,2025-10-29,CUST1349,Aarav Sharma,South,Software,Antivirus License,4,314.53,R. Verma,Net Banking,Returning,1258.12
+ORD100524,2025-06-17,CUST1104,Kavya Joshi,West,Software,Cloud Backup Plan,2,288.95,A. Sharma,Credit Card,New,577.9
+ORD100784,2024-10-14,CUST1364,Riya Joshi,West,Software,Project Mgmt Tool,1,301.43,R. Verma,UPI,Returning,301.43
+ORD100047,2024-02-22,CUST1047,Diya Reddy,West,Office Supplies,Pen Set,2,250.76,A. Sharma,Credit Card,New,501.52
+ORD100203,2024-06-02,CUST1203,Ishaan Kumar,South,Electronics,27in Monitor,3,329.14,N. Joshi,Net Banking,Returning,987.42
+ORD100021,2024-12-05,CUST1021,Anika Iyer,East,Furniture,Bookshelf,1,395.65,A. Sharma,Credit Card,Returning,395.65
+ORD100402,2025-07-14,CUST1402,Aditya Patel,South,Furniture,Desk Lamp,5,315.28,S. Khan,Debit Card,New,1576.4
+ORD101107,2025-04-22,CUST1267,Ananya Singh,South,Software,Project Mgmt Tool,1,170.66,N. Joshi,Debit Card,Returning,170.66
+ORD101154,2025-01-08,CUST1314,Saanvi Kumar,East,Electronics,USB-C Hub,5,440.61,S. Khan,Wallet,New,2203.05
+ORD101439,2024-12-15,CUST1179,Aadhya Patel,West,Office Supplies,Whiteboard,1,26.23,S. Khan,Net Banking,New,26.23
+ORD100741,2025-02-14,CUST1321,Navya Iyer,South,Office Supplies,Pen Set,4,406.22,R. Verma,Net Banking,New,1624.88
+ORD101310,2024-10-09,CUST1050,Ishaan Patel,East,Office Supplies,Notebook Pack,2,275.06,M. Gupta,Credit Card,New,550.12
+ORD101147,2025-02-08,CUST1307,Kavya Singh,East,Office Supplies,Sticky Notes,3,152.16,A. Sharma,UPI,Returning,456.48
+ORD100033,2024-04-27,CUST1033,Sai Reddy,West,Furniture,Bookshelf,2,55.78,S. Khan,UPI,New,111.56
+ORD100787,2024-01-25,CUST1367,Anika Kumar,South,Furniture,Standing Desk,3,408.37,S. Khan,UPI,Returning,1225.11
+ORD101540,2025-12-18,CUST1280,Kavya Sharma,West,Software,Cloud Backup Plan,4,266.23,A. Sharma,Credit Card,New,1064.92
+ORD100923,2024-02-29,CUST1083,Diya Reddy,West,Office Supplies,Whiteboard,2,274.83,M. Gupta,Net Banking,New,549.66
+ORD101043,2025-06-13,CUST1203,Aditya Khan,East,Electronics,Wireless Mouse,1,312.47,S. Khan,Credit Card,Returning,312.47
+ORD101555,2025-08-04,CUST1295,Aditya Reddy,East,Software,Antivirus License,3,447.18,M. Gupta,Debit Card,Returning,1341.54
+ORD101243,2024-06-17,CUST1403,Navya Verma,West,Software,VPN Subscription,2,77.67,M. Gupta,UPI,New,155.34
+ORD100579,2025-09-02,CUST1159,Pari Chopra,East,Office Supplies,Notebook Pack,1,70.69,P. Iyer,Debit Card,Returning,70.69
+ORD100481,2025-04-20,CUST1061,Vihaan Mehta,West,Electronics,USB-C Hub,5,38.16,R. Verma,UPI,Returning,190.8
+ORD100931,2025-09-06,CUST1091,Ishaan Chopra,West,Software,VPN Subscription,1,401.0,S. Khan,Wallet,New,401.0
+ORD100356,2025-08-28,CUST1356,Ananya Iyer,North,Office Supplies,Desk Organizer,1,192.66,M. Gupta,Credit Card,Returning,192.66
+ORD101248,2024-07-03,CUST1408,Kavya Mehta,South,Office Supplies,Desk Organizer,1,403.5,A. Sharma,Net Banking,Returning,403.5
+ORD100759,2025-06-26,CUST1339,Vihaan Agarwal,North,Furniture,Desk Lamp,1,331.79,R. Verma,Debit Card,New,331.79
+ORD100092,2025-04-01,CUST1092,Vihaan Verma,South,Furniture,Bookshelf,1,312.88,P. Iyer,Wallet,Returning,312.88
+ORD101175,2024-03-01,CUST1335,Vihaan Singh,East,Furniture,Bookshelf,1,386.17,R. Verma,Net Banking,New,386.17
+ORD101415,2024-04-23,CUST1155,Myra Iyer,West,Office Supplies,Notebook Pack,3,392.62,R. Verma,Debit Card,New,1177.86
+ORD101341,2025-06-27,CUST1081,Sai Gupta,South,Software,VPN Subscription,5,140.68,S. Khan,UPI,Returning,703.4
+ORD101472,2025-10-10,CUST1212,Ayaan Sharma,South,Electronics,Webcam HD,4,195.72,N. Joshi,Credit Card,New,782.88
+ORD100803,2024-09-09,CUST1383,Arjun Patel,West,Office Supplies,Sticky Notes,1,152.63,P. Iyer,Net Banking,Returning,152.63
+ORD100745,2025-12-09,CUST1325,Kavya Iyer,North,Furniture,Office Chair,2,107.29,M. Gupta,Net Banking,New,214.58
+ORD100279,2024-02-10,CUST1279,Saanvi Patel,East,Office Supplies,Notebook Pack,5,255.09,M. Gupta,Net Banking,Returning,1275.45
+ORD100764,2025-09-09,CUST1344,Anika Gupta,North,Office Supplies,Pen Set,3,422.52,S. Khan,Credit Card,New,1267.56
+ORD100604,2024-10-23,CUST1184,Arjun Khan,East,Electronics,27in Monitor,2,223.18,R. Verma,Net Banking,New,446.36
+ORD101373,2025-07-19,CUST1113,Aditya Joshi,East,Office Supplies,Desk Organizer,2,401.93,P. Iyer,UPI,Returning,803.86
+ORD101398,2025-05-08,CUST1138,Vihaan Kumar,West,Office Supplies,Notebook Pack,1,178.88,A. Sharma,Net Banking,Returning,178.88
+ORD100400,2024-08-30,CUST1400,Diya Malhotra,South,Software,Cloud Backup Plan,4,11.48,P. Iyer,Credit Card,New,45.92
+ORD100257,2025-12-19,CUST1257,Saanvi Nair,West,Furniture,Office Chair,3,190.29,P. Iyer,Debit Card,Returning,570.87
+ORD100944,2024-10-09,CUST1104,Anika Sharma,North,Software,Cloud Backup Plan,1,112.54,S. Khan,Wallet,New,112.54
+ORD101096,2025-10-25,CUST1256,Myra Chopra,East,Software,Project Mgmt Tool,1,128.03,R. Verma,Credit Card,Returning,128.03
+ORD101219,2024-08-18,CUST1379,Aarav Chopra,North,Software,Project Mgmt Tool,2,229.2,M. Gupta,Wallet,Returning,458.4
+ORD101507,2025-07-14,CUST1247,Arjun Sharma,North,Furniture,Standing Desk,3,359.87,N. Joshi,Credit Card,Returning,1079.61
+ORD101161,2024-12-20,CUST1321,Sai Reddy,East,Furniture,Standing Desk,3,52.82,M. Gupta,Credit Card,Returning,158.46
+ORD100494,2025-08-25,CUST1074,Diya Iyer,West,Software,VPN Subscription,4,399.17,R. Verma,Debit Card,Returning,1596.68
+ORD100772,2024-03-29,CUST1352,Vihaan Iyer,East,Furniture,Office Chair,2,64.18,R. Verma,Credit Card,Returning,128.36
+ORD101486,2024-08-22,CUST1226,Reyansh Agarwal,South,Furniture,Desk Lamp,4,286.45,S. Khan,Net Banking,Returning,1145.8
+ORD100201,2025-09-30,CUST1201,Reyansh Khan,West,Software,Cloud Backup Plan,1,11.25,M. Gupta,Wallet,Returning,11.25
+ORD100312,2024-07-31,CUST1312,Aarav Khan,East,Electronics,Wireless Mouse,4,28.11,N. Joshi,Debit Card,Returning,112.44
+ORD100290,2024-02-20,CUST1290,Arjun Gupta,South,Furniture,Filing Cabinet,2,45.6,R. Verma,UPI,New,91.2
+ORD101213,2024-08-12,CUST1373,Sai Malhotra,West,Electronics,USB-C Hub,4,372.75,A. Sharma,Net Banking,Returning,1491.0
+ORD100763,2024-06-30,CUST1343,Sai Malhotra,South,Furniture,Desk Lamp,5,21.41,A. Sharma,Net Banking,Returning,107.05
+ORD101136,2024-01-01,CUST1296,Ishaan Agarwal,East,Software,Cloud Backup Plan,4,86.53,N. Joshi,Wallet,Returning,346.12
+ORD100949,2025-10-28,CUST1109,Saanvi Reddy,East,Electronics,USB-C Hub,1,441.91,M. Gupta,Credit Card,Returning,441.91
+ORD100183,2025-01-08,CUST1183,Arjun Agarwal,North,Office Supplies,Pen Set,3,319.41,P. Iyer,Debit Card,New,958.23
+ORD101176,2025-05-23,CUST1336,Ananya Malhotra,West,Software,Antivirus License,4,342.83,P. Iyer,Wallet,Returning,1371.32
+ORD101349,2024-02-19,CUST1089,Sai Sharma,South,Software,Antivirus License,1,442.54,P. Iyer,Wallet,New,442.54
+ORD101468,2025-02-06,CUST1208,Diya Gupta,South,Software,VPN Subscription,2,387.37,N. Joshi,Debit Card,Returning,774.74
+ORD101030,2025-10-23,CUST1190,Pari Agarwal,South,Office Supplies,Desk Organizer,1,181.22,R. Verma,Wallet,New,181.22
+ORD100250,2025-01-11,CUST1250,Pari Joshi,East,Electronics,Wireless Mouse,3,188.71,P. Iyer,Wallet,Returning,566.13
+ORD100823,2024-09-11,CUST1403,Vihaan Khan,South,Electronics,Webcam HD,4,141.86,R. Verma,Credit Card,New,567.44
+ORD101099,2025-08-13,CUST1259,Krishna Sharma,North,Furniture,Filing Cabinet,2,269.19,A. Sharma,UPI,New,538.38
+ORD101536,2025-01-25,CUST1276,Diya Verma,South,Office Supplies,Whiteboard,2,331.39,P. Iyer,Debit Card,Returning,662.78
+ORD100940,2024-05-23,CUST1100,Sai Sharma,West,Furniture,Filing Cabinet,4,304.76,A. Sharma,UPI,Returning,1219.04
+ORD100391,2024-04-10,CUST1391,Ananya Iyer,East,Software,Antivirus License,1,313.36,N. Joshi,Net Banking,New,313.36
+ORD101456,2024-10-09,CUST1196,Diya Singh,West,Office Supplies,Pen Set,2,78.38,N. Joshi,UPI,Returning,156.76
+ORD101092,2025-02-10,CUST1252,Aditya Joshi,South,Software,VPN Subscription,1,251.64,S. Khan,Credit Card,New,251.64
+ORD101191,2025-02-28,CUST1351,Navya Patel,North,Electronics,Wireless Mouse,1,260.49,A. Sharma,Net Banking,Returning,260.49
+ORD100730,2025-04-27,CUST1310,Aditya Nair,West,Furniture,Standing Desk,2,330.5,R. Verma,Wallet,New,661.0
+ORD100554,2025-01-21,CUST1134,Arjun Verma,South,Office Supplies,Notebook Pack,4,172.28,M. Gupta,Debit Card,New,689.12
+ORD100366,2024-06-15,CUST1366,Diya Gupta,South,Electronics,USB-C Hub,1,414.83,S. Khan,Net Banking,New,414.83
+ORD100345,2025-04-05,CUST1345,Riya Nair,South,Software,Antivirus License,1,157.96,R. Verma,Wallet,Returning,157.96
+ORD100535,2024-11-07,CUST1115,Myra Sharma,South,Furniture,Filing Cabinet,2,168.7,A. Sharma,Debit Card,New,337.4
+ORD101422,2025-07-10,CUST1162,Ishaan Patel,West,Software,Antivirus License,1,174.75,R. Verma,Debit Card,Returning,174.75
+ORD101209,2024-12-18,CUST1369,Aadhya Kumar,West,Furniture,Standing Desk,1,11.72,M. Gupta,Debit Card,Returning,11.72
+ORD101372,2024-10-17,CUST1112,Diya Mehta,East,Office Supplies,Notebook Pack,5,126.34,A. Sharma,UPI,New,631.7
+ORD100919,2024-10-25,CUST1079,Vivaan Kumar,South,Electronics,USB-C Hub,2,413.09,M. Gupta,Net Banking,Returning,826.18
+ORD100211,2025-09-29,CUST1211,Aadhya Nair,South,Electronics,USB-C Hub,4,375.15,A. Sharma,Credit Card,Returning,1500.6
+ORD100502,2024-10-13,CUST1082,Arjun Sharma,North,Software,VPN Subscription,3,207.75,N. Joshi,Debit Card,New,623.25
+ORD100537,2024-08-03,CUST1117,Anika Reddy,East,Furniture,Desk Lamp,1,400.14,M. Gupta,Debit Card,New,400.14
+ORD101220,2024-04-10,CUST1380,Saanvi Kumar,West,Electronics,27in Monitor,1,88.33,N. Joshi,Net Banking,New,88.33
+ORD100175,2025-12-14,CUST1175,Sai Agarwal,West,Electronics,Wireless Mouse,2,377.48,P. Iyer,UPI,New,754.96
