@@ -2,9 +2,11 @@
 export const certifications = [
   'Data Analytics Job Simulation -- Deloitte',
   'Digital Marketing -- IIM Ahmedabad',
-  'SQL for Data Analysis -- Udemy',
+  'SQL for Beginners -- Udemy',
   'Digital Marketing -- Samyak Institute',
   'Foundation to AI, Data Science & BI -- Samatrix.io',
+  'Tableau A-Z -- Udemy',
+  'Microsoft Power BI Desktop -- Udemy',
 ];
 
 export const certificationsRow2 = [
@@ -12,6 +14,9 @@ export const certificationsRow2 = [
   'R-Programming for Data Science -- Samatrix.io',
   'Statistics & Computational Data Analysis -- Samatrix.io',
   'Data Analysis & Visualization -- Samatrix.io',
+  'What Is Generative AI? -- LinkedIn Learning',
+  'Ethics in the Age of Generative AI -- LinkedIn Learning',
+  'Career Skills in Data Analytics -- LinkedIn Learning',
 ];
 
 export const marqueeRow1 = certifications;
@@ -62,6 +67,9 @@ export interface DataProject {
   demoLabel: string;
   downloadHref: string;
   downloadLabel: string;
+  image?: string;
+  secondaryHref?: string;
+  secondaryLabel?: string;
 }
 
 export const dataProjects: DataProject[] = [
@@ -112,6 +120,81 @@ export const dataProjects: DataProject[] = [
     demoLabel: 'View Notebook (rendered)',
     downloadHref: '/projects/python-data-analysis/clean_and_analyze.ipynb',
     downloadLabel: 'Download .ipynb',
+  },
+  {
+    number: '04',
+    title: 'Customer Churn & Retention Analytics',
+    tech: 'Power BI',
+    description:
+      'A full churn-analytics build on a 4,500-customer telecom-style dataset -- churn risk scoring, What-If revenue-saved simulation, and drill-through customer profiles, uncovering a 25.4% churn rate driven mainly by month-to-month contracts.',
+    bullets: [
+      'Built a transparent, rule-based Risk Score and Risk Tier system to flag high-risk active customers for proactive retention outreach.',
+      'Implemented Power BI What-If Parameters to model revenue-saved scenarios (10-50% churn reduction) for stakeholder budget conversations.',
+      'Designed a star-schema model with DAX time-intelligence measures for MRR trend and month-over-month growth.',
+    ],
+    image: '/projects/customer-churn-retention-analytics/preview.jpg',
+    demoHref:
+      '/projects/customer-churn-retention-analytics/Churn_Retention_PowerBI_Build_Guide.docx',
+    demoLabel: 'View Build Guide (.docx)',
+    downloadHref:
+      '/projects/customer-churn-retention-analytics/Customer_Churn_Retention_Dataset.xlsx',
+    downloadLabel: 'Download Dataset',
+  },
+  {
+    number: '05',
+    title: 'Sales Performance & Revenue Forecasting',
+    tech: 'Power BI',
+    description:
+      'A 6-page executive sales dashboard across 22,000+ orders and 3.5 years of data, uncovering that the highest-revenue region also carried the lowest margin because of excessive discounting -- with Field Parameters, What-If target simulation, and revenue forecasting.',
+    bullets: [
+      'Used Power BI Field Parameters to let stakeholders dynamically switch the KPI driving every executive-page chart.',
+      'Built a What-If target-simulation parameter so leadership could stress-test regional target changes live.',
+      'Combined Power BI\u2019s built-in Analytics forecast with a transparent DAX trend measure for a defensible revenue forecast.',
+    ],
+    image: '/projects/sales-performance-forecasting/preview.jpg',
+    demoHref:
+      '/projects/sales-performance-forecasting/Sales_Forecasting_PowerBI_Build_Guide.docx',
+    demoLabel: 'View Build Guide (.docx)',
+    downloadHref:
+      '/projects/sales-performance-forecasting/Sales_Performance_Forecasting_Dataset.xlsx',
+    downloadLabel: 'Download Dataset',
+  },
+  {
+    number: '06',
+    title: 'Customer Segmentation & Marketing Analytics',
+    tech: 'Tableau',
+    description:
+      'RFM-based customer segmentation across 3,200 customers and 20,000+ transactions, paired with 144 marketing campaigns spanning 6 channels -- surfacing that Email far outperforms Influencer spend on ROI, and that Loyal customers buy often but spend less per order than Champions.',
+    bullets: [
+      'Built LOD expressions and quintile-based RFM scoring in Tableau to classify customers into 7 actionable segments.',
+      'Identified a lower average order value in the Loyal segment despite its highest purchase frequency, informing a bundling recommendation.',
+      'Layered campaign spend, conversions, and ROMI across 6 channels, surfacing a clear budget-reallocation opportunity.',
+    ],
+    image: '/projects/customer-segmentation-marketing-analytics/preview.jpg',
+    demoHref:
+      '/projects/customer-segmentation-marketing-analytics/Segmentation_Marketing_Tableau_Build_Guide.docx',
+    demoLabel: 'View Build Guide (.docx)',
+    downloadHref:
+      '/projects/customer-segmentation-marketing-analytics/Customer_Segmentation_Marketing_Dataset.xlsx',
+    downloadLabel: 'Download Dataset',
+  },
+  {
+    number: '07',
+    title: 'Factory Downtime & Equality Scoring Analysis',
+    tech: 'Tableau + Excel',
+    description:
+      'A virtual job simulation (via Forage) analyzing factory telemetry data across sites and device types to identify the biggest sources of unplanned downtime, paired with an equality scoring task benchmarking outcomes across factory locations.',
+    bullets: [
+      'Built a Tableau dashboard breaking down unhealthy/downtime hours by factory site and by device type to pinpoint the worst offenders.',
+      'Completed an equality scoring exercise in Excel comparing outcomes across factories to flag locations needing intervention.',
+      'Practiced translating raw telemetry data into an executive-ready view for non-technical stakeholders.',
+    ],
+    image: '/projects/daikibo-factory-downtime-analysis/preview.png',
+    demoHref: '/projects/daikibo-factory-downtime-analysis/preview.png',
+    demoLabel: 'View Dashboard',
+    downloadHref:
+      '/projects/daikibo-factory-downtime-analysis/Equality_Table_Updated.xlsx',
+    downloadLabel: 'Download Equality Table',
   },
 ];
 
@@ -196,12 +279,46 @@ export const certificates: Certificate[] = [
     fileHref: '/certificates/samatrix-ml-for-business.pdf',
   },
   {
-    title: 'SQL for Data Analysis',
+    title: 'SQL for Beginners: Learn SQL using MySQL and Database Design',
     issuer: 'Udemy',
-    year: '',
-    image: '',
-    fileHref: '',
-    comingSoon: true,
+    year: '2026',
+    image: '/certificates/udemy-sql-for-beginners.jpg',
+    fileHref: '/certificates/udemy-sql-for-beginners.pdf',
+  },
+  {
+    title: 'Tableau A-Z: Hands-On Tableau Training for Data Science',
+    issuer: 'Udemy',
+    year: '2026',
+    image: '/certificates/udemy-tableau-az.jpg',
+    fileHref: '/certificates/udemy-tableau-az.pdf',
+  },
+  {
+    title: 'Microsoft Power BI Desktop for Business Intelligence',
+    issuer: 'Udemy',
+    year: '2026',
+    image: '/certificates/udemy-powerbi-desktop.jpg',
+    fileHref: '/certificates/udemy-powerbi-desktop.pdf',
+  },
+  {
+    title: 'Introduction to Career Skills in Data Analytics (2022)',
+    issuer: 'LinkedIn Learning',
+    year: '2026',
+    image: '/certificates/linkedin-career-skills-data-analytics.jpg',
+    fileHref: '/certificates/linkedin-career-skills-data-analytics.pdf',
+  },
+  {
+    title: 'What Is Generative AI?',
+    issuer: 'LinkedIn Learning',
+    year: '2026',
+    image: '/certificates/linkedin-what-is-generative-ai.jpg',
+    fileHref: '/certificates/linkedin-what-is-generative-ai.pdf',
+  },
+  {
+    title: 'Ethics in the Age of Generative AI',
+    issuer: 'LinkedIn Learning',
+    year: '2026',
+    image: '/certificates/linkedin-ethics-generative-ai.jpg',
+    fileHref: '/certificates/linkedin-ethics-generative-ai.pdf',
   },
   {
     title: 'Python Certification',
