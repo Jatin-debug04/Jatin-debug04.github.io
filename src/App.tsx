@@ -6,19 +6,23 @@ import DataProjectsSection from './components/DataProjectsSection';
 import CertificatesSection from './components/CertificatesSection';
 import AboutSection from './components/AboutSection';
 import ContactSection from './components/ContactSection';
+import Chatbot from './components/Chatbot';
 
 function App() {
   return (
-    <div className="bg-[#0C0C0C]" style={{ overflowX: 'clip' }}>
-      <HeroSection />
-      <MarqueeSection />
-      <ServicesSection />
-      <ProjectsSection />
-      <DataProjectsSection />
-      <CertificatesSection />
-      <AboutSection />
-      <ContactSection />
-    </div>
+    <>
+      <div className="bg-[#0C0C0C]" style={{ overflowX: 'clip' }}>
+        <HeroSection />
+        <MarqueeSection />
+        <ServicesSection />
+        <ProjectsSection />
+        <DataProjectsSection />
+        <CertificatesSection />
+        <AboutSection />
+        <ContactSection />
+      </div>
+      <Chatbot />
+    </>
   );
 }
 
