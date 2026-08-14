@@ -18,7 +18,7 @@ export default function CertificatesSection() {
       </FadeIn>
 
       <FadeIn delay={0.1} y={20}>
-        <p className="text-[#0C0C0C]/60 text-center max-w-xl mx-auto mb-14 sm:mb-16 md:mb-20 text-sm sm:text-base">
+        <p className="text-[#0C0C0C]/70 text-center max-w-xl mx-auto mb-14 sm:mb-16 md:mb-20 text-sm sm:text-base">
           Click any certificate to view the full version.
         </p>
       </FadeIn>
@@ -28,15 +28,15 @@ export default function CertificatesSection() {
           <FadeIn key={cert.title} delay={i * 0.06} y={30}>
             {cert.comingSoon ? (
               <div className="block rounded-[24px] overflow-hidden border-2 border-dashed border-[#0C0C0C]/15">
-                <div className="aspect-[4/3] flex flex-col items-center justify-center gap-2 bg-[#0C0C0C]/[0.03] text-[#0C0C0C]/30">
+                <div className="aspect-[4/3] flex flex-col items-center justify-center gap-2 bg-[#0C0C0C]/[0.03] text-[#0C0C0C]/40">
                   <Clock size={32} strokeWidth={1.5} />
                   <span className="text-xs uppercase tracking-widest">Coming Soon</span>
                 </div>
                 <div className="p-4 sm:p-5">
-                  <p className="text-[#0C0C0C]/50 font-medium text-sm sm:text-base">
+                  <p className="text-[#0C0C0C]/60 font-medium text-sm sm:text-base">
                     {cert.title}
                   </p>
-                  <p className="text-[#0C0C0C]/30 text-xs sm:text-sm mt-1">
+                  <p className="text-[#0C0C0C]/40 text-xs sm:text-sm mt-1">
                     To be added
                   </p>
                 </div>
@@ -46,7 +46,10 @@ export default function CertificatesSection() {
                 href={cert.fileHref}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="group block rounded-[24px] overflow-hidden border-2 border-[#0C0C0C]/10 hover:border-[#0C0C0C]/40 transition-colors duration-300"
+                className="group block rounded-[24px] overflow-hidden border-2 border-[#0C0C0C]/10 hover:border-[#B600A8]/50 transition-colors duration-300"
+                style={{ boxShadow: '0 0 0 rgba(182, 0, 168, 0)' }}
+                onMouseEnter={(e) => (e.currentTarget.style.boxShadow = '0 8px 30px rgba(182, 0, 168, 0.15)')}
+                onMouseLeave={(e) => (e.currentTarget.style.boxShadow = '0 0 0 rgba(182, 0, 168, 0)')}
               >
                 <div className="aspect-[4/3] overflow-hidden bg-[#0C0C0C]/5">
                   <img
@@ -60,7 +63,7 @@ export default function CertificatesSection() {
                   <p className="text-[#0C0C0C] font-medium text-sm sm:text-base">
                     {cert.title}
                   </p>
-                  <p className="text-[#0C0C0C]/50 text-xs sm:text-sm mt-1">
+                  <p className="text-[#0C0C0C]/60 text-xs sm:text-sm mt-1">
                     {cert.issuer} -- {cert.year}
                   </p>
                 </div>

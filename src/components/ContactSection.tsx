@@ -1,4 +1,4 @@
-import { Mail, Phone, Linkedin, MapPin } from 'lucide-react';
+import { Mail, Phone, Linkedin, Github, MapPin } from 'lucide-react';
 import FadeIn from './FadeIn';
 
 const CONTACT = {
@@ -6,6 +6,7 @@ const CONTACT = {
   phone: '+91 8209829046',
   phoneHref: '+918209829046',
   linkedin: 'https://www.linkedin.com/in/jatin-nama-a99949235',
+  github: 'https://github.com/jatin-debug04',
   location: 'Jaipur, Rajasthan',
 };
 
@@ -59,6 +60,16 @@ export default function ContactSection() {
           >
             <Linkedin size={18} strokeWidth={1.5} />
             LinkedIn
+          </a>
+
+          <a
+            href={CONTACT.github}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 rounded-full border-2 border-[#0C0C0C]/15 px-6 py-3 sm:px-8 sm:py-4 text-[#0C0C0C] uppercase tracking-wide text-xs sm:text-sm font-medium transition-colors duration-200 hover:bg-[#0C0C0C]/5"
+          >
+            <Github size={18} strokeWidth={1.5} />
+            GitHub
           </a>
 
           <div className="flex items-center gap-3 rounded-full border-2 border-[#0C0C0C]/15 px-6 py-3 sm:px-8 sm:py-4 text-[#0C0C0C] uppercase tracking-wide text-xs sm:text-sm font-medium">

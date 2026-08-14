@@ -12,7 +12,7 @@ export default function HeroSection() {
       <Navbar />
 
       {/* Heading */}
-      <div className="overflow-hidden mt-10 sm:mt-8 md:-mt-5">
+      <div className="overflow-hidden mt-24 sm:mt-24 md:mt-20 lg:mt-16">
         <FadeIn delay={0.15} y={40} as="div">
           <h1 className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-[14vw] sm:text-[14.5vw] md:text-[16vw] lg:text-[17.5vw]">
             Hi, i&apos;m jatin
@@ -48,7 +48,16 @@ export default function HeroSection() {
           </p>
         </FadeIn>
         <FadeIn delay={0.5} y={20}>
-          <ContactButton />
+          <div className="flex flex-col sm:flex-row items-center gap-4">
+            <a
+              href="/resume.pdf"
+              download
+              className="inline-flex items-center gap-2 rounded-full border-2 border-[#D7E2EA]/50 text-[#D7E2EA] px-8 py-3 sm:px-9 sm:py-3.5 md:px-10 md:py-4 text-xs sm:text-sm md:text-base font-medium uppercase tracking-widest transition-colors duration-200 hover:border-[#B600A8] hover:text-white"
+            >
+              Download Resume
+            </a>
+            <ContactButton />
+          </div>
         </FadeIn>
       </div>
     </section>

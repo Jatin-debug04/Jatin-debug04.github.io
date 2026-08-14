@@ -27,7 +27,12 @@ export default function DataProjectsSection() {
       <div className="max-w-5xl mx-auto flex flex-col gap-8 sm:gap-10">
         {dataProjects.map((project, i) => (
           <FadeIn key={project.number} delay={i * 0.1} y={30}>
-            <div className="relative rounded-[32px] sm:rounded-[40px] border-2 border-[#D7E2EA]/30 p-6 sm:p-8 md:p-10 overflow-hidden hover:border-[#D7E2EA] transition-colors duration-300">
+            <div
+              className="relative rounded-[32px] sm:rounded-[40px] border-2 border-[#D7E2EA]/30 p-6 sm:p-8 md:p-10 overflow-hidden hover:border-[#B600A8]/50 transition-colors duration-300"
+              style={{ boxShadow: '0 0 0 rgba(182, 0, 168, 0)' }}
+              onMouseEnter={(e) => (e.currentTarget.style.boxShadow = '0 12px 40px rgba(182, 0, 168, 0.12)')}
+              onMouseLeave={(e) => (e.currentTarget.style.boxShadow = '0 0 0 rgba(182, 0, 168, 0)')}
+            >
               <span
                 className="hero-heading font-black absolute -top-4 sm:-top-6 right-4 sm:right-6 opacity-15 pointer-events-none select-none"
                 style={{ fontSize: 'clamp(4rem, 10vw, 140px)' }}
