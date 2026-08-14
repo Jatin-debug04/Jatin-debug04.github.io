@@ -7,10 +7,13 @@ import CertificatesSection from './components/CertificatesSection';
 import AboutSection from './components/AboutSection';
 import ContactSection from './components/ContactSection';
 import Chatbot from './components/Chatbot';
+import ScrollProgress from './components/ScrollProgress';
+import BackToTop from './components/BackToTop';
 
 function App() {
   return (
     <>
+      <ScrollProgress />
       <div className="bg-[#0C0C0C]" style={{ overflowX: 'clip' }}>
         <HeroSection />
         <MarqueeSection />
@@ -21,6 +24,7 @@ function App() {
         <AboutSection />
         <ContactSection />
       </div>
+      <BackToTop />
       <Chatbot />
     </>
   );

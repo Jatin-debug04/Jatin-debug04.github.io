@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --ink: #0c0c0c;
+  --paper: #d7e2ea;
+  --accent-1: #b600a8;
+  --accent-2: #7621b0;
+  --accent-3: #be4c00;
+  --accent-gradient: linear-gradient(123deg, #18011f 7%, #b600a8 37%, #7621b0 72%, #be4c00 100%);
+}
+
 * {
   box-sizing: border-box;
 }
@@ -18,6 +27,35 @@ body,
 
 body {
   min-height: 100vh;
+}
+
+/* Keyboard accessibility: visible focus ring using the brand accent,
+   without adding a distracting outline for mouse users. */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #b600a8;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+/* Themed scrollbar so even the chrome around the page matches the brand */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0c0c0c;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a3a3a;
+  border-radius: 999px;
+  border: 2px solid #0c0c0c;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b600a8;
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #3a3a3a #0c0c0c;
 }
 
 .hero-heading {
