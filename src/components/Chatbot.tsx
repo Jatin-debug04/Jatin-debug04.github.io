@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Send, X } from 'lucide-react';
+import { FaWhatsapp } from 'react-icons/fa';
 
 // ⚠️ REPLACE THIS with your actual Gemini API key from https://aistudio.google.com/apikey
 const GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY_HERE';
@@ -268,6 +269,20 @@ const Chatbot: React.FC = () => {
   return (
     <>
       <style dangerouslySetInnerHTML={{ __html: chatbotStyles }} />
+             {/* Floating WhatsApp Button */}
+      <motion.a
+        href="https://wa.me/918209829046?text=Hi%20Jatin%2C%20I%20saw%20your%20portfolio%20and%20wanted%20to%20connect!"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Chat on WhatsApp"
+        initial={{ scale: 0, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        whileHover={{ scale: 1.1 }}
+        whileTap={{ scale: 0.9 }}
+        className="fixed bottom-6 right-24 z-50 flex items-center justify-center w-12 h-12 rounded-full bg-[#25D366] shadow-[0_0_15px_rgba(37,211,102,0.5)]"
+      >
+        <FaWhatsapp size={26} color="white" />
+      </motion.a>
 
       {/* Floating Robot Button */}
       <div className="fixed bottom-6 right-6 z-50">
