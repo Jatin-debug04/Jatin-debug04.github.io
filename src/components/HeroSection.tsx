@@ -12,7 +12,11 @@ export default function HeroSection() {
       <Navbar />
 
       {/* Heading */}
+<<<<<<< Updated upstream
       <div className="overflow-hidden mt-24 sm:mt-24 md:mt-20 lg:mt-16">
+=======
+      <div className="overflow-hidden mt-10 sm:mt-8 md:-mt-5">
+>>>>>>> Stashed changes
         <FadeIn delay={0.15} y={40} as="div">
           <h1 className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-[14vw] sm:text-[14.5vw] md:text-[16vw] lg:text-[17.5vw]">
             Hi, i&apos;m jatin
