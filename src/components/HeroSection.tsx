@@ -2,28 +2,20 @@ import FadeIn from './FadeIn';
 import Magnet from './Magnet';
 import ContactButton from './ContactButton';
 import Navbar from './Navbar';
-
 const PORTRAIT_URL =
   'https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png';
-
 export default function HeroSection() {
   return (
     <section className="relative flex flex-col overflow-x-clip md:h-screen">
       <Navbar />
-
       {/* Heading */}
-<<<<<<< Updated upstream
       <div className="overflow-hidden mt-24 sm:mt-24 md:mt-20 lg:mt-16">
-=======
-      <div className="overflow-hidden mt-10 sm:mt-8 md:-mt-5">
->>>>>>> Stashed changes
         <FadeIn delay={0.15} y={40} as="div">
           <h1 className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-[14vw] sm:text-[14.5vw] md:text-[16vw] lg:text-[17.5vw]">
             Hi, i&apos;m jatin
           </h1>
         </FadeIn>
       </div>
-
       {/* Hero Portrait
           Mobile/tablet (below md, matches Navbar's hamburger breakpoint): sits in normal
           document flow, centered, right below the heading.
@@ -40,7 +32,6 @@ export default function HeroSection() {
           <img src={PORTRAIT_URL} alt="Jatin portrait" className="w-full h-auto" loading="eager" />
         </FadeIn>
       </Magnet>
-
       {/* Bottom bar */}
       <div className="flex flex-col md:flex-row justify-between items-center md:items-end gap-5 md:gap-0 pb-10 md:pb-8 lg:pb-10 px-6 md:px-10 mt-10 md:mt-auto relative z-20 text-center md:text-left">
         <FadeIn delay={0.35} y={20}>
